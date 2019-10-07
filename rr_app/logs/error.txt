@@ -1,0 +1,1102 @@
+2017-04-28 10:49:32 - PHP Notice:  Undefined variable: subject_code in F:\xampp\htdocs\jinisms\student_marks_entry.php on line 99
+2017-04-28 10:50:04 - PHP Notice:  Undefined variable: subject_code in F:\xampp\htdocs\jinisms\student_marks_entry.php on line 99
+2017-04-28 10:50:22 - PHP Notice:  Undefined variable: subject_code in F:\xampp\htdocs\jinisms\student_marks_entry.php on line 99
+2017-04-28 10:51:35 - PHP Notice:  Undefined variable: subject_code in F:\xampp\htdocs\jinisms\student_marks_entry.php on line 99
+2017-04-28 10:51:51 - PHP Notice:  Undefined variable: subject_code in F:\xampp\htdocs\jinisms\student_marks_entry.php on line 99
+2017-04-28 11:04:43 - PHP Notice:  Undefined variable: course_name in F:\xampp\htdocs\jinisms\student_marks_entry.php on line 88
+2017-04-28 11:06:48 - PHP Notice:  Undefined index: exam_code in F:\xampp\htdocs\jinisms\student_marks_entry_ajax.php on line 7
+2017-04-28 11:07:01 - PHP Notice:  Undefined index: exam_code in F:\xampp\htdocs\jinisms\student_marks_entry_ajax.php on line 7
+2017-04-28 11:29:47 - PHP Notice:  Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE course_code = 'JNI08'' at line 1<br />Error No: 1064<br />SELECT subject_code FROM WHERE course_code = 'JNI08' in F:\xampp\htdocs\jinisms\database\mysqliz.php on line 50
+2017-04-28 11:29:51 - PHP Notice:  Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE course_code = 'JNI01'' at line 1<br />Error No: 1064<br />SELECT subject_code FROM WHERE course_code = 'JNI01' in F:\xampp\htdocs\jinisms\database\mysqliz.php on line 50
+2017-04-28 11:29:58 - PHP Notice:  Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE course_code = 'JNI01'' at line 1<br />Error No: 1064<br />SELECT subject_code FROM WHERE course_code = 'JNI01' in F:\xampp\htdocs\jinisms\database\mysqliz.php on line 50
+2017-04-28 11:30:45 - PHP Notice:  Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE course_code = 'JNI07'' at line 1<br />Error No: 1064<br />SELECT subject_code FROM WHERE course_code = 'JNI07' in F:\xampp\htdocs\jinisms\database\mysqliz.php on line 50
+2017-04-28 12:46:58 - PHP Notice:  Undefined index: exam_code in F:\xampp\htdocs\jinisms\student_marks_entry_ajax1.php on line 8
+2017-04-28 12:46:58 - PHP Notice:  Undefined index: course_code in F:\xampp\htdocs\jinisms\student_marks_entry_ajax1.php on line 9
+2017-04-28 12:47:59 - PHP Notice:  Undefined index: exam_code in F:\xampp\htdocs\jinisms\student_marks_entry_ajax1.php on line 8
+2017-04-28 12:47:59 - PHP Notice:  Undefined index: course_code in F:\xampp\htdocs\jinisms\student_marks_entry_ajax1.php on line 9
+2017-04-28 12:48:12 - PHP Notice:  Undefined index: exam_code in F:\xampp\htdocs\jinisms\student_marks_entry_ajax1.php on line 8
+2017-04-28 12:48:12 - PHP Notice:  Undefined index: course_code in F:\xampp\htdocs\jinisms\student_marks_entry_ajax1.php on line 9
+2017-04-28 12:48:17 - PHP Notice:  Undefined index: exam_code in F:\xampp\htdocs\jinisms\student_marks_entry_ajax1.php on line 8
+2017-04-28 12:48:17 - PHP Notice:  Undefined index: course_code in F:\xampp\htdocs\jinisms\student_marks_entry_ajax1.php on line 9
+2017-04-28 12:48:27 - PHP Notice:  Undefined index: exam_code in F:\xampp\htdocs\jinisms\student_marks_entry_ajax1.php on line 8
+2017-04-28 12:48:27 - PHP Notice:  Undefined index: course_code in F:\xampp\htdocs\jinisms\student_marks_entry_ajax1.php on line 9
+2017-04-28 12:48:28 - PHP Notice:  Undefined index: exam_code in F:\xampp\htdocs\jinisms\student_marks_entry_ajax1.php on line 8
+2017-04-28 12:48:28 - PHP Notice:  Undefined index: course_code in F:\xampp\htdocs\jinisms\student_marks_entry_ajax1.php on line 9
+2017-04-28 12:48:32 - PHP Notice:  Undefined index: exam_code in F:\xampp\htdocs\jinisms\student_marks_entry_ajax1.php on line 8
+2017-04-28 12:48:32 - PHP Notice:  Undefined index: course_code in F:\xampp\htdocs\jinisms\student_marks_entry_ajax1.php on line 9
+2017-04-28 12:48:35 - PHP Notice:  Undefined index: exam_code in F:\xampp\htdocs\jinisms\student_marks_entry_ajax1.php on line 8
+2017-04-28 12:48:35 - PHP Notice:  Undefined index: course_code in F:\xampp\htdocs\jinisms\student_marks_entry_ajax1.php on line 9
+2017-04-28 12:55:38 - PHP Notice:  Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' course_code = 'JNI01'AND subject_code = 'JINS01'' at line 1<br />Error No: 1064<br />SELECT total_mark FROM total_mark_of_subject WHERE exam_code = 'JEX01', course_code = 'JNI01'AND subject_code = 'JINS01' in F:\xampp\htdocs\jinisms\database\mysqliz.php on line 50
+2017-04-28 12:55:44 - PHP Notice:  Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' course_code = 'JNI01'AND subject_code = 'JINS02'' at line 1<br />Error No: 1064<br />SELECT total_mark FROM total_mark_of_subject WHERE exam_code = 'JEX01', course_code = 'JNI01'AND subject_code = 'JINS02' in F:\xampp\htdocs\jinisms\database\mysqliz.php on line 50
+2017-04-28 12:56:52 - PHP Notice:  Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' course_code = 'JNI01' AND subject_code = 'JINS01'' at line 1<br />Error No: 1064<br />SELECT total_mark FROM total_mark_of_subject WHERE exam_code = 'JEX01' , course_code = 'JNI01' AND subject_code = 'JINS01' in F:\xampp\htdocs\jinisms\database\mysqliz.php on line 50
+2017-04-28 12:57:22 - PHP Warning:  Invalid argument supplied for foreach() in F:\xampp\htdocs\jinisms\student_marks_entry_ajax1.php on line 23
+2017-04-28 12:57:56 - PHP Warning:  Invalid argument supplied for foreach() in F:\xampp\htdocs\jinisms\student_marks_entry_ajax1.php on line 23
+2017-04-28 12:59:43 - PHP Notice:  Use of undefined constant course_code - assumed 'course_code' in F:\xampp\htdocs\jinisms\student_marks_entry_ajax1.php on line 18
+2017-04-28 12:59:43 - PHP Notice:  Use of undefined constant subject_code - assumed 'subject_code' in F:\xampp\htdocs\jinisms\student_marks_entry_ajax1.php on line 18
+2017-04-28 12:59:43 - PHP Notice:  Use of undefined constant exam_code - assumed 'exam_code' in F:\xampp\htdocs\jinisms\student_marks_entry_ajax1.php on line 18
+2017-04-28 12:59:50 - PHP Notice:  Use of undefined constant course_code - assumed 'course_code' in F:\xampp\htdocs\jinisms\student_marks_entry_ajax1.php on line 18
+2017-04-28 12:59:50 - PHP Notice:  Use of undefined constant subject_code - assumed 'subject_code' in F:\xampp\htdocs\jinisms\student_marks_entry_ajax1.php on line 18
+2017-04-28 12:59:50 - PHP Notice:  Use of undefined constant exam_code - assumed 'exam_code' in F:\xampp\htdocs\jinisms\student_marks_entry_ajax1.php on line 18
+2017-04-28 13:30:11 - PHP Notice:  Error: Unknown column 's.course_id' in 'on clause'<br />Error No: 1054<br />SELECT COUNT(*) AS total FROM student AS s LEFT JOIN course AS c ON (s.course_id = c.course_id) WHERE 1  in F:\xampp\htdocs\jinisms\database\mysqliz.php on line 50
+2017-04-28 13:37:02 - PHP Notice:  Error: Unknown column 's.course_id' in 'on clause'<br />Error No: 1054<br />SELECT COUNT(*) AS total FROM student AS s LEFT JOIN course AS c ON (s.course_id = c.course_id) WHERE 1  in F:\xampp\htdocs\jinisms\database\mysqliz.php on line 50
+2017-04-28 13:37:50 - PHP Notice:  Error: Unknown column 's.student_code' in 'field list'<br />Error No: 1054<br />SELECT s.student_code, s.registration_no, CONCAT(s.first_name,' ',s.middle_name,' ',s.last_name) AS full_name, s.father_name,s.contact_no, s.dob, s.course_id, s.status , c.course_name FROM student AS s LEFT JOIN course AS c ON (s.course_code = c.course_code) WHERE 1  ORDER BY s.registration_no ASC LIMIT 0,5 in F:\xampp\htdocs\jinisms\database\mysqliz.php on line 50
+2017-04-28 13:38:38 - PHP Notice:  Error: Unknown column 's.student_code' in 'field list'<br />Error No: 1054<br />SELECT s.student_code, s.registration_no, CONCAT(s.first_name,' ',s.middle_name,' ',s.last_name) AS full_name, s.father_name,s.contact_no, s.dob, s.course_code, s.status , c.course_name FROM student AS s LEFT JOIN course AS c ON (s.course_code = c.course_code) WHERE 1  ORDER BY s.registration_no ASC LIMIT 0,5 in F:\xampp\htdocs\jinisms\database\mysqliz.php on line 50
+2017-04-28 13:40:12 - PHP Notice:  Undefined index: student_id in F:\xampp\htdocs\jinisms\student_list.php on line 139
+2017-04-28 13:40:12 - PHP Notice:  Undefined index: student_id in F:\xampp\htdocs\jinisms\student_list.php on line 146
+2017-04-28 13:40:12 - PHP Notice:  Undefined index: student_id in F:\xampp\htdocs\jinisms\student_list.php on line 154
+2017-04-28 13:40:12 - PHP Notice:  Undefined index: student_id in F:\xampp\htdocs\jinisms\student_list.php on line 155
+2017-04-28 13:40:12 - PHP Notice:  Undefined index: student_id in F:\xampp\htdocs\jinisms\student_list.php on line 156
+2017-04-28 13:40:12 - PHP Notice:  Undefined index: student_id in F:\xampp\htdocs\jinisms\student_list.php on line 139
+2017-04-28 13:40:12 - PHP Notice:  Undefined index: student_id in F:\xampp\htdocs\jinisms\student_list.php on line 146
+2017-04-28 13:40:12 - PHP Notice:  Undefined index: student_id in F:\xampp\htdocs\jinisms\student_list.php on line 154
+2017-04-28 13:40:12 - PHP Notice:  Undefined index: student_id in F:\xampp\htdocs\jinisms\student_list.php on line 155
+2017-04-28 13:40:12 - PHP Notice:  Undefined index: student_id in F:\xampp\htdocs\jinisms\student_list.php on line 156
+2017-04-28 13:40:12 - PHP Notice:  Undefined index: student_id in F:\xampp\htdocs\jinisms\student_list.php on line 139
+2017-04-28 13:40:12 - PHP Notice:  Undefined index: student_id in F:\xampp\htdocs\jinisms\student_list.php on line 146
+2017-04-28 13:40:12 - PHP Notice:  Undefined index: student_id in F:\xampp\htdocs\jinisms\student_list.php on line 154
+2017-04-28 13:40:12 - PHP Notice:  Undefined index: student_id in F:\xampp\htdocs\jinisms\student_list.php on line 155
+2017-04-28 13:40:12 - PHP Notice:  Undefined index: student_id in F:\xampp\htdocs\jinisms\student_list.php on line 156
+2017-04-28 13:40:12 - PHP Notice:  Undefined index: student_id in F:\xampp\htdocs\jinisms\student_list.php on line 139
+2017-04-28 13:40:12 - PHP Notice:  Undefined index: student_id in F:\xampp\htdocs\jinisms\student_list.php on line 146
+2017-04-28 13:40:12 - PHP Notice:  Undefined index: student_id in F:\xampp\htdocs\jinisms\student_list.php on line 154
+2017-04-28 13:40:12 - PHP Notice:  Undefined index: student_id in F:\xampp\htdocs\jinisms\student_list.php on line 155
+2017-04-28 13:40:12 - PHP Notice:  Undefined index: student_id in F:\xampp\htdocs\jinisms\student_list.php on line 156
+2017-04-28 13:40:12 - PHP Notice:  Undefined index: student_id in F:\xampp\htdocs\jinisms\student_list.php on line 139
+2017-04-28 13:40:12 - PHP Notice:  Undefined index: student_id in F:\xampp\htdocs\jinisms\student_list.php on line 146
+2017-04-28 13:40:12 - PHP Notice:  Undefined index: student_id in F:\xampp\htdocs\jinisms\student_list.php on line 154
+2017-04-28 13:40:12 - PHP Notice:  Undefined index: student_id in F:\xampp\htdocs\jinisms\student_list.php on line 155
+2017-04-28 13:40:12 - PHP Notice:  Undefined index: student_id in F:\xampp\htdocs\jinisms\student_list.php on line 156
+2017-04-28 13:41:18 - PHP Notice:  Undefined index: studen in F:\xampp\htdocs\jinisms\student_list.php on line 154
+2017-04-28 13:41:18 - PHP Notice:  Undefined index: studen in F:\xampp\htdocs\jinisms\student_list.php on line 154
+2017-04-28 13:41:18 - PHP Notice:  Undefined index: studen in F:\xampp\htdocs\jinisms\student_list.php on line 154
+2017-04-28 13:41:18 - PHP Notice:  Undefined index: studen in F:\xampp\htdocs\jinisms\student_list.php on line 154
+2017-04-28 13:41:18 - PHP Notice:  Undefined index: studen in F:\xampp\htdocs\jinisms\student_list.php on line 154
+2017-04-28 13:41:57 - PHP Notice:  Undefined index: studen in F:\xampp\htdocs\jinisms\student_list.php on line 154
+2017-04-28 13:41:57 - PHP Notice:  Undefined index: studen in F:\xampp\htdocs\jinisms\student_list.php on line 154
+2017-04-28 13:41:57 - PHP Notice:  Undefined index: studen in F:\xampp\htdocs\jinisms\student_list.php on line 154
+2017-04-28 13:41:57 - PHP Notice:  Undefined index: studen in F:\xampp\htdocs\jinisms\student_list.php on line 154
+2017-04-28 13:41:57 - PHP Notice:  Undefined index: studen in F:\xampp\htdocs\jinisms\student_list.php on line 154
+2017-04-28 13:48:55 - PHP Notice:  Undefined index: studen in F:\xampp\htdocs\jinisms\student_list.php on line 154
+2017-04-28 13:48:55 - PHP Notice:  Undefined index: studen in F:\xampp\htdocs\jinisms\student_list.php on line 154
+2017-04-28 13:48:55 - PHP Notice:  Undefined index: studen in F:\xampp\htdocs\jinisms\student_list.php on line 154
+2017-04-28 13:48:55 - PHP Notice:  Undefined index: studen in F:\xampp\htdocs\jinisms\student_list.php on line 154
+2017-04-28 13:48:55 - PHP Notice:  Undefined index: studen in F:\xampp\htdocs\jinisms\student_list.php on line 154
+2017-04-28 13:48:56 - PHP Notice:  Undefined index: studen in F:\xampp\htdocs\jinisms\student_list.php on line 154
+2017-04-28 13:48:56 - PHP Notice:  Undefined index: studen in F:\xampp\htdocs\jinisms\student_list.php on line 154
+2017-04-28 13:48:56 - PHP Notice:  Undefined index: studen in F:\xampp\htdocs\jinisms\student_list.php on line 154
+2017-04-28 13:48:56 - PHP Notice:  Undefined index: studen in F:\xampp\htdocs\jinisms\student_list.php on line 154
+2017-04-28 13:48:56 - PHP Notice:  Undefined index: studen in F:\xampp\htdocs\jinisms\student_list.php on line 154
+2017-04-28 13:52:31 - PHP Notice:  Undefined index: studen in F:\xampp\htdocs\jinisms\student_list.php on line 154
+2017-04-28 13:52:31 - PHP Notice:  Undefined index: studen in F:\xampp\htdocs\jinisms\student_list.php on line 154
+2017-04-28 13:52:31 - PHP Notice:  Undefined index: studen in F:\xampp\htdocs\jinisms\student_list.php on line 154
+2017-04-28 13:52:31 - PHP Notice:  Undefined index: studen in F:\xampp\htdocs\jinisms\student_list.php on line 154
+2017-04-28 13:52:31 - PHP Notice:  Undefined index: studen in F:\xampp\htdocs\jinisms\student_list.php on line 154
+2017-04-28 14:21:06 - PHP Notice:  Undefined index: studen in F:\xampp\htdocs\jinisms\student_list.php on line 154
+2017-04-28 14:21:06 - PHP Notice:  Undefined index: studen in F:\xampp\htdocs\jinisms\student_list.php on line 154
+2017-04-28 14:21:06 - PHP Notice:  Undefined index: studen in F:\xampp\htdocs\jinisms\student_list.php on line 154
+2017-04-28 14:21:06 - PHP Notice:  Undefined index: studen in F:\xampp\htdocs\jinisms\student_list.php on line 154
+2017-04-28 14:21:06 - PHP Notice:  Undefined index: studen in F:\xampp\htdocs\jinisms\student_list.php on line 154
+2017-04-28 14:21:12 - PHP Notice:  Error: Unknown column 's.course_id' in 'on clause'<br />Error No: 1054<br />SELECT s.*,sc.name,ct.cota_name ,c.course_name, sa.mailing_address, sa.m_town_village, sa.m_city, sa.m_pin, sa.m_state, sa.permanent_address, sa.p_town_village,
+         sa.p_city, sa.p_pin, sa.p_state FROM student AS s
+		 LEFT JOIN student_address AS sa ON (s.student_id = sa.student_id)
+		 LEFT JOIN cota AS ct ON (s.cota_id = ct.cota_id)
+		 LEFT JOIN course AS c ON (s.course_id = c.course_id)
+		  LEFT JOIN section AS sc ON (s.section_id = sc.section_id)WHERE s.student_id = '0' in F:\xampp\htdocs\jinisms\database\mysqliz.php on line 50
+2017-04-28 14:22:53 - PHP Notice:  Error: Unknown column 's.course_id' in 'on clause'<br />Error No: 1054<br />SELECT s.*,sc.name,ct.cota_name ,c.course_name, sa.mailing_address, sa.m_town_village, sa.m_city, sa.m_pin, sa.m_state, sa.permanent_address, sa.p_town_village,
+         sa.p_city, sa.p_pin, sa.p_state FROM student AS s
+		 LEFT JOIN student_address AS sa ON (s.student_id = sa.student_id)
+		 LEFT JOIN cota AS ct ON (s.cota_id = ct.cota_id)
+		 LEFT JOIN course AS c ON (s.course_id = c.course_id)
+		  LEFT JOIN section AS sc ON (s.section_id = sc.section_id)WHERE s.student_id = '0' in F:\xampp\htdocs\jinisms\database\mysqliz.php on line 50
+2017-04-28 14:24:29 - PHP Notice:  Undefined index: registration_no in F:\xampp\htdocs\jinisms\student_update.php on line 37
+2017-04-28 14:24:29 - PHP Notice:  Undefined index: student_id in F:\xampp\htdocs\jinisms\student_update.php on line 38
+2017-04-28 14:24:29 - PHP Notice:  Undefined index: first_name in F:\xampp\htdocs\jinisms\student_update.php on line 39
+2017-04-28 14:24:29 - PHP Notice:  Undefined index: middle_name in F:\xampp\htdocs\jinisms\student_update.php on line 40
+2017-04-28 14:24:29 - PHP Notice:  Undefined index: last_name in F:\xampp\htdocs\jinisms\student_update.php on line 41
+2017-04-28 14:24:29 - PHP Notice:  Undefined index: father_name in F:\xampp\htdocs\jinisms\student_update.php on line 42
+2017-04-28 14:24:29 - PHP Notice:  Undefined index: mother_name in F:\xampp\htdocs\jinisms\student_update.php on line 43
+2017-04-28 14:24:29 - PHP Notice:  Undefined index: occupation in F:\xampp\htdocs\jinisms\student_update.php on line 44
+2017-04-28 14:24:29 - PHP Notice:  Undefined index: section_id in F:\xampp\htdocs\jinisms\student_update.php on line 45
+2017-04-28 14:24:29 - PHP Notice:  Undefined index: cota_id in F:\xampp\htdocs\jinisms\student_update.php on line 46
+2017-04-28 14:24:29 - PHP Notice:  Undefined index: dob in F:\xampp\htdocs\jinisms\student_update.php on line 48
+2017-04-28 14:24:29 - PHP Notice:  Undefined index: admission_date in F:\xampp\htdocs\jinisms\student_update.php on line 56
+2017-04-28 14:24:29 - PHP Notice:  Undefined index: email in F:\xampp\htdocs\jinisms\student_update.php on line 64
+2017-04-28 14:24:29 - PHP Notice:  Undefined index: contact_no in F:\xampp\htdocs\jinisms\student_update.php on line 65
+2017-04-28 14:24:29 - PHP Notice:  Undefined index: blood_group in F:\xampp\htdocs\jinisms\student_update.php on line 66
+2017-04-28 14:24:29 - PHP Notice:  Undefined index: category in F:\xampp\htdocs\jinisms\student_update.php on line 67
+2017-04-28 14:24:29 - PHP Notice:  Undefined index: gender in F:\xampp\htdocs\jinisms\student_update.php on line 68
+2017-04-28 14:24:29 - PHP Notice:  Undefined index: aadhaar_no in F:\xampp\htdocs\jinisms\student_update.php on line 69
+2017-04-28 14:24:29 - PHP Notice:  Undefined index: course_code in F:\xampp\htdocs\jinisms\student_update.php on line 70
+2017-04-28 14:24:29 - PHP Notice:  Undefined index: mailing_address in F:\xampp\htdocs\jinisms\student_update.php on line 71
+2017-04-28 14:24:29 - PHP Notice:  Undefined index: m_pin in F:\xampp\htdocs\jinisms\student_update.php on line 72
+2017-04-28 14:24:29 - PHP Notice:  Undefined index: m_state in F:\xampp\htdocs\jinisms\student_update.php on line 73
+2017-04-28 14:24:29 - PHP Notice:  Undefined index: m_town_village in F:\xampp\htdocs\jinisms\student_update.php on line 74
+2017-04-28 14:24:29 - PHP Notice:  Undefined index: m_city in F:\xampp\htdocs\jinisms\student_update.php on line 75
+2017-04-28 14:24:29 - PHP Notice:  Undefined index: permanent_address in F:\xampp\htdocs\jinisms\student_update.php on line 76
+2017-04-28 14:24:29 - PHP Notice:  Undefined index: p_city in F:\xampp\htdocs\jinisms\student_update.php on line 77
+2017-04-28 14:24:29 - PHP Notice:  Undefined index: p_pin in F:\xampp\htdocs\jinisms\student_update.php on line 78
+2017-04-28 14:24:29 - PHP Notice:  Undefined index: p_state in F:\xampp\htdocs\jinisms\student_update.php on line 79
+2017-04-28 14:24:29 - PHP Notice:  Undefined index: p_town_village in F:\xampp\htdocs\jinisms\student_update.php on line 80
+2017-04-28 14:24:29 - PHP Notice:  Undefined index: status in F:\xampp\htdocs\jinisms\student_update.php on line 81
+2017-04-28 14:24:29 - PHP Notice:  Undefined index: studen in F:\xampp\htdocs\jinisms\student_list.php on line 154
+2017-04-28 14:24:29 - PHP Notice:  Undefined index: studen in F:\xampp\htdocs\jinisms\student_list.php on line 154
+2017-04-28 14:24:29 - PHP Notice:  Undefined index: studen in F:\xampp\htdocs\jinisms\student_list.php on line 154
+2017-04-28 14:24:29 - PHP Notice:  Undefined index: studen in F:\xampp\htdocs\jinisms\student_list.php on line 154
+2017-04-28 14:24:29 - PHP Notice:  Undefined index: studen in F:\xampp\htdocs\jinisms\student_list.php on line 154
+2017-04-28 14:24:34 - PHP Notice:  Undefined index: registration_no in F:\xampp\htdocs\jinisms\student_update.php on line 37
+2017-04-28 14:24:34 - PHP Notice:  Undefined index: student_id in F:\xampp\htdocs\jinisms\student_update.php on line 38
+2017-04-28 14:24:34 - PHP Notice:  Undefined index: first_name in F:\xampp\htdocs\jinisms\student_update.php on line 39
+2017-04-28 14:24:34 - PHP Notice:  Undefined index: middle_name in F:\xampp\htdocs\jinisms\student_update.php on line 40
+2017-04-28 14:24:34 - PHP Notice:  Undefined index: last_name in F:\xampp\htdocs\jinisms\student_update.php on line 41
+2017-04-28 14:24:34 - PHP Notice:  Undefined index: father_name in F:\xampp\htdocs\jinisms\student_update.php on line 42
+2017-04-28 14:24:34 - PHP Notice:  Undefined index: mother_name in F:\xampp\htdocs\jinisms\student_update.php on line 43
+2017-04-28 14:24:34 - PHP Notice:  Undefined index: occupation in F:\xampp\htdocs\jinisms\student_update.php on line 44
+2017-04-28 14:24:34 - PHP Notice:  Undefined index: section_id in F:\xampp\htdocs\jinisms\student_update.php on line 45
+2017-04-28 14:24:34 - PHP Notice:  Undefined index: cota_id in F:\xampp\htdocs\jinisms\student_update.php on line 46
+2017-04-28 14:24:34 - PHP Notice:  Undefined index: dob in F:\xampp\htdocs\jinisms\student_update.php on line 48
+2017-04-28 14:24:34 - PHP Notice:  Undefined index: admission_date in F:\xampp\htdocs\jinisms\student_update.php on line 56
+2017-04-28 14:24:34 - PHP Notice:  Undefined index: email in F:\xampp\htdocs\jinisms\student_update.php on line 64
+2017-04-28 14:24:34 - PHP Notice:  Undefined index: contact_no in F:\xampp\htdocs\jinisms\student_update.php on line 65
+2017-04-28 14:24:34 - PHP Notice:  Undefined index: blood_group in F:\xampp\htdocs\jinisms\student_update.php on line 66
+2017-04-28 14:24:34 - PHP Notice:  Undefined index: category in F:\xampp\htdocs\jinisms\student_update.php on line 67
+2017-04-28 14:24:34 - PHP Notice:  Undefined index: gender in F:\xampp\htdocs\jinisms\student_update.php on line 68
+2017-04-28 14:24:34 - PHP Notice:  Undefined index: aadhaar_no in F:\xampp\htdocs\jinisms\student_update.php on line 69
+2017-04-28 14:24:34 - PHP Notice:  Undefined index: course_code in F:\xampp\htdocs\jinisms\student_update.php on line 70
+2017-04-28 14:24:34 - PHP Notice:  Undefined index: mailing_address in F:\xampp\htdocs\jinisms\student_update.php on line 71
+2017-04-28 14:24:34 - PHP Notice:  Undefined index: m_pin in F:\xampp\htdocs\jinisms\student_update.php on line 72
+2017-04-28 14:24:34 - PHP Notice:  Undefined index: m_state in F:\xampp\htdocs\jinisms\student_update.php on line 73
+2017-04-28 14:24:34 - PHP Notice:  Undefined index: m_town_village in F:\xampp\htdocs\jinisms\student_update.php on line 74
+2017-04-28 14:24:34 - PHP Notice:  Undefined index: m_city in F:\xampp\htdocs\jinisms\student_update.php on line 75
+2017-04-28 14:24:34 - PHP Notice:  Undefined index: permanent_address in F:\xampp\htdocs\jinisms\student_update.php on line 76
+2017-04-28 14:24:34 - PHP Notice:  Undefined index: p_city in F:\xampp\htdocs\jinisms\student_update.php on line 77
+2017-04-28 14:24:34 - PHP Notice:  Undefined index: p_pin in F:\xampp\htdocs\jinisms\student_update.php on line 78
+2017-04-28 14:24:34 - PHP Notice:  Undefined index: p_state in F:\xampp\htdocs\jinisms\student_update.php on line 79
+2017-04-28 14:24:34 - PHP Notice:  Undefined index: p_town_village in F:\xampp\htdocs\jinisms\student_update.php on line 80
+2017-04-28 14:24:34 - PHP Notice:  Undefined index: status in F:\xampp\htdocs\jinisms\student_update.php on line 81
+2017-04-28 14:24:34 - PHP Notice:  Undefined index: studen in F:\xampp\htdocs\jinisms\student_list.php on line 154
+2017-04-28 14:24:34 - PHP Notice:  Undefined index: studen in F:\xampp\htdocs\jinisms\student_list.php on line 154
+2017-04-28 14:24:34 - PHP Notice:  Undefined index: studen in F:\xampp\htdocs\jinisms\student_list.php on line 154
+2017-04-28 14:24:34 - PHP Notice:  Undefined index: studen in F:\xampp\htdocs\jinisms\student_list.php on line 154
+2017-04-28 14:24:34 - PHP Notice:  Undefined index: studen in F:\xampp\htdocs\jinisms\student_list.php on line 154
+2017-04-28 14:24:57 - PHP Notice:  Undefined index: studen in F:\xampp\htdocs\jinisms\student_list.php on line 154
+2017-04-28 14:24:57 - PHP Notice:  Undefined index: studen in F:\xampp\htdocs\jinisms\student_list.php on line 154
+2017-04-28 14:24:57 - PHP Notice:  Undefined index: studen in F:\xampp\htdocs\jinisms\student_list.php on line 154
+2017-04-28 14:24:57 - PHP Notice:  Undefined index: studen in F:\xampp\htdocs\jinisms\student_list.php on line 154
+2017-04-28 14:24:57 - PHP Notice:  Undefined index: studen in F:\xampp\htdocs\jinisms\student_list.php on line 154
+2017-04-28 14:24:58 - PHP Notice:  Undefined index: registration_no in F:\xampp\htdocs\jinisms\student_update.php on line 37
+2017-04-28 14:24:58 - PHP Notice:  Undefined index: student_id in F:\xampp\htdocs\jinisms\student_update.php on line 38
+2017-04-28 14:24:58 - PHP Notice:  Undefined index: first_name in F:\xampp\htdocs\jinisms\student_update.php on line 39
+2017-04-28 14:24:58 - PHP Notice:  Undefined index: middle_name in F:\xampp\htdocs\jinisms\student_update.php on line 40
+2017-04-28 14:24:58 - PHP Notice:  Undefined index: last_name in F:\xampp\htdocs\jinisms\student_update.php on line 41
+2017-04-28 14:24:58 - PHP Notice:  Undefined index: father_name in F:\xampp\htdocs\jinisms\student_update.php on line 42
+2017-04-28 14:24:58 - PHP Notice:  Undefined index: mother_name in F:\xampp\htdocs\jinisms\student_update.php on line 43
+2017-04-28 14:24:58 - PHP Notice:  Undefined index: occupation in F:\xampp\htdocs\jinisms\student_update.php on line 44
+2017-04-28 14:24:58 - PHP Notice:  Undefined index: section_id in F:\xampp\htdocs\jinisms\student_update.php on line 45
+2017-04-28 14:24:58 - PHP Notice:  Undefined index: cota_id in F:\xampp\htdocs\jinisms\student_update.php on line 46
+2017-04-28 14:24:58 - PHP Notice:  Undefined index: dob in F:\xampp\htdocs\jinisms\student_update.php on line 48
+2017-04-28 14:24:58 - PHP Notice:  Undefined index: admission_date in F:\xampp\htdocs\jinisms\student_update.php on line 56
+2017-04-28 14:24:58 - PHP Notice:  Undefined index: email in F:\xampp\htdocs\jinisms\student_update.php on line 64
+2017-04-28 14:24:58 - PHP Notice:  Undefined index: contact_no in F:\xampp\htdocs\jinisms\student_update.php on line 65
+2017-04-28 14:24:58 - PHP Notice:  Undefined index: blood_group in F:\xampp\htdocs\jinisms\student_update.php on line 66
+2017-04-28 14:24:58 - PHP Notice:  Undefined index: category in F:\xampp\htdocs\jinisms\student_update.php on line 67
+2017-04-28 14:24:58 - PHP Notice:  Undefined index: gender in F:\xampp\htdocs\jinisms\student_update.php on line 68
+2017-04-28 14:24:58 - PHP Notice:  Undefined index: aadhaar_no in F:\xampp\htdocs\jinisms\student_update.php on line 69
+2017-04-28 14:24:58 - PHP Notice:  Undefined index: course_code in F:\xampp\htdocs\jinisms\student_update.php on line 70
+2017-04-28 14:24:58 - PHP Notice:  Undefined index: mailing_address in F:\xampp\htdocs\jinisms\student_update.php on line 71
+2017-04-28 14:24:58 - PHP Notice:  Undefined index: m_pin in F:\xampp\htdocs\jinisms\student_update.php on line 72
+2017-04-28 14:24:58 - PHP Notice:  Undefined index: m_state in F:\xampp\htdocs\jinisms\student_update.php on line 73
+2017-04-28 14:24:58 - PHP Notice:  Undefined index: m_town_village in F:\xampp\htdocs\jinisms\student_update.php on line 74
+2017-04-28 14:24:58 - PHP Notice:  Undefined index: m_city in F:\xampp\htdocs\jinisms\student_update.php on line 75
+2017-04-28 14:24:58 - PHP Notice:  Undefined index: permanent_address in F:\xampp\htdocs\jinisms\student_update.php on line 76
+2017-04-28 14:24:58 - PHP Notice:  Undefined index: p_city in F:\xampp\htdocs\jinisms\student_update.php on line 77
+2017-04-28 14:24:58 - PHP Notice:  Undefined index: p_pin in F:\xampp\htdocs\jinisms\student_update.php on line 78
+2017-04-28 14:24:58 - PHP Notice:  Undefined index: p_state in F:\xampp\htdocs\jinisms\student_update.php on line 79
+2017-04-28 14:24:58 - PHP Notice:  Undefined index: p_town_village in F:\xampp\htdocs\jinisms\student_update.php on line 80
+2017-04-28 14:24:58 - PHP Notice:  Undefined index: status in F:\xampp\htdocs\jinisms\student_update.php on line 81
+2017-04-28 14:25:36 - PHP Notice:  Undefined index: registration_no in F:\xampp\htdocs\jinisms\student_update.php on line 40
+2017-04-28 14:25:36 - PHP Notice:  Undefined index: student_id in F:\xampp\htdocs\jinisms\student_update.php on line 41
+2017-04-28 14:25:36 - PHP Notice:  Undefined index: first_name in F:\xampp\htdocs\jinisms\student_update.php on line 42
+2017-04-28 14:25:36 - PHP Notice:  Undefined index: middle_name in F:\xampp\htdocs\jinisms\student_update.php on line 43
+2017-04-28 14:25:36 - PHP Notice:  Undefined index: last_name in F:\xampp\htdocs\jinisms\student_update.php on line 44
+2017-04-28 14:25:36 - PHP Notice:  Undefined index: father_name in F:\xampp\htdocs\jinisms\student_update.php on line 45
+2017-04-28 14:25:36 - PHP Notice:  Undefined index: mother_name in F:\xampp\htdocs\jinisms\student_update.php on line 46
+2017-04-28 14:25:36 - PHP Notice:  Undefined index: occupation in F:\xampp\htdocs\jinisms\student_update.php on line 47
+2017-04-28 14:25:36 - PHP Notice:  Undefined index: section_id in F:\xampp\htdocs\jinisms\student_update.php on line 48
+2017-04-28 14:25:36 - PHP Notice:  Undefined index: cota_id in F:\xampp\htdocs\jinisms\student_update.php on line 49
+2017-04-28 14:25:36 - PHP Notice:  Undefined index: dob in F:\xampp\htdocs\jinisms\student_update.php on line 51
+2017-04-28 14:25:36 - PHP Notice:  Undefined index: admission_date in F:\xampp\htdocs\jinisms\student_update.php on line 59
+2017-04-28 14:25:36 - PHP Notice:  Undefined index: email in F:\xampp\htdocs\jinisms\student_update.php on line 67
+2017-04-28 14:25:36 - PHP Notice:  Undefined index: contact_no in F:\xampp\htdocs\jinisms\student_update.php on line 68
+2017-04-28 14:25:36 - PHP Notice:  Undefined index: blood_group in F:\xampp\htdocs\jinisms\student_update.php on line 69
+2017-04-28 14:25:36 - PHP Notice:  Undefined index: category in F:\xampp\htdocs\jinisms\student_update.php on line 70
+2017-04-28 14:25:36 - PHP Notice:  Undefined index: gender in F:\xampp\htdocs\jinisms\student_update.php on line 71
+2017-04-28 14:25:36 - PHP Notice:  Undefined index: aadhaar_no in F:\xampp\htdocs\jinisms\student_update.php on line 72
+2017-04-28 14:25:36 - PHP Notice:  Undefined index: course_code in F:\xampp\htdocs\jinisms\student_update.php on line 73
+2017-04-28 14:25:36 - PHP Notice:  Undefined index: mailing_address in F:\xampp\htdocs\jinisms\student_update.php on line 74
+2017-04-28 14:25:36 - PHP Notice:  Undefined index: m_pin in F:\xampp\htdocs\jinisms\student_update.php on line 75
+2017-04-28 14:25:36 - PHP Notice:  Undefined index: m_state in F:\xampp\htdocs\jinisms\student_update.php on line 76
+2017-04-28 14:25:36 - PHP Notice:  Undefined index: m_town_village in F:\xampp\htdocs\jinisms\student_update.php on line 77
+2017-04-28 14:25:36 - PHP Notice:  Undefined index: m_city in F:\xampp\htdocs\jinisms\student_update.php on line 78
+2017-04-28 14:25:36 - PHP Notice:  Undefined index: permanent_address in F:\xampp\htdocs\jinisms\student_update.php on line 79
+2017-04-28 14:25:36 - PHP Notice:  Undefined index: p_city in F:\xampp\htdocs\jinisms\student_update.php on line 80
+2017-04-28 14:25:36 - PHP Notice:  Undefined index: p_pin in F:\xampp\htdocs\jinisms\student_update.php on line 81
+2017-04-28 14:25:36 - PHP Notice:  Undefined index: p_state in F:\xampp\htdocs\jinisms\student_update.php on line 82
+2017-04-28 14:25:36 - PHP Notice:  Undefined index: p_town_village in F:\xampp\htdocs\jinisms\student_update.php on line 83
+2017-04-28 14:25:36 - PHP Notice:  Undefined index: status in F:\xampp\htdocs\jinisms\student_update.php on line 84
+2017-04-28 14:25:51 - PHP Notice:  Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ELECT s.*,sc.name,ct.cota_name ,c.course_name, c.course_code, sa.mailing_address' at line 1<br />Error No: 1064<br />ELECT s.*,sc.name,ct.cota_name ,c.course_name, c.course_code, sa.mailing_address, sa.m_town_village, sa.m_city, sa.m_pin, sa.m_state, sa.permanent_address, sa.p_town_village,
+         sa.p_city, sa.p_pin, sa.p_state FROM student AS s LEFT JOIN student_address AS sa ON (s.student_id = sa.student_id)
+		 LEFT JOIN cota AS ct ON (s.cota_id = ct.cota_id)
+		 LEFT JOIN course AS c ON (s.course_code = c.course_code)
+		  LEFT JOIN section AS sc ON (s.section_id = sc.section_id)WHERE s.student_id = '0' in F:\xampp\htdocs\jinisms\database\mysqliz.php on line 50
+2017-04-28 14:32:07 - PHP Notice:  Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ELECT s.*,sc.name,ct.cota_name ,c.course_name, c.course_code, sa.mailing_address' at line 1<br />Error No: 1064<br />ELECT s.*,sc.name,ct.cota_name ,c.course_name, c.course_code, sa.mailing_address, sa.m_town_village, sa.m_city, sa.m_pin, sa.m_state, sa.permanent_address, sa.p_town_village,
+         sa.p_city, sa.p_pin, sa.p_state FROM student AS s LEFT JOIN student_address AS sa ON (s.student_id = sa.student_id)
+		 LEFT JOIN cota AS ct ON (s.cota_id = ct.cota_id)
+		 LEFT JOIN course AS c ON (s.course_code = c.course_code)
+		  LEFT JOIN section AS sc ON (s.section_id = sc.section_id)WHERE s.student_id = '0' in F:\xampp\htdocs\jinisms\database\mysqliz.php on line 50
+2017-04-28 14:34:37 - PHP Notice:  Undefined index: studen in F:\xampp\htdocs\jinisms\student_list.php on line 154
+2017-04-28 14:34:37 - PHP Notice:  Undefined index: studen in F:\xampp\htdocs\jinisms\student_list.php on line 154
+2017-04-28 14:34:37 - PHP Notice:  Undefined index: studen in F:\xampp\htdocs\jinisms\student_list.php on line 154
+2017-04-28 14:34:37 - PHP Notice:  Undefined index: studen in F:\xampp\htdocs\jinisms\student_list.php on line 154
+2017-04-28 14:34:37 - PHP Notice:  Undefined index: studen in F:\xampp\htdocs\jinisms\student_list.php on line 154
+2017-04-28 14:34:47 - PHP Notice:  Undefined index: registration_no in F:\xampp\htdocs\jinisms\student_update.php on line 40
+2017-04-28 14:34:47 - PHP Notice:  Undefined index: student_id in F:\xampp\htdocs\jinisms\student_update.php on line 41
+2017-04-28 14:34:47 - PHP Notice:  Undefined index: first_name in F:\xampp\htdocs\jinisms\student_update.php on line 42
+2017-04-28 14:34:47 - PHP Notice:  Undefined index: middle_name in F:\xampp\htdocs\jinisms\student_update.php on line 43
+2017-04-28 14:34:47 - PHP Notice:  Undefined index: last_name in F:\xampp\htdocs\jinisms\student_update.php on line 44
+2017-04-28 14:34:47 - PHP Notice:  Undefined index: father_name in F:\xampp\htdocs\jinisms\student_update.php on line 45
+2017-04-28 14:34:47 - PHP Notice:  Undefined index: mother_name in F:\xampp\htdocs\jinisms\student_update.php on line 46
+2017-04-28 14:34:47 - PHP Notice:  Undefined index: occupation in F:\xampp\htdocs\jinisms\student_update.php on line 47
+2017-04-28 14:34:47 - PHP Notice:  Undefined index: section_id in F:\xampp\htdocs\jinisms\student_update.php on line 48
+2017-04-28 14:34:47 - PHP Notice:  Undefined index: cota_id in F:\xampp\htdocs\jinisms\student_update.php on line 49
+2017-04-28 14:34:47 - PHP Notice:  Undefined index: dob in F:\xampp\htdocs\jinisms\student_update.php on line 51
+2017-04-28 14:34:47 - PHP Notice:  Undefined index: admission_date in F:\xampp\htdocs\jinisms\student_update.php on line 59
+2017-04-28 14:34:47 - PHP Notice:  Undefined index: email in F:\xampp\htdocs\jinisms\student_update.php on line 67
+2017-04-28 14:34:47 - PHP Notice:  Undefined index: contact_no in F:\xampp\htdocs\jinisms\student_update.php on line 68
+2017-04-28 14:34:47 - PHP Notice:  Undefined index: blood_group in F:\xampp\htdocs\jinisms\student_update.php on line 69
+2017-04-28 14:34:47 - PHP Notice:  Undefined index: category in F:\xampp\htdocs\jinisms\student_update.php on line 70
+2017-04-28 14:34:47 - PHP Notice:  Undefined index: gender in F:\xampp\htdocs\jinisms\student_update.php on line 71
+2017-04-28 14:34:47 - PHP Notice:  Undefined index: aadhaar_no in F:\xampp\htdocs\jinisms\student_update.php on line 72
+2017-04-28 14:34:47 - PHP Notice:  Undefined index: course_code in F:\xampp\htdocs\jinisms\student_update.php on line 73
+2017-04-28 14:34:47 - PHP Notice:  Undefined index: mailing_address in F:\xampp\htdocs\jinisms\student_update.php on line 74
+2017-04-28 14:34:47 - PHP Notice:  Undefined index: m_pin in F:\xampp\htdocs\jinisms\student_update.php on line 75
+2017-04-28 14:34:47 - PHP Notice:  Undefined index: m_state in F:\xampp\htdocs\jinisms\student_update.php on line 76
+2017-04-28 14:34:47 - PHP Notice:  Undefined index: m_town_village in F:\xampp\htdocs\jinisms\student_update.php on line 77
+2017-04-28 14:34:47 - PHP Notice:  Undefined index: m_city in F:\xampp\htdocs\jinisms\student_update.php on line 78
+2017-04-28 14:34:47 - PHP Notice:  Undefined index: permanent_address in F:\xampp\htdocs\jinisms\student_update.php on line 79
+2017-04-28 14:34:47 - PHP Notice:  Undefined index: p_city in F:\xampp\htdocs\jinisms\student_update.php on line 80
+2017-04-28 14:34:47 - PHP Notice:  Undefined index: p_pin in F:\xampp\htdocs\jinisms\student_update.php on line 81
+2017-04-28 14:34:47 - PHP Notice:  Undefined index: p_state in F:\xampp\htdocs\jinisms\student_update.php on line 82
+2017-04-28 14:34:47 - PHP Notice:  Undefined index: p_town_village in F:\xampp\htdocs\jinisms\student_update.php on line 83
+2017-04-28 14:34:47 - PHP Notice:  Undefined index: status in F:\xampp\htdocs\jinisms\student_update.php on line 84
+2017-04-28 14:34:49 - PHP Notice:  Undefined index: studen in F:\xampp\htdocs\jinisms\student_list.php on line 154
+2017-04-28 14:34:49 - PHP Notice:  Undefined index: studen in F:\xampp\htdocs\jinisms\student_list.php on line 154
+2017-04-28 14:34:49 - PHP Notice:  Undefined index: studen in F:\xampp\htdocs\jinisms\student_list.php on line 154
+2017-04-28 14:34:49 - PHP Notice:  Undefined index: studen in F:\xampp\htdocs\jinisms\student_list.php on line 154
+2017-04-28 14:34:49 - PHP Notice:  Undefined index: studen in F:\xampp\htdocs\jinisms\student_list.php on line 154
+2017-04-28 14:35:46 - PHP Notice:  Undefined index: studen in F:\xampp\htdocs\jinisms\student_list.php on line 157
+2017-04-28 14:35:46 - PHP Notice:  Undefined index: studen in F:\xampp\htdocs\jinisms\student_list.php on line 157
+2017-04-28 14:35:46 - PHP Notice:  Undefined index: studen in F:\xampp\htdocs\jinisms\student_list.php on line 157
+2017-04-28 14:35:46 - PHP Notice:  Undefined index: studen in F:\xampp\htdocs\jinisms\student_list.php on line 157
+2017-04-28 14:35:46 - PHP Notice:  Undefined index: studen in F:\xampp\htdocs\jinisms\student_list.php on line 157
+2017-04-28 14:54:31 - PHP Notice:  Error: Unknown column 's.status' in 'where clause'<br />Error No: 1054<br />SELECT COUNT(*) AS total FROM student WHERE 1 AND s.status=2 in F:\xampp\htdocs\jinisms\database\mysqliz.php on line 50
+2017-04-28 14:55:15 - PHP Notice:  Error: Unknown column 's.first_name' in 'where clause'<br />Error No: 1054<br />SELECT student_id, registration_no, CONCAT(first_name,' ', middle_name,' ', last_name) AS full_name, father_name, contact_no, dob, course_code, status FROM student WHERE 1  AND (registration_no LIKE '%as%' OR CONCAT(s.first_name,s.middle_name,s.last_name) LIKE '%as%' OR course_code LIKE '%as%' OR contact_no LIKE '%as%' OR father_name LIKE '%as%' OR dob LIKE '%as%') ORDER BY registration_no ASC LIMIT 0,5 in F:\xampp\htdocs\jinisms\database\mysqliz.php on line 50
+2017-04-28 14:55:15 - PHP Notice:  Error: Unknown column 's.first_name' in 'where clause'<br />Error No: 1054<br />SELECT student_id, registration_no, CONCAT(first_name,' ', middle_name,' ', last_name) AS full_name, father_name, contact_no, dob, course_code, status FROM student WHERE 1  AND (registration_no LIKE '%as%' OR CONCAT(s.first_name,s.middle_name,s.last_name) LIKE '%as%' OR course_code LIKE '%as%' OR contact_no LIKE '%as%' OR father_name LIKE '%as%' OR dob LIKE '%as%') ORDER BY registration_no ASC LIMIT 0,5 in F:\xampp\htdocs\jinisms\database\mysqliz.php on line 50
+2017-04-28 14:55:18 - PHP Notice:  Error: Unknown column 's.status' in 'where clause'<br />Error No: 1054<br />SELECT COUNT(*) AS total FROM student WHERE 1 AND s.status=1 AND (registration_no LIKE '%as%' OR CONCAT(first_name,middle_name,last_name) LIKE '%as%' OR course_code LIKE '%as%' OR contact_no LIKE '%as%' OR father_name LIKE '%as%' OR dob LIKE '%as%') in F:\xampp\htdocs\jinisms\database\mysqliz.php on line 50
+2017-04-28 14:55:35 - PHP Notice:  Error: Unknown column 's.status' in 'where clause'<br />Error No: 1054<br />SELECT COUNT(*) AS total FROM student WHERE 1 AND s.status=1 AND (registration_no LIKE '%asa%' OR CONCAT(first_name,middle_name,last_name) LIKE '%asa%' OR course_code LIKE '%asa%' OR contact_no LIKE '%asa%' OR father_name LIKE '%asa%' OR dob LIKE '%asa%') in F:\xampp\htdocs\jinisms\database\mysqliz.php on line 50
+2017-04-28 14:55:35 - PHP Notice:  Error: Unknown column 's.status' in 'where clause'<br />Error No: 1054<br />SELECT COUNT(*) AS total FROM student WHERE 1 AND s.status=1 AND (registration_no LIKE '%asas%' OR CONCAT(first_name,middle_name,last_name) LIKE '%asas%' OR course_code LIKE '%asas%' OR contact_no LIKE '%asas%' OR father_name LIKE '%asas%' OR dob LIKE '%asas%') in F:\xampp\htdocs\jinisms\database\mysqliz.php on line 50
+2017-04-28 14:55:36 - PHP Notice:  Error: Unknown column 's.status' in 'where clause'<br />Error No: 1054<br />SELECT COUNT(*) AS total FROM student WHERE 1 AND s.status=1 AND (registration_no LIKE '%asa%' OR CONCAT(first_name,middle_name,last_name) LIKE '%asa%' OR course_code LIKE '%asa%' OR contact_no LIKE '%asa%' OR father_name LIKE '%asa%' OR dob LIKE '%asa%') in F:\xampp\htdocs\jinisms\database\mysqliz.php on line 50
+2017-04-28 14:55:37 - PHP Notice:  Error: Unknown column 's.status' in 'where clause'<br />Error No: 1054<br />SELECT COUNT(*) AS total FROM student WHERE 1 AND s.status=1 AND (registration_no LIKE '%as%' OR CONCAT(first_name,middle_name,last_name) LIKE '%as%' OR course_code LIKE '%as%' OR contact_no LIKE '%as%' OR father_name LIKE '%as%' OR dob LIKE '%as%') in F:\xampp\htdocs\jinisms\database\mysqliz.php on line 50
+2017-04-28 14:55:37 - PHP Notice:  Error: Unknown column 's.status' in 'where clause'<br />Error No: 1054<br />SELECT COUNT(*) AS total FROM student WHERE 1 AND s.status=1 AND (registration_no LIKE '%a%' OR CONCAT(first_name,middle_name,last_name) LIKE '%a%' OR course_code LIKE '%a%' OR contact_no LIKE '%a%' OR father_name LIKE '%a%' OR dob LIKE '%a%') in F:\xampp\htdocs\jinisms\database\mysqliz.php on line 50
+2017-04-28 14:55:37 - PHP Notice:  Error: Unknown column 's.status' in 'where clause'<br />Error No: 1054<br />SELECT COUNT(*) AS total FROM student WHERE 1 AND s.status=1 in F:\xampp\htdocs\jinisms\database\mysqliz.php on line 50
+2017-04-28 14:55:37 - PHP Notice:  Error: Unknown column 's.status' in 'where clause'<br />Error No: 1054<br />SELECT COUNT(*) AS total FROM student WHERE 1 AND s.status=1 in F:\xampp\htdocs\jinisms\database\mysqliz.php on line 50
+2017-04-28 14:55:38 - PHP Notice:  Error: Unknown column 's.status' in 'where clause'<br />Error No: 1054<br />SELECT COUNT(*) AS total FROM student WHERE 1 AND s.status=1 AND (registration_no LIKE '%a%' OR CONCAT(first_name,middle_name,last_name) LIKE '%a%' OR course_code LIKE '%a%' OR contact_no LIKE '%a%' OR father_name LIKE '%a%' OR dob LIKE '%a%') in F:\xampp\htdocs\jinisms\database\mysqliz.php on line 50
+2017-04-28 14:55:38 - PHP Notice:  Error: Unknown column 's.status' in 'where clause'<br />Error No: 1054<br />SELECT COUNT(*) AS total FROM student WHERE 1 AND s.status=1 AND (registration_no LIKE '%as%' OR CONCAT(first_name,middle_name,last_name) LIKE '%as%' OR course_code LIKE '%as%' OR contact_no LIKE '%as%' OR father_name LIKE '%as%' OR dob LIKE '%as%') in F:\xampp\htdocs\jinisms\database\mysqliz.php on line 50
+2017-04-28 14:55:42 - PHP Notice:  Error: Unknown column 's.status' in 'where clause'<br />Error No: 1054<br />SELECT COUNT(*) AS total FROM student WHERE 1 AND s.status=1 AND (registration_no LIKE '%ash%' OR CONCAT(first_name,middle_name,last_name) LIKE '%ash%' OR course_code LIKE '%ash%' OR contact_no LIKE '%ash%' OR father_name LIKE '%ash%' OR dob LIKE '%ash%') in F:\xampp\htdocs\jinisms\database\mysqliz.php on line 50
+2017-04-28 14:56:11 - PHP Notice:  Error: Unknown column 's.status' in 'where clause'<br />Error No: 1054<br />SELECT COUNT(*) AS total FROM student WHERE 1 AND s.status=1 in F:\xampp\htdocs\jinisms\database\mysqliz.php on line 50
+2017-04-28 14:56:12 - PHP Notice:  Error: Unknown column 's.status' in 'where clause'<br />Error No: 1054<br />SELECT COUNT(*) AS total FROM student WHERE 1 AND s.status=1 AND (registration_no LIKE '%a%' OR CONCAT(first_name,middle_name,last_name) LIKE '%a%' OR course_code LIKE '%a%' OR contact_no LIKE '%a%' OR father_name LIKE '%a%' OR dob LIKE '%a%') in F:\xampp\htdocs\jinisms\database\mysqliz.php on line 50
+2017-04-28 14:56:12 - PHP Notice:  Error: Unknown column 's.status' in 'where clause'<br />Error No: 1054<br />SELECT COUNT(*) AS total FROM student WHERE 1 AND s.status=1 AND (registration_no LIKE '%as%' OR CONCAT(first_name,middle_name,last_name) LIKE '%as%' OR course_code LIKE '%as%' OR contact_no LIKE '%as%' OR father_name LIKE '%as%' OR dob LIKE '%as%') in F:\xampp\htdocs\jinisms\database\mysqliz.php on line 50
+2017-04-28 14:56:13 - PHP Notice:  Error: Unknown column 's.status' in 'where clause'<br />Error No: 1054<br />SELECT COUNT(*) AS total FROM student WHERE 1 AND s.status=1 AND (registration_no LIKE '%ash%' OR CONCAT(first_name,middle_name,last_name) LIKE '%ash%' OR course_code LIKE '%ash%' OR contact_no LIKE '%ash%' OR father_name LIKE '%ash%' OR dob LIKE '%ash%') in F:\xampp\htdocs\jinisms\database\mysqliz.php on line 50
+2017-04-28 14:59:39 - PHP Notice:  Error: Unknown column 's.status' in 'where clause'<br />Error No: 1054<br />SELECT COUNT(*) AS total FROM student WHERE 1 AND s.status=1 AND (registration_no LIKE '%ash%' OR CONCAT(first_name,middle_name,last_name) LIKE '%ash%' OR course_code LIKE '%ash%' OR contact_no LIKE '%ash%' OR father_name LIKE '%ash%' OR dob LIKE '%ash%') in F:\xampp\htdocs\jinisms\database\mysqliz.php on line 50
+2017-04-28 14:59:42 - PHP Notice:  Error: Unknown column 's.first_name' in 'where clause'<br />Error No: 1054<br />SELECT student_id, registration_no, CONCAT(first_name,' ', middle_name,' ', last_name) AS full_name, father_name, contact_no, dob, course_code, status FROM student WHERE 1  AND (registration_no LIKE '%ash%' OR CONCAT(s.first_name,s.middle_name,s.last_name) LIKE '%ash%' OR course_code LIKE '%ash%' OR contact_no LIKE '%ash%' OR father_name LIKE '%ash%' OR dob LIKE '%ash%') ORDER BY registration_no ASC LIMIT 0,5 in F:\xampp\htdocs\jinisms\database\mysqliz.php on line 50
+2017-04-28 14:59:53 - PHP Notice:  Error: Unknown column 's.status' in 'where clause'<br />Error No: 1054<br />SELECT COUNT(*) AS total FROM student WHERE 1 AND s.status=1 AND (registration_no LIKE '%ash%' OR CONCAT(first_name,middle_name,last_name) LIKE '%ash%' OR course_code LIKE '%ash%' OR contact_no LIKE '%ash%' OR father_name LIKE '%ash%' OR dob LIKE '%ash%') in F:\xampp\htdocs\jinisms\database\mysqliz.php on line 50
+2017-04-28 15:04:48 - PHP Notice:  Error: Unknown column 's.first_name' in 'where clause'<br />Error No: 1054<br />SELECT student_id, registration_no, CONCAT(first_name,' ', middle_name,' ', last_name) AS full_name, father_name, contact_no, dob, course_code, status FROM student WHERE 1  AND (registration_no LIKE '%a%' OR CONCAT(s.first_name,s.middle_name,s.last_name) LIKE '%a%' OR course_code LIKE '%a%' OR contact_no LIKE '%a%' OR father_name LIKE '%a%' OR dob LIKE '%a%') ORDER BY registration_no ASC LIMIT 0,5 in F:\xampp\htdocs\jinisms\database\mysqliz.php on line 50
+2017-04-28 15:04:49 - PHP Notice:  Error: Unknown column 's.first_name' in 'where clause'<br />Error No: 1054<br />SELECT student_id, registration_no, CONCAT(first_name,' ', middle_name,' ', last_name) AS full_name, father_name, contact_no, dob, course_code, status FROM student WHERE 1  AND (registration_no LIKE '%as%' OR CONCAT(s.first_name,s.middle_name,s.last_name) LIKE '%as%' OR course_code LIKE '%as%' OR contact_no LIKE '%as%' OR father_name LIKE '%as%' OR dob LIKE '%as%') ORDER BY registration_no ASC LIMIT 0,5 in F:\xampp\htdocs\jinisms\database\mysqliz.php on line 50
+2017-04-28 15:04:49 - PHP Notice:  Error: Unknown column 's.first_name' in 'where clause'<br />Error No: 1054<br />SELECT student_id, registration_no, CONCAT(first_name,' ', middle_name,' ', last_name) AS full_name, father_name, contact_no, dob, course_code, status FROM student WHERE 1  AND (registration_no LIKE '%ash%' OR CONCAT(s.first_name,s.middle_name,s.last_name) LIKE '%ash%' OR course_code LIKE '%ash%' OR contact_no LIKE '%ash%' OR father_name LIKE '%ash%' OR dob LIKE '%ash%') ORDER BY registration_no ASC LIMIT 0,5 in F:\xampp\htdocs\jinisms\database\mysqliz.php on line 50
+2017-04-28 15:04:49 - PHP Notice:  Error: Unknown column 's.first_name' in 'where clause'<br />Error No: 1054<br />SELECT student_id, registration_no, CONCAT(first_name,' ', middle_name,' ', last_name) AS full_name, father_name, contact_no, dob, course_code, status FROM student WHERE 1  AND (registration_no LIKE '%ashi%' OR CONCAT(s.first_name,s.middle_name,s.last_name) LIKE '%ashi%' OR course_code LIKE '%ashi%' OR contact_no LIKE '%ashi%' OR father_name LIKE '%ashi%' OR dob LIKE '%ashi%') ORDER BY registration_no ASC LIMIT 0,5 in F:\xampp\htdocs\jinisms\database\mysqliz.php on line 50
+2017-04-28 15:04:49 - PHP Notice:  Error: Unknown column 's.first_name' in 'where clause'<br />Error No: 1054<br />SELECT student_id, registration_no, CONCAT(first_name,' ', middle_name,' ', last_name) AS full_name, father_name, contact_no, dob, course_code, status FROM student WHERE 1  AND (registration_no LIKE '%ashis%' OR CONCAT(s.first_name,s.middle_name,s.last_name) LIKE '%ashis%' OR course_code LIKE '%ashis%' OR contact_no LIKE '%ashis%' OR father_name LIKE '%ashis%' OR dob LIKE '%ashis%') ORDER BY registration_no ASC LIMIT 0,5 in F:\xampp\htdocs\jinisms\database\mysqliz.php on line 50
+2017-04-28 15:04:49 - PHP Notice:  Error: Unknown column 's.first_name' in 'where clause'<br />Error No: 1054<br />SELECT student_id, registration_no, CONCAT(first_name,' ', middle_name,' ', last_name) AS full_name, father_name, contact_no, dob, course_code, status FROM student WHERE 1  AND (registration_no LIKE '%ashish%' OR CONCAT(s.first_name,s.middle_name,s.last_name) LIKE '%ashish%' OR course_code LIKE '%ashish%' OR contact_no LIKE '%ashish%' OR father_name LIKE '%ashish%' OR dob LIKE '%ashish%') ORDER BY registration_no ASC LIMIT 0,5 in F:\xampp\htdocs\jinisms\database\mysqliz.php on line 50
+2017-04-28 15:04:54 - PHP Notice:  Error: Unknown column 's.first_name' in 'where clause'<br />Error No: 1054<br />SELECT student_id, registration_no, CONCAT(first_name,' ', middle_name,' ', last_name) AS full_name, father_name, contact_no, dob, course_code, status FROM student WHERE 1  AND (registration_no LIKE '%ashis%' OR CONCAT(s.first_name,s.middle_name,s.last_name) LIKE '%ashis%' OR course_code LIKE '%ashis%' OR contact_no LIKE '%ashis%' OR father_name LIKE '%ashis%' OR dob LIKE '%ashis%') ORDER BY registration_no ASC LIMIT 0,5 in F:\xampp\htdocs\jinisms\database\mysqliz.php on line 50
+2017-04-28 15:04:54 - PHP Notice:  Error: Unknown column 's.first_name' in 'where clause'<br />Error No: 1054<br />SELECT student_id, registration_no, CONCAT(first_name,' ', middle_name,' ', last_name) AS full_name, father_name, contact_no, dob, course_code, status FROM student WHERE 1  AND (registration_no LIKE '%ashi%' OR CONCAT(s.first_name,s.middle_name,s.last_name) LIKE '%ashi%' OR course_code LIKE '%ashi%' OR contact_no LIKE '%ashi%' OR father_name LIKE '%ashi%' OR dob LIKE '%ashi%') ORDER BY registration_no ASC LIMIT 0,5 in F:\xampp\htdocs\jinisms\database\mysqliz.php on line 50
+2017-04-28 15:04:54 - PHP Notice:  Error: Unknown column 's.first_name' in 'where clause'<br />Error No: 1054<br />SELECT student_id, registration_no, CONCAT(first_name,' ', middle_name,' ', last_name) AS full_name, father_name, contact_no, dob, course_code, status FROM student WHERE 1  AND (registration_no LIKE '%ash%' OR CONCAT(s.first_name,s.middle_name,s.last_name) LIKE '%ash%' OR course_code LIKE '%ash%' OR contact_no LIKE '%ash%' OR father_name LIKE '%ash%' OR dob LIKE '%ash%') ORDER BY registration_no ASC LIMIT 0,5 in F:\xampp\htdocs\jinisms\database\mysqliz.php on line 50
+2017-04-28 15:04:54 - PHP Notice:  Error: Unknown column 's.first_name' in 'where clause'<br />Error No: 1054<br />SELECT student_id, registration_no, CONCAT(first_name,' ', middle_name,' ', last_name) AS full_name, father_name, contact_no, dob, course_code, status FROM student WHERE 1  AND (registration_no LIKE '%as%' OR CONCAT(s.first_name,s.middle_name,s.last_name) LIKE '%as%' OR course_code LIKE '%as%' OR contact_no LIKE '%as%' OR father_name LIKE '%as%' OR dob LIKE '%as%') ORDER BY registration_no ASC LIMIT 0,5 in F:\xampp\htdocs\jinisms\database\mysqliz.php on line 50
+2017-04-28 15:04:54 - PHP Notice:  Error: Unknown column 's.first_name' in 'where clause'<br />Error No: 1054<br />SELECT student_id, registration_no, CONCAT(first_name,' ', middle_name,' ', last_name) AS full_name, father_name, contact_no, dob, course_code, status FROM student WHERE 1  AND (registration_no LIKE '%a%' OR CONCAT(s.first_name,s.middle_name,s.last_name) LIKE '%a%' OR course_code LIKE '%a%' OR contact_no LIKE '%a%' OR father_name LIKE '%a%' OR dob LIKE '%a%') ORDER BY registration_no ASC LIMIT 0,5 in F:\xampp\htdocs\jinisms\database\mysqliz.php on line 50
+2017-04-28 15:04:54 - PHP Notice:  Undefined index: course_name in F:\xampp\htdocs\jinisms\student_search.php on line 54
+2017-04-28 15:04:54 - PHP Notice:  Undefined index: course_name in F:\xampp\htdocs\jinisms\student_search.php on line 54
+2017-04-28 15:04:54 - PHP Notice:  Undefined index: course_name in F:\xampp\htdocs\jinisms\student_search.php on line 54
+2017-04-28 15:04:54 - PHP Notice:  Undefined index: course_name in F:\xampp\htdocs\jinisms\student_search.php on line 54
+2017-04-28 15:04:54 - PHP Notice:  Undefined index: course_name in F:\xampp\htdocs\jinisms\student_search.php on line 54
+2017-04-28 15:04:55 - PHP Notice:  Undefined index: course_name in F:\xampp\htdocs\jinisms\student_search.php on line 54
+2017-04-28 15:04:55 - PHP Notice:  Undefined index: course_name in F:\xampp\htdocs\jinisms\student_search.php on line 54
+2017-04-28 15:04:55 - PHP Notice:  Undefined index: course_name in F:\xampp\htdocs\jinisms\student_search.php on line 54
+2017-04-28 15:04:55 - PHP Notice:  Undefined index: course_name in F:\xampp\htdocs\jinisms\student_search.php on line 54
+2017-04-28 15:04:55 - PHP Notice:  Undefined index: course_name in F:\xampp\htdocs\jinisms\student_search.php on line 54
+2017-04-28 15:04:55 - PHP Notice:  Error: Unknown column 's.first_name' in 'where clause'<br />Error No: 1054<br />SELECT student_id, registration_no, CONCAT(first_name,' ', middle_name,' ', last_name) AS full_name, father_name, contact_no, dob, course_code, status FROM student WHERE 1  AND (registration_no LIKE '%A%' OR CONCAT(s.first_name,s.middle_name,s.last_name) LIKE '%A%' OR course_code LIKE '%A%' OR contact_no LIKE '%A%' OR father_name LIKE '%A%' OR dob LIKE '%A%') ORDER BY registration_no ASC LIMIT 0,5 in F:\xampp\htdocs\jinisms\database\mysqliz.php on line 50
+2017-04-28 15:04:55 - PHP Notice:  Error: Unknown column 's.first_name' in 'where clause'<br />Error No: 1054<br />SELECT student_id, registration_no, CONCAT(first_name,' ', middle_name,' ', last_name) AS full_name, father_name, contact_no, dob, course_code, status FROM student WHERE 1  AND (registration_no LIKE '%A%' OR CONCAT(s.first_name,s.middle_name,s.last_name) LIKE '%A%' OR course_code LIKE '%A%' OR contact_no LIKE '%A%' OR father_name LIKE '%A%' OR dob LIKE '%A%') ORDER BY registration_no ASC LIMIT 0,5 in F:\xampp\htdocs\jinisms\database\mysqliz.php on line 50
+2017-04-28 15:04:55 - PHP Notice:  Error: Unknown column 's.first_name' in 'where clause'<br />Error No: 1054<br />SELECT student_id, registration_no, CONCAT(first_name,' ', middle_name,' ', last_name) AS full_name, father_name, contact_no, dob, course_code, status FROM student WHERE 1  AND (registration_no LIKE '%As%' OR CONCAT(s.first_name,s.middle_name,s.last_name) LIKE '%As%' OR course_code LIKE '%As%' OR contact_no LIKE '%As%' OR father_name LIKE '%As%' OR dob LIKE '%As%') ORDER BY registration_no ASC LIMIT 0,5 in F:\xampp\htdocs\jinisms\database\mysqliz.php on line 50
+2017-04-28 15:04:56 - PHP Notice:  Error: Unknown column 's.first_name' in 'where clause'<br />Error No: 1054<br />SELECT student_id, registration_no, CONCAT(first_name,' ', middle_name,' ', last_name) AS full_name, father_name, contact_no, dob, course_code, status FROM student WHERE 1  AND (registration_no LIKE '%Ash%' OR CONCAT(s.first_name,s.middle_name,s.last_name) LIKE '%Ash%' OR course_code LIKE '%Ash%' OR contact_no LIKE '%Ash%' OR father_name LIKE '%Ash%' OR dob LIKE '%Ash%') ORDER BY registration_no ASC LIMIT 0,5 in F:\xampp\htdocs\jinisms\database\mysqliz.php on line 50
+2017-04-28 15:04:56 - PHP Notice:  Error: Unknown column 's.first_name' in 'where clause'<br />Error No: 1054<br />SELECT student_id, registration_no, CONCAT(first_name,' ', middle_name,' ', last_name) AS full_name, father_name, contact_no, dob, course_code, status FROM student WHERE 1  AND (registration_no LIKE '%Ashi%' OR CONCAT(s.first_name,s.middle_name,s.last_name) LIKE '%Ashi%' OR course_code LIKE '%Ashi%' OR contact_no LIKE '%Ashi%' OR father_name LIKE '%Ashi%' OR dob LIKE '%Ashi%') ORDER BY registration_no ASC LIMIT 0,5 in F:\xampp\htdocs\jinisms\database\mysqliz.php on line 50
+2017-04-28 15:04:56 - PHP Notice:  Error: Unknown column 's.first_name' in 'where clause'<br />Error No: 1054<br />SELECT student_id, registration_no, CONCAT(first_name,' ', middle_name,' ', last_name) AS full_name, father_name, contact_no, dob, course_code, status FROM student WHERE 1  AND (registration_no LIKE '%Ashis%' OR CONCAT(s.first_name,s.middle_name,s.last_name) LIKE '%Ashis%' OR course_code LIKE '%Ashis%' OR contact_no LIKE '%Ashis%' OR father_name LIKE '%Ashis%' OR dob LIKE '%Ashis%') ORDER BY registration_no ASC LIMIT 0,5 in F:\xampp\htdocs\jinisms\database\mysqliz.php on line 50
+2017-04-28 15:04:56 - PHP Notice:  Error: Unknown column 's.first_name' in 'where clause'<br />Error No: 1054<br />SELECT student_id, registration_no, CONCAT(first_name,' ', middle_name,' ', last_name) AS full_name, father_name, contact_no, dob, course_code, status FROM student WHERE 1  AND (registration_no LIKE '%Ashish%' OR CONCAT(s.first_name,s.middle_name,s.last_name) LIKE '%Ashish%' OR course_code LIKE '%Ashish%' OR contact_no LIKE '%Ashish%' OR father_name LIKE '%Ashish%' OR dob LIKE '%Ashish%') ORDER BY registration_no ASC LIMIT 0,5 in F:\xampp\htdocs\jinisms\database\mysqliz.php on line 50
+2017-04-28 15:04:58 - PHP Notice:  Error: Unknown column 's.first_name' in 'where clause'<br />Error No: 1054<br />SELECT student_id, registration_no, CONCAT(first_name,' ', middle_name,' ', last_name) AS full_name, father_name, contact_no, dob, course_code, status FROM student WHERE 1  AND (registration_no LIKE '%Ashish%' OR CONCAT(s.first_name,s.middle_name,s.last_name) LIKE '%Ashish%' OR course_code LIKE '%Ashish%' OR contact_no LIKE '%Ashish%' OR father_name LIKE '%Ashish%' OR dob LIKE '%Ashish%') ORDER BY registration_no ASC LIMIT 0,5 in F:\xampp\htdocs\jinisms\database\mysqliz.php on line 50
+2017-04-28 15:05:00 - PHP Notice:  Error: Unknown column 's.first_name' in 'where clause'<br />Error No: 1054<br />SELECT student_id, registration_no, CONCAT(first_name,' ', middle_name,' ', last_name) AS full_name, father_name, contact_no, dob, course_code, status FROM student WHERE 1  AND (registration_no LIKE '%Ashish%' OR CONCAT(s.first_name,s.middle_name,s.last_name) LIKE '%Ashish%' OR course_code LIKE '%Ashish%' OR contact_no LIKE '%Ashish%' OR father_name LIKE '%Ashish%' OR dob LIKE '%Ashish%') ORDER BY registration_no ASC LIMIT 0,5 in F:\xampp\htdocs\jinisms\database\mysqliz.php on line 50
+2017-04-28 15:05:00 - PHP Notice:  Error: Unknown column 's.first_name' in 'where clause'<br />Error No: 1054<br />SELECT student_id, registration_no, CONCAT(first_name,' ', middle_name,' ', last_name) AS full_name, father_name, contact_no, dob, course_code, status FROM student WHERE 1  AND (registration_no LIKE '%Ashish%' OR CONCAT(s.first_name,s.middle_name,s.last_name) LIKE '%Ashish%' OR course_code LIKE '%Ashish%' OR contact_no LIKE '%Ashish%' OR father_name LIKE '%Ashish%' OR dob LIKE '%Ashish%') ORDER BY registration_no ASC LIMIT 0,5 in F:\xampp\htdocs\jinisms\database\mysqliz.php on line 50
+2017-04-28 15:05:00 - PHP Notice:  Undefined index: course_name in F:\xampp\htdocs\jinisms\student_search.php on line 54
+2017-04-28 15:05:00 - PHP Notice:  Undefined index: course_name in F:\xampp\htdocs\jinisms\student_search.php on line 54
+2017-04-28 15:05:00 - PHP Notice:  Undefined index: course_name in F:\xampp\htdocs\jinisms\student_search.php on line 54
+2017-04-28 15:05:00 - PHP Notice:  Undefined index: course_name in F:\xampp\htdocs\jinisms\student_search.php on line 54
+2017-04-28 15:05:00 - PHP Notice:  Undefined index: course_name in F:\xampp\htdocs\jinisms\student_search.php on line 54
+2017-04-28 15:05:01 - PHP Notice:  Undefined index: course_name in F:\xampp\htdocs\jinisms\student_search.php on line 54
+2017-04-28 15:05:01 - PHP Notice:  Undefined index: course_name in F:\xampp\htdocs\jinisms\student_search.php on line 54
+2017-04-28 15:05:01 - PHP Notice:  Undefined index: course_name in F:\xampp\htdocs\jinisms\student_search.php on line 54
+2017-04-28 15:05:01 - PHP Notice:  Undefined index: course_name in F:\xampp\htdocs\jinisms\student_search.php on line 54
+2017-04-28 15:05:01 - PHP Notice:  Undefined index: course_name in F:\xampp\htdocs\jinisms\student_search.php on line 54
+2017-04-28 15:05:01 - PHP Notice:  Undefined index: course_name in F:\xampp\htdocs\jinisms\student_search.php on line 54
+2017-04-28 15:05:01 - PHP Notice:  Undefined index: course_name in F:\xampp\htdocs\jinisms\student_search.php on line 54
+2017-04-28 15:05:01 - PHP Notice:  Undefined index: course_name in F:\xampp\htdocs\jinisms\student_search.php on line 54
+2017-04-28 15:05:01 - PHP Notice:  Undefined index: course_name in F:\xampp\htdocs\jinisms\student_search.php on line 54
+2017-04-28 15:05:01 - PHP Notice:  Undefined index: course_name in F:\xampp\htdocs\jinisms\student_search.php on line 54
+2017-04-28 15:05:02 - PHP Notice:  Undefined index: course_name in F:\xampp\htdocs\jinisms\student_search.php on line 54
+2017-04-28 15:05:02 - PHP Notice:  Undefined index: course_name in F:\xampp\htdocs\jinisms\student_search.php on line 54
+2017-04-28 15:05:02 - PHP Notice:  Undefined index: course_name in F:\xampp\htdocs\jinisms\student_search.php on line 54
+2017-04-28 15:05:02 - PHP Notice:  Undefined index: course_name in F:\xampp\htdocs\jinisms\student_search.php on line 54
+2017-04-28 15:05:02 - PHP Notice:  Undefined index: course_name in F:\xampp\htdocs\jinisms\student_search.php on line 54
+2017-04-28 15:05:23 - PHP Notice:  Error: Unknown column 's.first_name' in 'where clause'<br />Error No: 1054<br />SELECT student_id, registration_no, CONCAT(first_name,' ', middle_name,' ', last_name) AS full_name, father_name, contact_no, dob, course_code, status FROM student WHERE 1  AND (registration_no LIKE '%a%' OR CONCAT(s.first_name,s.middle_name,s.last_name) LIKE '%a%' OR course_code LIKE '%a%' OR contact_no LIKE '%a%' OR father_name LIKE '%a%' OR dob LIKE '%a%') ORDER BY registration_no ASC LIMIT 0,5 in F:\xampp\htdocs\jinisms\database\mysqliz.php on line 50
+2017-04-28 15:05:23 - PHP Notice:  Error: Unknown column 's.first_name' in 'where clause'<br />Error No: 1054<br />SELECT student_id, registration_no, CONCAT(first_name,' ', middle_name,' ', last_name) AS full_name, father_name, contact_no, dob, course_code, status FROM student WHERE 1  AND (registration_no LIKE '%as%' OR CONCAT(s.first_name,s.middle_name,s.last_name) LIKE '%as%' OR course_code LIKE '%as%' OR contact_no LIKE '%as%' OR father_name LIKE '%as%' OR dob LIKE '%as%') ORDER BY registration_no ASC LIMIT 0,5 in F:\xampp\htdocs\jinisms\database\mysqliz.php on line 50
+2017-04-28 15:05:23 - PHP Notice:  Error: Unknown column 's.first_name' in 'where clause'<br />Error No: 1054<br />SELECT student_id, registration_no, CONCAT(first_name,' ', middle_name,' ', last_name) AS full_name, father_name, contact_no, dob, course_code, status FROM student WHERE 1  AND (registration_no LIKE '%ash%' OR CONCAT(s.first_name,s.middle_name,s.last_name) LIKE '%ash%' OR course_code LIKE '%ash%' OR contact_no LIKE '%ash%' OR father_name LIKE '%ash%' OR dob LIKE '%ash%') ORDER BY registration_no ASC LIMIT 0,5 in F:\xampp\htdocs\jinisms\database\mysqliz.php on line 50
+2017-04-28 15:05:23 - PHP Notice:  Error: Unknown column 's.first_name' in 'where clause'<br />Error No: 1054<br />SELECT student_id, registration_no, CONCAT(first_name,' ', middle_name,' ', last_name) AS full_name, father_name, contact_no, dob, course_code, status FROM student WHERE 1  AND (registration_no LIKE '%ashi%' OR CONCAT(s.first_name,s.middle_name,s.last_name) LIKE '%ashi%' OR course_code LIKE '%ashi%' OR contact_no LIKE '%ashi%' OR father_name LIKE '%ashi%' OR dob LIKE '%ashi%') ORDER BY registration_no ASC LIMIT 0,5 in F:\xampp\htdocs\jinisms\database\mysqliz.php on line 50
+2017-04-28 15:05:24 - PHP Notice:  Error: Unknown column 's.first_name' in 'where clause'<br />Error No: 1054<br />SELECT student_id, registration_no, CONCAT(first_name,' ', middle_name,' ', last_name) AS full_name, father_name, contact_no, dob, course_code, status FROM student WHERE 1  AND (registration_no LIKE '%ashis%' OR CONCAT(s.first_name,s.middle_name,s.last_name) LIKE '%ashis%' OR course_code LIKE '%ashis%' OR contact_no LIKE '%ashis%' OR father_name LIKE '%ashis%' OR dob LIKE '%ashis%') ORDER BY registration_no ASC LIMIT 0,5 in F:\xampp\htdocs\jinisms\database\mysqliz.php on line 50
+2017-04-28 15:05:24 - PHP Notice:  Error: Unknown column 's.first_name' in 'where clause'<br />Error No: 1054<br />SELECT student_id, registration_no, CONCAT(first_name,' ', middle_name,' ', last_name) AS full_name, father_name, contact_no, dob, course_code, status FROM student WHERE 1  AND (registration_no LIKE '%ashish%' OR CONCAT(s.first_name,s.middle_name,s.last_name) LIKE '%ashish%' OR course_code LIKE '%ashish%' OR contact_no LIKE '%ashish%' OR father_name LIKE '%ashish%' OR dob LIKE '%ashish%') ORDER BY registration_no ASC LIMIT 0,5 in F:\xampp\htdocs\jinisms\database\mysqliz.php on line 50
+2017-04-28 15:06:26 - PHP Notice:  Undefined index: course_name in F:\xampp\htdocs\jinisms\student_search.php on line 54
+2017-04-28 15:06:50 - PHP Notice:  Undefined index: course_name in F:\xampp\htdocs\jinisms\student_search.php on line 54
+2017-04-28 15:06:50 - PHP Notice:  Undefined index: course_name in F:\xampp\htdocs\jinisms\student_search.php on line 54
+2017-04-28 15:06:50 - PHP Notice:  Undefined index: course_name in F:\xampp\htdocs\jinisms\student_search.php on line 54
+2017-04-28 15:06:50 - PHP Notice:  Undefined index: course_name in F:\xampp\htdocs\jinisms\student_search.php on line 54
+2017-04-28 15:06:50 - PHP Notice:  Undefined index: course_name in F:\xampp\htdocs\jinisms\student_search.php on line 54
+2017-04-28 15:06:50 - PHP Notice:  Undefined index: course_name in F:\xampp\htdocs\jinisms\student_search.php on line 54
+2017-04-28 15:06:50 - PHP Notice:  Undefined index: course_name in F:\xampp\htdocs\jinisms\student_search.php on line 54
+2017-04-28 15:06:50 - PHP Notice:  Undefined index: course_name in F:\xampp\htdocs\jinisms\student_search.php on line 54
+2017-04-28 15:06:50 - PHP Notice:  Undefined index: course_name in F:\xampp\htdocs\jinisms\student_search.php on line 54
+2017-04-28 15:06:50 - PHP Notice:  Undefined index: course_name in F:\xampp\htdocs\jinisms\student_search.php on line 54
+2017-04-28 15:06:50 - PHP Notice:  Undefined index: course_name in F:\xampp\htdocs\jinisms\student_search.php on line 54
+2017-04-28 15:06:50 - PHP Notice:  Undefined index: course_name in F:\xampp\htdocs\jinisms\student_search.php on line 54
+2017-04-28 15:06:50 - PHP Notice:  Undefined index: course_name in F:\xampp\htdocs\jinisms\student_search.php on line 54
+2017-04-28 15:06:55 - PHP Notice:  Undefined index: course_name in F:\xampp\htdocs\jinisms\student_search.php on line 54
+2017-04-28 15:12:30 - PHP Notice:  Undefined index: course_name in F:\xampp\htdocs\jinisms\student_search.php on line 54
+2017-04-28 15:24:14 - PHP Notice:  Error: Unknown column 'name' in 'field list'<br />Error No: 1054<br />SELECT student_id, name, registration_no, CONCAT(s.first_name,' ',s.middle_name,' ',s.last_name) AS full_name FROM student WHERE course_code =  'JNI01' in F:\xampp\htdocs\jinisms\database\mysqliz.php on line 50
+2017-04-28 15:24:28 - PHP Notice:  Error: Unknown column 'name' in 'field list'<br />Error No: 1054<br />SELECT student_id, name, registration_no, CONCAT(s.first_name,' ',s.middle_name,' ',s.last_name) AS full_name FROM student WHERE course_code =  'JNI01' in F:\xampp\htdocs\jinisms\database\mysqliz.php on line 50
+2017-04-28 15:24:51 - PHP Notice:  Error: Unknown column 's.first_name' in 'field list'<br />Error No: 1054<br />SELECT student_id, registration_no, CONCAT(s.first_name,' ',s.middle_name,' ',s.last_name) AS full_name FROM student WHERE course_code =  'JNI01' in F:\xampp\htdocs\jinisms\database\mysqliz.php on line 50
+2017-04-28 15:24:58 - PHP Notice:  Error: Unknown column 's.first_name' in 'field list'<br />Error No: 1054<br />SELECT student_id, registration_no, CONCAT(s.first_name,' ',s.middle_name,' ',s.last_name) AS full_name FROM student WHERE course_code =  'JNI01' in F:\xampp\htdocs\jinisms\database\mysqliz.php on line 50
+2017-04-28 15:33:36 - PHP Notice:  Undefined index: student_name in F:\xampp\htdocs\jinisms\student_marks_entry_ajax1.php on line 31
+2017-04-28 15:33:36 - PHP Notice:  Undefined index: student_name in F:\xampp\htdocs\jinisms\student_marks_entry_ajax1.php on line 31
+2017-04-28 15:33:36 - PHP Notice:  Undefined index: student_name in F:\xampp\htdocs\jinisms\student_marks_entry_ajax1.php on line 31
+2017-04-28 15:33:36 - PHP Notice:  Undefined index: student_name in F:\xampp\htdocs\jinisms\student_marks_entry_ajax1.php on line 31
+2017-04-28 15:33:36 - PHP Notice:  Undefined index: student_name in F:\xampp\htdocs\jinisms\student_marks_entry_ajax1.php on line 31
+2017-04-28 15:33:36 - PHP Notice:  Undefined index: student_name in F:\xampp\htdocs\jinisms\student_marks_entry_ajax1.php on line 31
+2017-04-28 15:33:36 - PHP Notice:  Undefined index: student_name in F:\xampp\htdocs\jinisms\student_marks_entry_ajax1.php on line 31
+2017-04-28 15:34:11 - PHP Notice:  Undefined index: student_name in F:\xampp\htdocs\jinisms\student_marks_entry_ajax1.php on line 31
+2017-04-28 15:34:11 - PHP Notice:  Undefined index: student_name in F:\xampp\htdocs\jinisms\student_marks_entry_ajax1.php on line 31
+2017-04-28 15:34:11 - PHP Notice:  Undefined index: student_name in F:\xampp\htdocs\jinisms\student_marks_entry_ajax1.php on line 31
+2017-04-28 15:34:11 - PHP Notice:  Undefined index: student_name in F:\xampp\htdocs\jinisms\student_marks_entry_ajax1.php on line 31
+2017-04-28 15:34:11 - PHP Notice:  Undefined index: student_name in F:\xampp\htdocs\jinisms\student_marks_entry_ajax1.php on line 31
+2017-04-28 15:34:11 - PHP Notice:  Undefined index: student_name in F:\xampp\htdocs\jinisms\student_marks_entry_ajax1.php on line 31
+2017-04-28 15:34:11 - PHP Notice:  Undefined index: student_name in F:\xampp\htdocs\jinisms\student_marks_entry_ajax1.php on line 31
+2017-04-28 15:37:48 - PHP Notice:  Undefined index: total_mark in F:\xampp\htdocs\jinisms\class\class.inc.php on line 1886
+2017-04-28 15:38:00 - PHP Notice:  Undefined index: total_mark in F:\xampp\htdocs\jinisms\class\class.inc.php on line 1886
+2017-04-28 15:38:01 - PHP Notice:  Undefined index: total_mark in F:\xampp\htdocs\jinisms\class\class.inc.php on line 1886
+2017-04-28 15:38:33 - PHP Notice:  Undefined index: total_mark in F:\xampp\htdocs\jinisms\class\class.inc.php on line 1886
+2017-04-28 15:38:35 - PHP Notice:  Undefined index: total_mark in F:\xampp\htdocs\jinisms\class\class.inc.php on line 1886
+2017-04-28 15:38:36 - PHP Notice:  Undefined index: total_mark in F:\xampp\htdocs\jinisms\class\class.inc.php on line 1886
+2017-04-28 15:38:37 - PHP Notice:  Undefined index: total_mark in F:\xampp\htdocs\jinisms\class\class.inc.php on line 1886
+2017-04-28 15:38:39 - PHP Notice:  Undefined index: total_mark in F:\xampp\htdocs\jinisms\class\class.inc.php on line 1886
+2017-04-29 11:29:42 - PHP Notice:  Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'sSELECT course_code FROM exam_to_course WHERE course_code = 'JEX01'' at line 1<br />Error No: 1064<br />sSELECT course_code FROM exam_to_course WHERE course_code = 'JEX01' in F:\xampp\htdocs\jinisms\database\mysqliz.php on line 50
+2017-04-29 11:45:05 - PHP Notice:  Error: Duplicate entry 'JEX01-JNI01' for key 'PRIMARY'<br />Error No: 1062<br />INSERT INTO `exam_to_course`(`exam_code`, `course_code`, session_year) VALUES ('JEX01','JNI01','2017-18'),('JEX01','JNI02','2017-18'),('JEX01','JNI03','2017-18'),('JEX01','JNI04','2017-18'),('JEX01','JNI05','2017-18'),('JEX01','JNI06','2017-18'),('JEX01','JNI07','2017-18'),('JEX01','JNI08','2017-18'),('JEX01','JNI09','2017-18'),('JEX01','JNI10','2017-18'),('JEX01','JNI11','2017-18'),('JEX01','JNI12','2017-18') in F:\xampp\htdocs\jinisms\database\mysqliz.php on line 50
+2017-04-29 12:29:11 - PHP Notice:  Undefined variable: sessin in F:\xampp\htdocs\jinisms\get_courseid_by_exam_ajax.php on line 14
+2017-04-29 12:29:16 - PHP Notice:  Undefined variable: sessin in F:\xampp\htdocs\jinisms\get_courseid_by_exam_ajax.php on line 14
+2017-04-29 13:29:15 - PHP Notice:  Undefined variable: session in F:\xampp\htdocs\jinisms\course_insert.php on line 58
+2017-04-29 13:29:15 - PHP Notice:  Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'session_year = ''' at line 1<br />Error No: 1064<br />INSERT INTO course_to_subject SET	course_code = 'newco', subject_code = 'JINS01' session_year = '' in F:\xampp\htdocs\jinisms\database\mysqliz.php on line 50
+2017-04-29 13:32:25 - PHP Notice:  Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'session_year = '2017-18'' at line 1<br />Error No: 1064<br />INSERT INTO course_to_subject SET	course_code = 'newco', subject_code = 'JINS01' session_year = '2017-18' in F:\xampp\htdocs\jinisms\database\mysqliz.php on line 50
+2017-04-29 13:34:13 - PHP Warning:  Missing argument 2 for SqlIQuery::setSubjectOfClass(), called in F:\xampp\htdocs\jinisms\course_update.php on line 93 and defined in F:\xampp\htdocs\jinisms\class\class.inc.php on line 854
+2017-04-29 13:34:13 - PHP Notice:  Undefined variable: session in F:\xampp\htdocs\jinisms\class\class.inc.php on line 855
+2017-04-29 13:34:13 - PHP Notice:  Undefined variable: session in F:\xampp\htdocs\jinisms\class\class.inc.php on line 857
+2017-04-29 13:34:13 - PHP Notice:  Undefined variable: session in F:\xampp\htdocs\jinisms\class\class.inc.php on line 857
+2017-04-29 13:34:13 - PHP Notice:  Undefined variable: session in F:\xampp\htdocs\jinisms\class\class.inc.php on line 857
+2017-04-29 13:34:14 - PHP Notice:  Undefined variable: session in F:\xampp\htdocs\jinisms\class\class.inc.php on line 857
+2017-04-29 13:34:14 - PHP Notice:  Undefined variable: session in F:\xampp\htdocs\jinisms\class\class.inc.php on line 857
+2017-04-29 14:51:57 - PHP Notice:  Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''2017-18'),('JEX01','JNI01','JINS02',50'2017-18'),('JEX01','JNI01','JINS03',70'2' at line 1<br />Error No: 1064<br />INSERT INTO total_mark_of_subject(`exam_code`, `course_code`, `subject_code` , `total_mark`, `session_year`) VALUES ('JEX01','JNI01','JINS01',100'2017-18'),('JEX01','JNI01','JINS02',50'2017-18'),('JEX01','JNI01','JINS03',70'2017-18'),('JEX01','JNI01','JINS04',80'2017-18') in F:\xampp\htdocs\jinisms\database\mysqliz.php on line 50
+2017-04-29 14:55:01 - PHP Notice:  Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''2017-18'),('JEX01','JNI01','JINS02',50'2017-18'),('JEX01','JNI01','JINS03',70'2' at line 1<br />Error No: 1064<br />INSERT INTO total_mark_of_subject(`exam_code`, `course_code`, `subject_code` , `total_mark`, `session_year`) VALUES ('JEX01','JNI01','JINS01',100'2017-18'),('JEX01','JNI01','JINS02',50'2017-18'),('JEX01','JNI01','JINS03',70'2017-18'),('JEX01','JNI01','JINS04',80'2017-18') in F:\xampp\htdocs\jinisms\database\mysqliz.php on line 50
+2017-04-29 15:02:46 - PHP Notice:  Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''2017-18'),('JEX01','JNI01','JINS02',50'2017-18'),('JEX01','JNI01','JINS03',70'2' at line 1<br />Error No: 1064<br />INSERT INTO total_mark_of_subject(`exam_code`, `course_code`, `subject_code` , `total_mark`, `session_year`) VALUES ('JEX01','JNI01','JINS01',100'2017-18'),('JEX01','JNI01','JINS02',50'2017-18'),('JEX01','JNI01','JINS03',70'2017-18'),('JEX01','JNI01','JINS04',80'2017-18') in F:\xampp\htdocs\jinisms\database\mysqliz.php on line 50
+2017-04-29 15:53:55 - PHP Warning:  mysqli::mysqli(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ in F:\xampp\htdocs\jinisms\database\mysqliz.php on line 6
+2017-04-29 15:53:56 - PHP Notice:  Error: Could not make a database link (2002) No connection could be made because the target machine actively refused it.
+ in F:\xampp\htdocs\jinisms\database\mysqliz.php on line 9
+2017-04-29 15:53:56 - PHP Warning:  mysqli::query(): Couldn't fetch mysqli in F:\xampp\htdocs\jinisms\database\mysqliz.php on line 12
+2017-04-29 15:53:56 - PHP Warning:  mysqli::query(): Couldn't fetch mysqli in F:\xampp\htdocs\jinisms\database\mysqliz.php on line 13
+2017-04-29 15:53:56 - PHP Warning:  mysqli::query(): Couldn't fetch mysqli in F:\xampp\htdocs\jinisms\database\mysqliz.php on line 14
+2017-04-29 15:53:56 - PHP Warning:  mysqli::query(): Couldn't fetch mysqli in F:\xampp\htdocs\jinisms\database\mysqliz.php on line 15
+2017-04-29 15:53:56 - PHP Warning:  mysqli::query(): Couldn't fetch mysqli in F:\xampp\htdocs\jinisms\database\mysqliz.php on line 16
+2017-04-29 15:53:56 - PHP Warning:  mysqli::query(): Couldn't fetch mysqli in F:\xampp\htdocs\jinisms\database\mysqliz.php on line 20
+2017-04-29 15:53:56 - PHP Notice:  Trying to get property of non-object in F:\xampp\htdocs\jinisms\class\class.inc.php on line 1522
+2017-04-29 15:53:56 - PHP Warning:  mysqli::query(): Couldn't fetch mysqli in F:\xampp\htdocs\jinisms\database\mysqliz.php on line 20
+2017-04-29 15:53:56 - PHP Notice:  Trying to get property of non-object in F:\xampp\htdocs\jinisms\class\class.inc.php on line 1798
+2017-04-29 15:53:56 - PHP Warning:  Invalid argument supplied for foreach() in F:\xampp\htdocs\jinisms\student_marks_entry.php on line 75
+2017-04-29 16:07:26 - PHP Notice:  Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' AND '2017-18'' at line 1<br />Error No: 1064<br />SELECT subject_mark_id, total_mark FROM total_mark_of_subject WHERE exam_code = 'JEX01' AND course_code = 'JNI01' AND subject_code = 'JINS01', AND '2017-18' in F:\xampp\htdocs\jinisms\database\mysqliz.php on line 50
+2017-04-29 16:07:31 - PHP Notice:  Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' AND '2017-18'' at line 1<br />Error No: 1064<br />SELECT subject_mark_id, total_mark FROM total_mark_of_subject WHERE exam_code = 'JEX01' AND course_code = 'JNI01' AND subject_code = 'JINS02', AND '2017-18' in F:\xampp\htdocs\jinisms\database\mysqliz.php on line 50
+2017-04-29 16:08:06 - PHP Notice:  Undefined variable: subject_total_mark in F:\xampp\htdocs\jinisms\student_marks_entry_ajax1.php on line 38
+2017-04-29 16:08:06 - PHP Notice:  Undefined variable: subject_total_mark in F:\xampp\htdocs\jinisms\student_marks_entry_ajax1.php on line 38
+2017-04-29 16:08:06 - PHP Notice:  Undefined variable: subject_total_mark in F:\xampp\htdocs\jinisms\student_marks_entry_ajax1.php on line 38
+2017-04-29 16:08:06 - PHP Notice:  Undefined variable: subject_total_mark in F:\xampp\htdocs\jinisms\student_marks_entry_ajax1.php on line 38
+2017-04-29 16:08:06 - PHP Notice:  Undefined variable: subject_total_mark in F:\xampp\htdocs\jinisms\student_marks_entry_ajax1.php on line 38
+2017-04-29 16:08:06 - PHP Notice:  Undefined variable: subject_total_mark in F:\xampp\htdocs\jinisms\student_marks_entry_ajax1.php on line 38
+2017-04-29 16:08:06 - PHP Notice:  Undefined variable: subject_total_mark in F:\xampp\htdocs\jinisms\student_marks_entry_ajax1.php on line 38
+2017-04-29 16:08:23 - PHP Notice:  Undefined variable: subject_total_mark in F:\xampp\htdocs\jinisms\student_marks_entry_ajax1.php on line 38
+2017-04-29 16:08:23 - PHP Notice:  Undefined variable: subject_total_mark in F:\xampp\htdocs\jinisms\student_marks_entry_ajax1.php on line 38
+2017-04-29 16:08:23 - PHP Notice:  Undefined variable: subject_total_mark in F:\xampp\htdocs\jinisms\student_marks_entry_ajax1.php on line 38
+2017-04-29 16:08:23 - PHP Notice:  Undefined variable: subject_total_mark in F:\xampp\htdocs\jinisms\student_marks_entry_ajax1.php on line 38
+2017-04-29 16:08:23 - PHP Notice:  Undefined variable: subject_total_mark in F:\xampp\htdocs\jinisms\student_marks_entry_ajax1.php on line 38
+2017-04-29 16:08:23 - PHP Notice:  Undefined variable: subject_total_mark in F:\xampp\htdocs\jinisms\student_marks_entry_ajax1.php on line 38
+2017-04-29 16:08:23 - PHP Notice:  Undefined variable: subject_total_mark in F:\xampp\htdocs\jinisms\student_marks_entry_ajax1.php on line 38
+2017-04-29 16:11:48 - PHP Notice:  Undefined variable: subject_total_mark in F:\xampp\htdocs\jinisms\student_marks_entry_ajax1.php on line 38
+2017-04-29 16:11:48 - PHP Notice:  Undefined variable: subject_total_mark in F:\xampp\htdocs\jinisms\student_marks_entry_ajax1.php on line 38
+2017-04-29 16:11:48 - PHP Notice:  Undefined variable: subject_total_mark in F:\xampp\htdocs\jinisms\student_marks_entry_ajax1.php on line 38
+2017-04-29 16:11:48 - PHP Notice:  Undefined variable: subject_total_mark in F:\xampp\htdocs\jinisms\student_marks_entry_ajax1.php on line 38
+2017-04-29 16:11:48 - PHP Notice:  Undefined variable: subject_total_mark in F:\xampp\htdocs\jinisms\student_marks_entry_ajax1.php on line 38
+2017-04-29 16:11:48 - PHP Notice:  Undefined variable: subject_total_mark in F:\xampp\htdocs\jinisms\student_marks_entry_ajax1.php on line 38
+2017-04-29 16:11:48 - PHP Notice:  Undefined variable: subject_total_mark in F:\xampp\htdocs\jinisms\student_marks_entry_ajax1.php on line 38
+2017-04-29 16:40:21 - PHP Notice:  Array to string conversion in F:\xampp\htdocs\jinisms\student_marks_entry.php on line 22
+2017-04-29 16:41:20 - PHP Notice:  Undefined index: total_mark in F:\xampp\htdocs\jinisms\student_marks_entry_ajax1.php on line 36
+2017-04-29 16:41:20 - PHP Notice:  Undefined index: total_mark in F:\xampp\htdocs\jinisms\student_marks_entry_ajax1.php on line 36
+2017-04-29 16:41:20 - PHP Notice:  Undefined index: total_mark in F:\xampp\htdocs\jinisms\student_marks_entry_ajax1.php on line 36
+2017-04-29 16:41:20 - PHP Notice:  Undefined index: total_mark in F:\xampp\htdocs\jinisms\student_marks_entry_ajax1.php on line 36
+2017-04-29 16:41:20 - PHP Notice:  Undefined index: total_mark in F:\xampp\htdocs\jinisms\student_marks_entry_ajax1.php on line 36
+2017-04-29 16:41:20 - PHP Notice:  Undefined index: total_mark in F:\xampp\htdocs\jinisms\student_marks_entry_ajax1.php on line 36
+2017-04-29 16:41:20 - PHP Notice:  Undefined index: total_mark in F:\xampp\htdocs\jinisms\student_marks_entry_ajax1.php on line 36
+2017-04-29 16:41:26 - PHP Notice:  Undefined index: total_mark in F:\xampp\htdocs\jinisms\student_marks_entry_ajax1.php on line 36
+2017-04-29 16:41:26 - PHP Notice:  Undefined index: total_mark in F:\xampp\htdocs\jinisms\student_marks_entry_ajax1.php on line 36
+2017-04-29 16:41:26 - PHP Notice:  Undefined index: total_mark in F:\xampp\htdocs\jinisms\student_marks_entry_ajax1.php on line 36
+2017-04-29 16:41:26 - PHP Notice:  Undefined index: total_mark in F:\xampp\htdocs\jinisms\student_marks_entry_ajax1.php on line 36
+2017-04-29 16:41:26 - PHP Notice:  Undefined index: total_mark in F:\xampp\htdocs\jinisms\student_marks_entry_ajax1.php on line 36
+2017-04-29 16:41:26 - PHP Notice:  Undefined index: total_mark in F:\xampp\htdocs\jinisms\student_marks_entry_ajax1.php on line 36
+2017-04-29 16:41:26 - PHP Notice:  Undefined index: total_mark in F:\xampp\htdocs\jinisms\student_marks_entry_ajax1.php on line 36
+2017-04-29 16:41:28 - PHP Notice:  Undefined index: total_mark in F:\xampp\htdocs\jinisms\student_marks_entry_ajax1.php on line 36
+2017-04-29 16:41:28 - PHP Notice:  Undefined index: total_mark in F:\xampp\htdocs\jinisms\student_marks_entry_ajax1.php on line 36
+2017-04-29 16:41:28 - PHP Notice:  Undefined index: total_mark in F:\xampp\htdocs\jinisms\student_marks_entry_ajax1.php on line 36
+2017-04-29 16:41:28 - PHP Notice:  Undefined index: total_mark in F:\xampp\htdocs\jinisms\student_marks_entry_ajax1.php on line 36
+2017-04-29 16:41:28 - PHP Notice:  Undefined index: total_mark in F:\xampp\htdocs\jinisms\student_marks_entry_ajax1.php on line 36
+2017-04-29 16:41:28 - PHP Notice:  Undefined index: total_mark in F:\xampp\htdocs\jinisms\student_marks_entry_ajax1.php on line 36
+2017-04-29 16:41:28 - PHP Notice:  Undefined index: total_mark in F:\xampp\htdocs\jinisms\student_marks_entry_ajax1.php on line 36
+2017-04-29 16:41:38 - PHP Notice:  Undefined index: total_mark in F:\xampp\htdocs\jinisms\student_marks_entry_ajax1.php on line 36
+2017-04-29 16:41:38 - PHP Notice:  Undefined index: total_mark in F:\xampp\htdocs\jinisms\student_marks_entry_ajax1.php on line 36
+2017-04-29 16:41:38 - PHP Notice:  Undefined index: total_mark in F:\xampp\htdocs\jinisms\student_marks_entry_ajax1.php on line 36
+2017-04-29 16:41:38 - PHP Notice:  Undefined index: total_mark in F:\xampp\htdocs\jinisms\student_marks_entry_ajax1.php on line 36
+2017-04-29 16:41:38 - PHP Notice:  Undefined index: total_mark in F:\xampp\htdocs\jinisms\student_marks_entry_ajax1.php on line 36
+2017-04-29 16:41:38 - PHP Notice:  Undefined index: total_mark in F:\xampp\htdocs\jinisms\student_marks_entry_ajax1.php on line 36
+2017-04-29 16:41:38 - PHP Notice:  Undefined index: total_mark in F:\xampp\htdocs\jinisms\student_marks_entry_ajax1.php on line 36
+2017-04-29 16:43:21 - PHP Notice:  Undefined index: total_mark in F:\xampp\htdocs\jinisms\student_marks_entry_ajax1.php on line 36
+2017-04-29 16:43:21 - PHP Notice:  Undefined index: total_mark in F:\xampp\htdocs\jinisms\student_marks_entry_ajax1.php on line 36
+2017-04-29 16:43:21 - PHP Notice:  Undefined index: total_mark in F:\xampp\htdocs\jinisms\student_marks_entry_ajax1.php on line 36
+2017-04-29 16:43:21 - PHP Notice:  Undefined index: total_mark in F:\xampp\htdocs\jinisms\student_marks_entry_ajax1.php on line 36
+2017-04-29 16:43:21 - PHP Notice:  Undefined index: total_mark in F:\xampp\htdocs\jinisms\student_marks_entry_ajax1.php on line 36
+2017-04-29 16:43:21 - PHP Notice:  Undefined index: total_mark in F:\xampp\htdocs\jinisms\student_marks_entry_ajax1.php on line 36
+2017-04-29 16:43:21 - PHP Notice:  Undefined index: total_mark in F:\xampp\htdocs\jinisms\student_marks_entry_ajax1.php on line 36
+2017-04-29 16:43:27 - PHP Notice:  Undefined index: total_mark in F:\xampp\htdocs\jinisms\student_marks_entry_ajax1.php on line 36
+2017-04-29 16:43:27 - PHP Notice:  Undefined index: total_mark in F:\xampp\htdocs\jinisms\student_marks_entry_ajax1.php on line 36
+2017-04-29 16:43:27 - PHP Notice:  Undefined index: total_mark in F:\xampp\htdocs\jinisms\student_marks_entry_ajax1.php on line 36
+2017-04-29 16:43:27 - PHP Notice:  Undefined index: total_mark in F:\xampp\htdocs\jinisms\student_marks_entry_ajax1.php on line 36
+2017-04-29 16:43:27 - PHP Notice:  Undefined index: total_mark in F:\xampp\htdocs\jinisms\student_marks_entry_ajax1.php on line 36
+2017-04-29 16:43:27 - PHP Notice:  Undefined index: total_mark in F:\xampp\htdocs\jinisms\student_marks_entry_ajax1.php on line 36
+2017-04-29 16:43:27 - PHP Notice:  Undefined index: total_mark in F:\xampp\htdocs\jinisms\student_marks_entry_ajax1.php on line 36
+2017-04-29 16:52:20 - PHP Notice:  Undefined index: total_mark in F:\xampp\htdocs\jinisms\student_marks_entry_ajax1.php on line 36
+2017-04-29 16:52:20 - PHP Notice:  Undefined index: total_mark in F:\xampp\htdocs\jinisms\student_marks_entry_ajax1.php on line 36
+2017-04-29 16:52:20 - PHP Notice:  Undefined index: total_mark in F:\xampp\htdocs\jinisms\student_marks_entry_ajax1.php on line 36
+2017-04-29 16:52:20 - PHP Notice:  Undefined index: total_mark in F:\xampp\htdocs\jinisms\student_marks_entry_ajax1.php on line 36
+2017-04-29 16:52:20 - PHP Notice:  Undefined index: total_mark in F:\xampp\htdocs\jinisms\student_marks_entry_ajax1.php on line 36
+2017-04-29 16:52:20 - PHP Notice:  Undefined index: total_mark in F:\xampp\htdocs\jinisms\student_marks_entry_ajax1.php on line 36
+2017-04-29 16:52:20 - PHP Notice:  Undefined index: total_mark in F:\xampp\htdocs\jinisms\student_marks_entry_ajax1.php on line 36
+2017-04-29 16:52:26 - PHP Notice:  Undefined index: total_mark in F:\xampp\htdocs\jinisms\student_marks_entry_ajax1.php on line 36
+2017-04-29 16:52:26 - PHP Notice:  Undefined index: total_mark in F:\xampp\htdocs\jinisms\student_marks_entry_ajax1.php on line 36
+2017-04-29 16:52:26 - PHP Notice:  Undefined index: total_mark in F:\xampp\htdocs\jinisms\student_marks_entry_ajax1.php on line 36
+2017-04-29 16:52:26 - PHP Notice:  Undefined index: total_mark in F:\xampp\htdocs\jinisms\student_marks_entry_ajax1.php on line 36
+2017-04-29 16:52:26 - PHP Notice:  Undefined index: total_mark in F:\xampp\htdocs\jinisms\student_marks_entry_ajax1.php on line 36
+2017-04-29 16:52:26 - PHP Notice:  Undefined index: total_mark in F:\xampp\htdocs\jinisms\student_marks_entry_ajax1.php on line 36
+2017-04-29 16:52:26 - PHP Notice:  Undefined index: total_mark in F:\xampp\htdocs\jinisms\student_marks_entry_ajax1.php on line 36
+2017-04-29 16:52:27 - PHP Notice:  Undefined index: total_mark in F:\xampp\htdocs\jinisms\student_marks_entry_ajax1.php on line 36
+2017-04-29 16:52:27 - PHP Notice:  Undefined index: total_mark in F:\xampp\htdocs\jinisms\student_marks_entry_ajax1.php on line 36
+2017-04-29 16:52:27 - PHP Notice:  Undefined index: total_mark in F:\xampp\htdocs\jinisms\student_marks_entry_ajax1.php on line 36
+2017-04-29 16:52:27 - PHP Notice:  Undefined index: total_mark in F:\xampp\htdocs\jinisms\student_marks_entry_ajax1.php on line 36
+2017-04-29 16:52:27 - PHP Notice:  Undefined index: total_mark in F:\xampp\htdocs\jinisms\student_marks_entry_ajax1.php on line 36
+2017-04-29 16:52:27 - PHP Notice:  Undefined index: total_mark in F:\xampp\htdocs\jinisms\student_marks_entry_ajax1.php on line 36
+2017-04-29 16:52:27 - PHP Notice:  Undefined index: total_mark in F:\xampp\htdocs\jinisms\student_marks_entry_ajax1.php on line 36
+2017-04-29 17:04:32 - PHP Notice:  Array to string conversion in F:\xampp\htdocs\jinisms\student_marks_entry.php on line 22
+2017-04-29 17:04:40 - PHP Notice:  Array to string conversion in F:\xampp\htdocs\jinisms\student_marks_entry.php on line 22
+2017-04-29 17:04:56 - PHP Notice:  Array to string conversion in F:\xampp\htdocs\jinisms\student_marks_entry.php on line 22
+2017-04-29 17:36:08 - PHP Notice:  Undefined index: students in F:\xampp\htdocs\jinisms\student_marks_entry.php on line 35
+2017-04-29 17:36:08 - PHP Warning:  Invalid argument supplied for foreach() in F:\xampp\htdocs\jinisms\student_marks_entry.php on line 35
+2017-04-29 17:36:21 - PHP Notice:  Undefined index: students in F:\xampp\htdocs\jinisms\student_marks_entry.php on line 35
+2017-04-29 17:36:21 - PHP Warning:  Invalid argument supplied for foreach() in F:\xampp\htdocs\jinisms\student_marks_entry.php on line 35
+2017-04-29 17:38:48 - PHP Notice:  Undefined index: students in F:\xampp\htdocs\jinisms\student_marks_entry.php on line 35
+2017-04-29 17:38:48 - PHP Warning:  Invalid argument supplied for foreach() in F:\xampp\htdocs\jinisms\student_marks_entry.php on line 35
+2017-05-01 09:57:31 - PHP Warning:  mysqli::mysqli(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ in F:\xampp\htdocs\jinisms\database\mysqliz.php on line 6
+2017-05-01 09:57:31 - PHP Notice:  Error: Could not make a database link (2002) No connection could be made because the target machine actively refused it.
+ in F:\xampp\htdocs\jinisms\database\mysqliz.php on line 9
+2017-05-01 09:57:31 - PHP Warning:  mysqli::query(): Couldn't fetch mysqli in F:\xampp\htdocs\jinisms\database\mysqliz.php on line 12
+2017-05-01 09:57:31 - PHP Warning:  mysqli::query(): Couldn't fetch mysqli in F:\xampp\htdocs\jinisms\database\mysqliz.php on line 13
+2017-05-01 09:57:31 - PHP Warning:  mysqli::query(): Couldn't fetch mysqli in F:\xampp\htdocs\jinisms\database\mysqliz.php on line 14
+2017-05-01 09:57:31 - PHP Warning:  mysqli::query(): Couldn't fetch mysqli in F:\xampp\htdocs\jinisms\database\mysqliz.php on line 15
+2017-05-01 09:57:31 - PHP Warning:  mysqli::query(): Couldn't fetch mysqli in F:\xampp\htdocs\jinisms\database\mysqliz.php on line 16
+2017-05-01 10:09:36 - PHP Notice:  Undefined variable: error_obtain_marks in F:\xampp\htdocs\jinisms\student_marks_entry.php on line 135
+2017-05-01 10:25:56 - PHP Notice:  Undefined variable: students in F:\xampp\htdocs\jinisms\student_marks_entry.php on line 131
+2017-05-01 10:42:12 - PHP Notice:  Undefined variable: students in F:\xampp\htdocs\jinisms\student_marks_entry.php on line 125
+2017-05-01 10:42:51 - PHP Notice:  Undefined index: total_mark in F:\xampp\htdocs\jinisms\student_marks_entry_ajax1.php on line 36
+2017-05-01 10:42:51 - PHP Notice:  Undefined index: total_mark in F:\xampp\htdocs\jinisms\student_marks_entry_ajax1.php on line 36
+2017-05-01 10:42:51 - PHP Notice:  Undefined index: total_mark in F:\xampp\htdocs\jinisms\student_marks_entry_ajax1.php on line 36
+2017-05-01 10:42:51 - PHP Notice:  Undefined index: total_mark in F:\xampp\htdocs\jinisms\student_marks_entry_ajax1.php on line 36
+2017-05-01 10:42:51 - PHP Notice:  Undefined index: total_mark in F:\xampp\htdocs\jinisms\student_marks_entry_ajax1.php on line 36
+2017-05-01 10:42:51 - PHP Notice:  Undefined index: total_mark in F:\xampp\htdocs\jinisms\student_marks_entry_ajax1.php on line 36
+2017-05-01 10:42:51 - PHP Notice:  Undefined index: total_mark in F:\xampp\htdocs\jinisms\student_marks_entry_ajax1.php on line 36
+2017-05-01 10:44:37 - PHP Notice:  Undefined index: total_mark in F:\xampp\htdocs\jinisms\student_marks_entry_ajax1.php on line 36
+2017-05-01 10:44:37 - PHP Notice:  Undefined index: total_mark in F:\xampp\htdocs\jinisms\student_marks_entry_ajax1.php on line 36
+2017-05-01 10:44:37 - PHP Notice:  Undefined index: total_mark in F:\xampp\htdocs\jinisms\student_marks_entry_ajax1.php on line 36
+2017-05-01 10:44:37 - PHP Notice:  Undefined index: total_mark in F:\xampp\htdocs\jinisms\student_marks_entry_ajax1.php on line 36
+2017-05-01 10:44:37 - PHP Notice:  Undefined index: total_mark in F:\xampp\htdocs\jinisms\student_marks_entry_ajax1.php on line 36
+2017-05-01 10:44:37 - PHP Notice:  Undefined index: total_mark in F:\xampp\htdocs\jinisms\student_marks_entry_ajax1.php on line 36
+2017-05-01 10:44:37 - PHP Notice:  Undefined index: total_mark in F:\xampp\htdocs\jinisms\student_marks_entry_ajax1.php on line 36
+2017-05-01 10:44:43 - PHP Notice:  Undefined index: total_mark in F:\xampp\htdocs\jinisms\student_marks_entry_ajax1.php on line 36
+2017-05-01 10:44:43 - PHP Notice:  Undefined index: total_mark in F:\xampp\htdocs\jinisms\student_marks_entry_ajax1.php on line 36
+2017-05-01 10:44:43 - PHP Notice:  Undefined index: total_mark in F:\xampp\htdocs\jinisms\student_marks_entry_ajax1.php on line 36
+2017-05-01 10:44:43 - PHP Notice:  Undefined index: total_mark in F:\xampp\htdocs\jinisms\student_marks_entry_ajax1.php on line 36
+2017-05-01 10:44:43 - PHP Notice:  Undefined index: total_mark in F:\xampp\htdocs\jinisms\student_marks_entry_ajax1.php on line 36
+2017-05-01 10:44:43 - PHP Notice:  Undefined index: total_mark in F:\xampp\htdocs\jinisms\student_marks_entry_ajax1.php on line 36
+2017-05-01 10:44:43 - PHP Notice:  Undefined index: total_mark in F:\xampp\htdocs\jinisms\student_marks_entry_ajax1.php on line 36
+2017-05-01 10:52:55 - PHP Notice:  Undefined index: total_mark in F:\xampp\htdocs\jinisms\student_marks_entry_ajax1.php on line 40
+2017-05-01 10:52:55 - PHP Notice:  Undefined index: total_mark in F:\xampp\htdocs\jinisms\student_marks_entry_ajax1.php on line 40
+2017-05-01 10:52:55 - PHP Notice:  Undefined index: total_mark in F:\xampp\htdocs\jinisms\student_marks_entry_ajax1.php on line 40
+2017-05-01 10:52:55 - PHP Notice:  Undefined index: total_mark in F:\xampp\htdocs\jinisms\student_marks_entry_ajax1.php on line 40
+2017-05-01 10:52:55 - PHP Notice:  Undefined index: total_mark in F:\xampp\htdocs\jinisms\student_marks_entry_ajax1.php on line 40
+2017-05-01 10:52:55 - PHP Notice:  Undefined index: total_mark in F:\xampp\htdocs\jinisms\student_marks_entry_ajax1.php on line 40
+2017-05-01 10:52:55 - PHP Notice:  Undefined index: total_mark in F:\xampp\htdocs\jinisms\student_marks_entry_ajax1.php on line 40
+2017-05-01 10:54:03 - PHP Notice:  Undefined index: total_mark in F:\xampp\htdocs\jinisms\student_marks_entry_ajax1.php on line 40
+2017-05-01 10:54:03 - PHP Notice:  Undefined index: total_mark in F:\xampp\htdocs\jinisms\student_marks_entry_ajax1.php on line 40
+2017-05-01 10:54:03 - PHP Notice:  Undefined index: total_mark in F:\xampp\htdocs\jinisms\student_marks_entry_ajax1.php on line 40
+2017-05-01 10:54:03 - PHP Notice:  Undefined index: total_mark in F:\xampp\htdocs\jinisms\student_marks_entry_ajax1.php on line 40
+2017-05-01 10:54:03 - PHP Notice:  Undefined index: total_mark in F:\xampp\htdocs\jinisms\student_marks_entry_ajax1.php on line 40
+2017-05-01 10:54:03 - PHP Notice:  Undefined index: total_mark in F:\xampp\htdocs\jinisms\student_marks_entry_ajax1.php on line 40
+2017-05-01 10:54:03 - PHP Notice:  Undefined index: total_mark in F:\xampp\htdocs\jinisms\student_marks_entry_ajax1.php on line 40
+2017-05-01 11:47:25 - PHP Warning:  Invalid argument supplied for foreach() in F:\xampp\htdocs\jinisms\student_marks_entry.php on line 137
+2017-05-01 11:57:55 - PHP Notice:  Undefined variable: key in F:\xampp\htdocs\jinisms\student_marks_entry.php on line 36
+2017-05-01 11:57:55 - PHP Notice:  Undefined variable: key in F:\xampp\htdocs\jinisms\student_marks_entry.php on line 36
+2017-05-01 11:57:55 - PHP Notice:  Undefined variable: key in F:\xampp\htdocs\jinisms\student_marks_entry.php on line 36
+2017-05-01 11:57:55 - PHP Notice:  Undefined variable: key in F:\xampp\htdocs\jinisms\student_marks_entry.php on line 36
+2017-05-01 11:57:55 - PHP Notice:  Undefined variable: key in F:\xampp\htdocs\jinisms\student_marks_entry.php on line 36
+2017-05-01 11:57:55 - PHP Notice:  Undefined variable: key in F:\xampp\htdocs\jinisms\student_marks_entry.php on line 36
+2017-05-01 11:57:55 - PHP Notice:  Undefined variable: key in F:\xampp\htdocs\jinisms\student_marks_entry.php on line 36
+2017-05-01 12:01:53 - PHP Notice:  Undefined index: total_marks in F:\xampp\htdocs\jinisms\student_marks_entry.php on line 38
+2017-05-01 12:01:53 - PHP Notice:  Undefined index: total_marks in F:\xampp\htdocs\jinisms\student_marks_entry.php on line 38
+2017-05-01 12:01:53 - PHP Notice:  Undefined index: total_marks in F:\xampp\htdocs\jinisms\student_marks_entry.php on line 38
+2017-05-01 12:01:53 - PHP Notice:  Undefined index: total_marks in F:\xampp\htdocs\jinisms\student_marks_entry.php on line 38
+2017-05-01 12:01:53 - PHP Notice:  Undefined index: total_marks in F:\xampp\htdocs\jinisms\student_marks_entry.php on line 38
+2017-05-01 12:01:53 - PHP Notice:  Undefined index: total_marks in F:\xampp\htdocs\jinisms\student_marks_entry.php on line 38
+2017-05-01 12:01:53 - PHP Notice:  Undefined index: total_marks in F:\xampp\htdocs\jinisms\student_marks_entry.php on line 38
+2017-05-01 12:34:43 - PHP Notice:  Undefined variable: _POSt in F:\xampp\htdocs\jinisms\student_marks_entry.php on line 39
+2017-05-01 12:34:43 - PHP Unknown:  Object of class SqlIQuery could not be converted to string in F:\xampp\htdocs\jinisms\student_marks_entry.php on line 43
+2017-05-01 12:34:43 - PHP Notice:  Object of class SqlIQuery to string conversion in F:\xampp\htdocs\jinisms\student_marks_entry.php on line 43
+2017-05-01 12:34:43 - PHP Notice:  Undefined variable: Object in F:\xampp\htdocs\jinisms\student_marks_entry.php on line 43
+2017-05-01 12:34:50 - PHP Unknown:  Object of class SqlIQuery could not be converted to string in F:\xampp\htdocs\jinisms\student_marks_entry.php on line 43
+2017-05-01 12:34:50 - PHP Notice:  Object of class SqlIQuery to string conversion in F:\xampp\htdocs\jinisms\student_marks_entry.php on line 43
+2017-05-01 12:34:50 - PHP Notice:  Undefined variable: Object in F:\xampp\htdocs\jinisms\student_marks_entry.php on line 43
+2017-05-01 12:38:49 - PHP Notice:  Error: Table 'jinisms.student_mark' doesn't exist<br />Error No: 1146<br />INSERT INTO student_mark( `subject_mark_id`, `student_id`, `obtained_marks`, `session_year`) VALUES ('1','1','100','2017-18'),('1','2','10','2017-18'),('1','4','25','2017-18'),('1','5','48','2017-18'),('1','6','75','2017-18'),('1','7','95','2017-18'),('1','8','68','2017-18') in F:\xampp\htdocs\jinisms\database\mysqliz.php on line 50
+2017-05-01 13:07:01 - PHP Warning:  Invalid argument supplied for foreach() in F:\xampp\htdocs\jinisms\student_marks_entry.php on line 134
+2017-05-01 13:07:15 - PHP Warning:  Invalid argument supplied for foreach() in F:\xampp\htdocs\jinisms\student_marks_entry.php on line 134
+2017-05-01 13:07:18 - PHP Warning:  Invalid argument supplied for foreach() in F:\xampp\htdocs\jinisms\student_marks_entry.php on line 134
+2017-05-01 13:09:04 - PHP Warning:  Invalid argument supplied for foreach() in F:\xampp\htdocs\jinisms\student_marks_entry.php on line 133
+2017-05-01 13:09:04 - PHP Notice:  Undefined variable: visibility in F:\xampp\htdocs\jinisms\student_marks_entry.php on line 152
+2017-05-01 13:09:07 - PHP Warning:  Invalid argument supplied for foreach() in F:\xampp\htdocs\jinisms\student_marks_entry.php on line 133
+2017-05-01 13:09:07 - PHP Notice:  Undefined variable: visibility in F:\xampp\htdocs\jinisms\student_marks_entry.php on line 152
+2017-05-01 13:09:26 - PHP Warning:  Invalid argument supplied for foreach() in F:\xampp\htdocs\jinisms\student_marks_entry.php on line 133
+2017-05-01 13:09:26 - PHP Notice:  Undefined variable: visibility in F:\xampp\htdocs\jinisms\student_marks_entry.php on line 152
+2017-05-01 13:11:23 - PHP Warning:  Invalid argument supplied for foreach() in F:\xampp\htdocs\jinisms\student_marks_entry.php on line 133
+2017-05-01 13:11:23 - PHP Notice:  Undefined variable: visibility in F:\xampp\htdocs\jinisms\student_marks_entry.php on line 152
+2017-05-01 13:16:09 - PHP Notice:  Undefined variable: visibility in F:\xampp\htdocs\jinisms\student_marks_entry.php on line 153
+2017-05-01 13:25:49 - PHP Notice:  Undefined variable: visibility in F:\xampp\htdocs\jinisms\student_marks_entry.php on line 153
+2017-05-01 15:50:31 - PHP Notice:  Undefined index: subject_mark_id in F:\xampp\htdocs\jinisms\student_marks_entry.php on line 30
+2017-05-01 15:50:31 - PHP Notice:  Undefined index: students in F:\xampp\htdocs\jinisms\student_marks_entry.php on line 32
+2017-05-01 15:50:31 - PHP Warning:  Invalid argument supplied for foreach() in F:\xampp\htdocs\jinisms\student_marks_entry.php on line 32
+2017-05-01 15:50:31 - PHP Notice:  Undefined index: students in F:\xampp\htdocs\jinisms\class\class.inc.php on line 1892
+2017-05-01 15:50:31 - PHP Warning:  Invalid argument supplied for foreach() in F:\xampp\htdocs\jinisms\class\class.inc.php on line 1892
+2017-05-01 15:50:31 - PHP Notice:  Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1<br />Error No: 1064<br />INSERT INTO student_marks( `subject_mark_id`, `student_id`, `obtained_marks`, `session_year`) VALUES  in F:\xampp\htdocs\jinisms\database\mysqliz.php on line 50
+2017-05-01 16:01:10 - PHP Notice:  Undefined variable: isset in F:\xampp\htdocs\jinisms\student_marks_entry.php on line 17
+2017-05-01 16:04:51 - PHP Notice:  Undefined variable: visibility in F:\xampp\htdocs\jinisms\student_marks_entry.php on line 158
+2017-05-01 16:04:53 - PHP Notice:  Undefined variable: visibility in F:\xampp\htdocs\jinisms\student_marks_entry.php on line 158
+2017-05-01 16:04:55 - PHP Notice:  Undefined variable: visibility in F:\xampp\htdocs\jinisms\student_marks_entry.php on line 158
+2017-05-01 16:05:02 - PHP Notice:  Undefined variable: visibility in F:\xampp\htdocs\jinisms\student_marks_entry.php on line 158
+2017-05-01 16:05:08 - PHP Notice:  Undefined variable: visibility in F:\xampp\htdocs\jinisms\student_marks_entry.php on line 157
+2017-05-01 16:07:19 - PHP Notice:  Undefined variable: visibility in F:\xampp\htdocs\jinisms\student_marks_entry.php on line 157
+2017-05-01 16:07:31 - PHP Notice:  Undefined variable: visibility in F:\xampp\htdocs\jinisms\student_marks_entry.php on line 157
+2017-05-01 16:07:41 - PHP Notice:  Undefined variable: visibility in F:\xampp\htdocs\jinisms\student_marks_entry.php on line 158
+2017-05-01 16:09:53 - PHP Notice:  Undefined variable: visibility in F:\xampp\htdocs\jinisms\student_marks_entry.php on line 153
+2017-05-01 16:10:01 - PHP Notice:  Undefined variable: visibility in F:\xampp\htdocs\jinisms\student_marks_entry.php on line 153
+2017-05-01 16:10:08 - PHP Notice:  Undefined variable: visibility in F:\xampp\htdocs\jinisms\student_marks_entry.php on line 153
+2017-05-01 16:10:36 - PHP Notice:  Undefined variable: visibility in F:\xampp\htdocs\jinisms\student_marks_entry.php on line 153
+2017-05-01 16:10:57 - PHP Notice:  Undefined variable: visibility in F:\xampp\htdocs\jinisms\student_marks_entry.php on line 153
+2017-05-01 16:11:11 - PHP Notice:  Undefined variable: visibility in F:\xampp\htdocs\jinisms\student_marks_entry.php on line 153
+2017-05-01 16:28:07 - PHP Notice:  Undefined variable: visibility in F:\xampp\htdocs\jinisms\student_marks_entry.php on line 153
+2017-05-01 16:33:00 - PHP Notice:  Undefined variable: visibility in F:\xampp\htdocs\jinisms\student_marks_entry.php on line 153
+2017-05-01 16:33:17 - PHP Notice:  Undefined variable: visibility in F:\xampp\htdocs\jinisms\student_marks_entry.php on line 153
+2017-05-01 16:43:45 - PHP Notice:  Undefined variable: visibility in F:\xampp\htdocs\jinisms\student_marks_entry.php on line 153
+2017-05-01 16:43:45 - PHP Notice:  Undefined variable: visibility in F:\xampp\htdocs\jinisms\student_marks_entry.php on line 153
+2017-05-01 16:43:47 - PHP Notice:  Undefined index: subject_mark_id in F:\xampp\htdocs\jinisms\student_marks_entry.php on line 30
+2017-05-01 16:43:47 - PHP Notice:  Undefined index: students in F:\xampp\htdocs\jinisms\student_marks_entry.php on line 32
+2017-05-01 16:43:47 - PHP Warning:  Invalid argument supplied for foreach() in F:\xampp\htdocs\jinisms\student_marks_entry.php on line 32
+2017-05-01 16:43:47 - PHP Notice:  Undefined index: students in F:\xampp\htdocs\jinisms\class\class.inc.php on line 1892
+2017-05-01 16:43:47 - PHP Warning:  Invalid argument supplied for foreach() in F:\xampp\htdocs\jinisms\class\class.inc.php on line 1892
+2017-05-01 16:43:47 - PHP Notice:  Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1<br />Error No: 1064<br />INSERT INTO student_marks( `subject_mark_id`, `student_id`, `obtained_marks`, `session_year`) VALUES  in F:\xampp\htdocs\jinisms\database\mysqliz.php on line 50
+2017-05-01 16:44:01 - PHP Notice:  Undefined variable: visibility in F:\xampp\htdocs\jinisms\student_marks_entry.php on line 153
+2017-05-01 16:44:07 - PHP Notice:  Undefined variable: visibility in F:\xampp\htdocs\jinisms\student_marks_entry.php on line 153
+2017-05-01 16:44:19 - PHP Notice:  Undefined variable: visibility in F:\xampp\htdocs\jinisms\student_marks_entry.php on line 153
+2017-05-01 16:44:19 - PHP Notice:  Undefined variable: visibility in F:\xampp\htdocs\jinisms\student_marks_entry.php on line 153
+2017-05-01 16:44:26 - PHP Notice:  Undefined variable: visibility in F:\xampp\htdocs\jinisms\student_marks_entry.php on line 153
+2017-05-01 16:44:26 - PHP Notice:  Undefined variable: visibility in F:\xampp\htdocs\jinisms\student_marks_entry.php on line 153
+2017-05-01 16:44:35 - PHP Notice:  Undefined variable: visibility in F:\xampp\htdocs\jinisms\student_marks_entry.php on line 153
+2017-05-01 16:44:40 - PHP Notice:  Undefined variable: visibility in F:\xampp\htdocs\jinisms\student_marks_entry.php on line 153
+2017-05-01 16:44:56 - PHP Notice:  Undefined variable: visibility in F:\xampp\htdocs\jinisms\student_marks_entry.php on line 153
+2017-05-01 16:53:12 - PHP Notice:  Undefined variable: visibility in F:\xampp\htdocs\jinisms\student_marks_entry.php on line 153
+2017-05-01 16:53:16 - PHP Notice:  Undefined variable: visibility in F:\xampp\htdocs\jinisms\student_marks_entry.php on line 153
+2017-05-01 16:54:04 - PHP Notice:  Undefined variable: visibility in F:\xampp\htdocs\jinisms\student_marks_entry.php on line 153
+2017-05-01 16:54:16 - PHP Notice:  Undefined variable: visibility in F:\xampp\htdocs\jinisms\student_marks_entry.php on line 153
+2017-05-01 17:12:43 - PHP Notice:  Undefined index: subject_mark_id in F:\xampp\htdocs\jinisms\student_marks_entry.php on line 33
+2017-05-01 17:12:43 - PHP Notice:  Undefined index: students in F:\xampp\htdocs\jinisms\student_marks_entry.php on line 35
+2017-05-01 17:12:43 - PHP Warning:  Invalid argument supplied for foreach() in F:\xampp\htdocs\jinisms\student_marks_entry.php on line 35
+2017-05-01 17:12:43 - PHP Notice:  Undefined index: students in F:\xampp\htdocs\jinisms\class\class.inc.php on line 1892
+2017-05-01 17:12:43 - PHP Warning:  Invalid argument supplied for foreach() in F:\xampp\htdocs\jinisms\class\class.inc.php on line 1892
+2017-05-01 17:12:43 - PHP Notice:  Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1<br />Error No: 1064<br />INSERT INTO student_marks( `subject_mark_id`, `student_id`, `obtained_marks`, `session_year`) VALUES  in F:\xampp\htdocs\jinisms\database\mysqliz.php on line 50
+2017-05-02 10:43:58 - PHP Notice:  Error: Unknown column 'COUNT' in 'field list'<br />Error No: 1054<br />SELECT COUNT AS total FROM student_marks WHERE exam_id = '1' in F:\xampp\htdocs\jinisms\database\mysqliz.php on line 50
+2017-05-02 10:44:13 - PHP Notice:  Error: Unknown column 'exam_id' in 'where clause'<br />Error No: 1054<br />SELECT COUNT(*) AS total FROM student_marks WHERE exam_id = '1' in F:\xampp\htdocs\jinisms\database\mysqliz.php on line 50
+2017-05-02 12:02:30 - PHP Notice:  Undefined variable: menu_student in F:\xampp\htdocs\jinisms\result_generate.php on line 55
+2017-05-02 12:02:30 - PHP Notice:  Undefined variable: menu_student_sub2 in F:\xampp\htdocs\jinisms\result_generate.php on line 56
+2017-05-02 12:06:59 - PHP Notice:  Undefined index: set in F:\xampp\htdocs\jinisms\result_generate.php on line 25
+2017-05-02 12:11:37 - PHP Notice:  Undefined index: subject_code in F:\xampp\htdocs\jinisms\result_generate.php on line 29
+2017-05-02 12:13:19 - PHP Notice:  Undefined index: subject_code in F:\xampp\htdocs\jinisms\result_generate.php on line 29
+2017-05-02 12:13:26 - PHP Notice:  Undefined index: subject_code in F:\xampp\htdocs\jinisms\result_generate.php on line 29
+2017-05-02 12:13:52 - PHP Notice:  Undefined index: subject_code in F:\xampp\htdocs\jinisms\result_generate.php on line 29
+2017-05-02 12:14:14 - PHP Notice:  Undefined index: subject_code in F:\xampp\htdocs\jinisms\result_generate.php on line 29
+2017-05-02 12:15:59 - PHP Notice:  Undefined index: subject_code in F:\xampp\htdocs\jinisms\result_generate.php on line 27
+2017-05-02 12:16:54 - PHP Notice:  Undefined index: subject_code in F:\xampp\htdocs\jinisms\result_generate.php on line 30
+2017-05-02 12:52:19 - PHP Notice:  Undefined variable: session in F:\xampp\htdocs\jinisms\result_generate.php on line 33
+2017-05-02 12:52:38 - PHP Notice:  Undefined index: subject_code in F:\xampp\htdocs\jinisms\result_generate.php on line 27
+2017-05-02 14:07:23 - PHP Notice:  Undefined index: course_code in F:\xampp\htdocs\jinisms\student_marks_entry_ajax.php on line 7
+2017-05-02 14:07:25 - PHP Notice:  Undefined index: course_code in F:\xampp\htdocs\jinisms\student_marks_entry_ajax.php on line 7
+2017-05-02 14:07:55 - PHP Notice:  Undefined index: course_code in F:\xampp\htdocs\jinisms\student_marks_entry_ajax.php on line 7
+2017-05-02 14:07:56 - PHP Notice:  Undefined index: course_code in F:\xampp\htdocs\jinisms\student_marks_entry_ajax.php on line 7
+2017-05-02 14:07:57 - PHP Notice:  Undefined index: course_code in F:\xampp\htdocs\jinisms\student_marks_entry_ajax.php on line 7
+2017-05-02 14:08:40 - PHP Notice:  Undefined index: course_code in F:\xampp\htdocs\jinisms\student_marks_entry_ajax.php on line 7
+2017-05-02 14:44:09 - PHP Notice:  Error: Unknown column 'session' in 'where clause'<br />Error No: 1054<br />SELECT subject_mark_id FROM total_mark_of_subject WHERE exam_code = 'JEX01' AND course_code = 'JNI01' AND session = '2017-18' in F:\xampp\htdocs\jinisms\database\mysqliz.php on line 50
+2017-05-02 14:44:25 - PHP Notice:  Undefined index: course_code in F:\xampp\htdocs\jinisms\student_marks_entry_ajax.php on line 7
+2017-05-02 14:44:26 - PHP Notice:  Undefined index: course_code in F:\xampp\htdocs\jinisms\student_marks_entry_ajax.php on line 7
+2017-05-02 14:44:27 - PHP Notice:  Undefined index: course_code in F:\xampp\htdocs\jinisms\student_marks_entry_ajax.php on line 7
+2017-05-02 14:48:18 - PHP Notice:  Undefined index: course_code in F:\xampp\htdocs\jinisms\student_marks_entry_ajax.php on line 7
+2017-05-02 14:48:21 - PHP Notice:  Undefined index: course_code in F:\xampp\htdocs\jinisms\student_marks_entry_ajax.php on line 7
+2017-05-02 14:51:46 - PHP Notice:  Undefined index: course_code in F:\xampp\htdocs\jinisms\student_marks_entry_ajax.php on line 7
+2017-05-02 14:51:47 - PHP Notice:  Undefined index: course_code in F:\xampp\htdocs\jinisms\student_marks_entry_ajax.php on line 7
+2017-05-02 15:01:11 - PHP Notice:  Undefined index: course_code in F:\xampp\htdocs\jinisms\student_marks_entry_ajax.php on line 7
+2017-05-02 15:10:50 - PHP Notice:  Undefined index: student_code in F:\xampp\htdocs\jinisms\result_generate.php on line 154
+2017-05-02 15:10:50 - PHP Notice:  Undefined index: student_code in F:\xampp\htdocs\jinisms\result_generate.php on line 154
+2017-05-02 15:10:50 - PHP Notice:  Undefined index: student_code in F:\xampp\htdocs\jinisms\result_generate.php on line 154
+2017-05-02 15:10:50 - PHP Notice:  Undefined index: student_code in F:\xampp\htdocs\jinisms\result_generate.php on line 154
+2017-05-02 15:10:50 - PHP Notice:  Undefined index: student_code in F:\xampp\htdocs\jinisms\result_generate.php on line 154
+2017-05-02 15:10:50 - PHP Notice:  Undefined index: student_code in F:\xampp\htdocs\jinisms\result_generate.php on line 154
+2017-05-02 15:10:50 - PHP Notice:  Undefined index: student_code in F:\xampp\htdocs\jinisms\result_generate.php on line 154
+2017-05-02 15:51:16 - PHP Warning:  Missing argument 2 for SqlIQuery::getExamByExamCode(), called in F:\xampp\htdocs\jinisms\report_card.php on line 33 and defined in F:\xampp\htdocs\jinisms\class\class.inc.php on line 1913
+2017-05-02 15:51:16 - PHP Warning:  Missing argument 3 for SqlIQuery::getExamByExamCode(), called in F:\xampp\htdocs\jinisms\report_card.php on line 33 and defined in F:\xampp\htdocs\jinisms\class\class.inc.php on line 1913
+2017-05-02 15:58:57 - PHP Notice:  Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'session_year = ''' at line 1<br />Error No: 1064<br />SELECT subject_mark_id, course_code FROM total_mark_of_subject WHERE exam_code = 'JEX01' session_year = '' in F:\xampp\htdocs\jinisms\database\mysqliz.php on line 50
+2017-05-02 15:59:24 - PHP Notice:  Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'session_year = '2017-18'' at line 1<br />Error No: 1064<br />SELECT subject_mark_id, course_code FROM total_mark_of_subject WHERE exam_code = 'JEX01' session_year = '2017-18' in F:\xampp\htdocs\jinisms\database\mysqliz.php on line 50
+2017-05-02 16:03:53 - PHP Notice:  Undefined index: course_code in F:\xampp\htdocs\jinisms\student_marks_entry_ajax.php on line 7
+2017-05-02 16:18:09 - PHP Notice:  Undefined variable: exam_code in F:\xampp\htdocs\jinisms\class\class.inc.php on line 1921
+2017-05-02 16:18:09 - PHP Notice:  Undefined index: registration_no in F:\xampp\htdocs\jinisms\report_card.php on line 72
+2017-05-02 16:18:09 - PHP Notice:  Undefined index: full_name in F:\xampp\htdocs\jinisms\report_card.php on line 73
+2017-05-02 16:18:09 - PHP Notice:  Undefined variable: student in F:\xampp\htdocs\jinisms\report_card.php on line 74
+2017-05-02 16:18:09 - PHP Notice:  Undefined variable: exam_code in F:\xampp\htdocs\jinisms\class\class.inc.php on line 1921
+2017-05-02 16:18:09 - PHP Notice:  Undefined index: registration_no in F:\xampp\htdocs\jinisms\report_card.php on line 72
+2017-05-02 16:18:09 - PHP Notice:  Undefined index: full_name in F:\xampp\htdocs\jinisms\report_card.php on line 73
+2017-05-02 16:18:09 - PHP Notice:  Undefined variable: student in F:\xampp\htdocs\jinisms\report_card.php on line 74
+2017-05-02 16:18:09 - PHP Notice:  Undefined variable: exam_code in F:\xampp\htdocs\jinisms\class\class.inc.php on line 1921
+2017-05-02 16:18:09 - PHP Notice:  Undefined index: registration_no in F:\xampp\htdocs\jinisms\report_card.php on line 72
+2017-05-02 16:18:09 - PHP Notice:  Undefined index: full_name in F:\xampp\htdocs\jinisms\report_card.php on line 73
+2017-05-02 16:18:09 - PHP Notice:  Undefined variable: student in F:\xampp\htdocs\jinisms\report_card.php on line 74
+2017-05-02 16:18:09 - PHP Notice:  Undefined variable: exam_code in F:\xampp\htdocs\jinisms\class\class.inc.php on line 1921
+2017-05-02 16:18:09 - PHP Notice:  Undefined index: registration_no in F:\xampp\htdocs\jinisms\report_card.php on line 72
+2017-05-02 16:18:09 - PHP Notice:  Undefined index: full_name in F:\xampp\htdocs\jinisms\report_card.php on line 73
+2017-05-02 16:18:09 - PHP Notice:  Undefined variable: student in F:\xampp\htdocs\jinisms\report_card.php on line 74
+2017-05-02 16:22:38 - PHP Notice:  Undefined variable: exam_code in F:\xampp\htdocs\jinisms\class\class.inc.php on line 1921
+2017-05-02 16:22:38 - PHP Notice:  Error: Unknown column 'exam_code' in 'where clause'<br />Error No: 1054<br />SELECT obtained_marks FROM student_marks WHERE exam_code = '' AND session_year = '2017-18' in F:\xampp\htdocs\jinisms\database\mysqliz.php on line 50
+2017-05-02 16:23:17 - PHP Notice:  Undefined variable: student_code in F:\xampp\htdocs\jinisms\report_card.php on line 68
+2017-05-02 16:23:17 - PHP Notice:  Undefined variable: exam_code in F:\xampp\htdocs\jinisms\class\class.inc.php on line 1921
+2017-05-02 16:23:17 - PHP Notice:  Error: Unknown column 'exam_code' in 'where clause'<br />Error No: 1054<br />SELECT obtained_marks FROM student_marks WHERE exam_code = '' AND session_year = '2017-18' in F:\xampp\htdocs\jinisms\database\mysqliz.php on line 50
+2017-05-02 16:28:44 - PHP Notice:  Undefined variable: exam_code in F:\xampp\htdocs\jinisms\class\class.inc.php on line 1921
+2017-05-02 16:28:44 - PHP Notice:  Error: Unknown column 'exam_code' in 'where clause'<br />Error No: 1054<br />SELECT obtained_marks FROM student_marks WHERE exam_code = '' AND student_id = '1' AND session_year = '2017-18' in F:\xampp\htdocs\jinisms\database\mysqliz.php on line 50
+2017-05-02 16:29:21 - PHP Notice:  Error: Unknown column 'exam_id' in 'where clause'<br />Error No: 1054<br />SELECT obtained_marks FROM student_marks WHERE exam_id = '1' AND student_id = '1' AND session_year = '2017-18' in F:\xampp\htdocs\jinisms\database\mysqliz.php on line 50
+2017-05-02 16:29:50 - PHP Notice:  Undefined index: registration_no in F:\xampp\htdocs\jinisms\report_card.php on line 71
+2017-05-02 16:29:50 - PHP Notice:  Undefined index: full_name in F:\xampp\htdocs\jinisms\report_card.php on line 72
+2017-05-02 16:29:50 - PHP Notice:  Undefined variable: student in F:\xampp\htdocs\jinisms\report_card.php on line 73
+2017-05-02 16:29:50 - PHP Notice:  Undefined index: registration_no in F:\xampp\htdocs\jinisms\report_card.php on line 71
+2017-05-02 16:29:50 - PHP Notice:  Undefined index: full_name in F:\xampp\htdocs\jinisms\report_card.php on line 72
+2017-05-02 16:29:50 - PHP Notice:  Undefined variable: student in F:\xampp\htdocs\jinisms\report_card.php on line 73
+2017-05-02 16:29:50 - PHP Notice:  Undefined index: registration_no in F:\xampp\htdocs\jinisms\report_card.php on line 71
+2017-05-02 16:29:50 - PHP Notice:  Undefined index: full_name in F:\xampp\htdocs\jinisms\report_card.php on line 72
+2017-05-02 16:29:50 - PHP Notice:  Undefined variable: student in F:\xampp\htdocs\jinisms\report_card.php on line 73
+2017-05-02 16:29:50 - PHP Notice:  Undefined index: registration_no in F:\xampp\htdocs\jinisms\report_card.php on line 71
+2017-05-02 16:29:50 - PHP Notice:  Undefined index: full_name in F:\xampp\htdocs\jinisms\report_card.php on line 72
+2017-05-02 16:29:50 - PHP Notice:  Undefined variable: student in F:\xampp\htdocs\jinisms\report_card.php on line 73
+2017-05-02 16:30:56 - PHP Notice:  Undefined index: subject_code in F:\xampp\htdocs\jinisms\report_card.php on line 71
+2017-05-02 16:30:56 - PHP Notice:  Undefined index: obtained_code in F:\xampp\htdocs\jinisms\report_card.php on line 72
+2017-05-02 16:30:56 - PHP Notice:  Undefined variable: student in F:\xampp\htdocs\jinisms\report_card.php on line 73
+2017-05-02 16:30:56 - PHP Notice:  Undefined index: subject_code in F:\xampp\htdocs\jinisms\report_card.php on line 71
+2017-05-02 16:30:56 - PHP Notice:  Undefined index: obtained_code in F:\xampp\htdocs\jinisms\report_card.php on line 72
+2017-05-02 16:30:56 - PHP Notice:  Undefined variable: student in F:\xampp\htdocs\jinisms\report_card.php on line 73
+2017-05-02 16:30:56 - PHP Notice:  Undefined index: subject_code in F:\xampp\htdocs\jinisms\report_card.php on line 71
+2017-05-02 16:30:56 - PHP Notice:  Undefined index: obtained_code in F:\xampp\htdocs\jinisms\report_card.php on line 72
+2017-05-02 16:30:56 - PHP Notice:  Undefined variable: student in F:\xampp\htdocs\jinisms\report_card.php on line 73
+2017-05-02 16:30:56 - PHP Notice:  Undefined index: subject_code in F:\xampp\htdocs\jinisms\report_card.php on line 71
+2017-05-02 16:30:56 - PHP Notice:  Undefined index: obtained_code in F:\xampp\htdocs\jinisms\report_card.php on line 72
+2017-05-02 16:30:56 - PHP Notice:  Undefined variable: student in F:\xampp\htdocs\jinisms\report_card.php on line 73
+2017-05-02 16:31:25 - PHP Notice:  Undefined index: subject_id in F:\xampp\htdocs\jinisms\report_card.php on line 72
+2017-05-02 16:31:25 - PHP Notice:  Undefined index: obtained_marks in F:\xampp\htdocs\jinisms\report_card.php on line 73
+2017-05-02 16:31:25 - PHP Notice:  Undefined variable: student in F:\xampp\htdocs\jinisms\report_card.php on line 74
+2017-05-02 16:31:25 - PHP Notice:  Undefined index: subject_id in F:\xampp\htdocs\jinisms\report_card.php on line 72
+2017-05-02 16:31:25 - PHP Notice:  Undefined index: obtained_marks in F:\xampp\htdocs\jinisms\report_card.php on line 73
+2017-05-02 16:31:25 - PHP Notice:  Undefined variable: student in F:\xampp\htdocs\jinisms\report_card.php on line 74
+2017-05-02 16:31:25 - PHP Notice:  Undefined index: subject_id in F:\xampp\htdocs\jinisms\report_card.php on line 72
+2017-05-02 16:31:25 - PHP Notice:  Undefined index: obtained_marks in F:\xampp\htdocs\jinisms\report_card.php on line 73
+2017-05-02 16:31:25 - PHP Notice:  Undefined variable: student in F:\xampp\htdocs\jinisms\report_card.php on line 74
+2017-05-02 16:31:25 - PHP Notice:  Undefined index: subject_id in F:\xampp\htdocs\jinisms\report_card.php on line 72
+2017-05-02 16:31:25 - PHP Notice:  Undefined index: obtained_marks in F:\xampp\htdocs\jinisms\report_card.php on line 73
+2017-05-02 16:31:25 - PHP Notice:  Undefined variable: student in F:\xampp\htdocs\jinisms\report_card.php on line 74
+2017-05-02 16:31:37 - PHP Notice:  Undefined index: student_id in F:\xampp\htdocs\jinisms\report_card.php on line 72
+2017-05-02 16:31:37 - PHP Notice:  Undefined index: obtained_marks in F:\xampp\htdocs\jinisms\report_card.php on line 73
+2017-05-02 16:31:37 - PHP Notice:  Undefined variable: student in F:\xampp\htdocs\jinisms\report_card.php on line 74
+2017-05-02 16:31:37 - PHP Notice:  Undefined index: student_id in F:\xampp\htdocs\jinisms\report_card.php on line 72
+2017-05-02 16:31:37 - PHP Notice:  Undefined index: obtained_marks in F:\xampp\htdocs\jinisms\report_card.php on line 73
+2017-05-02 16:31:37 - PHP Notice:  Undefined variable: student in F:\xampp\htdocs\jinisms\report_card.php on line 74
+2017-05-02 16:31:37 - PHP Notice:  Undefined index: student_id in F:\xampp\htdocs\jinisms\report_card.php on line 72
+2017-05-02 16:31:37 - PHP Notice:  Undefined index: obtained_marks in F:\xampp\htdocs\jinisms\report_card.php on line 73
+2017-05-02 16:31:37 - PHP Notice:  Undefined variable: student in F:\xampp\htdocs\jinisms\report_card.php on line 74
+2017-05-02 16:31:37 - PHP Notice:  Undefined index: student_id in F:\xampp\htdocs\jinisms\report_card.php on line 72
+2017-05-02 16:31:37 - PHP Notice:  Undefined index: obtained_marks in F:\xampp\htdocs\jinisms\report_card.php on line 73
+2017-05-02 16:31:37 - PHP Notice:  Undefined variable: student in F:\xampp\htdocs\jinisms\report_card.php on line 74
+2017-05-02 16:31:39 - PHP Notice:  Undefined index: student_id in F:\xampp\htdocs\jinisms\report_card.php on line 72
+2017-05-02 16:31:39 - PHP Notice:  Undefined index: obtained_marks in F:\xampp\htdocs\jinisms\report_card.php on line 73
+2017-05-02 16:31:39 - PHP Notice:  Undefined variable: student in F:\xampp\htdocs\jinisms\report_card.php on line 74
+2017-05-02 16:31:39 - PHP Notice:  Undefined index: student_id in F:\xampp\htdocs\jinisms\report_card.php on line 72
+2017-05-02 16:31:39 - PHP Notice:  Undefined index: obtained_marks in F:\xampp\htdocs\jinisms\report_card.php on line 73
+2017-05-02 16:31:39 - PHP Notice:  Undefined variable: student in F:\xampp\htdocs\jinisms\report_card.php on line 74
+2017-05-02 16:31:39 - PHP Notice:  Undefined index: student_id in F:\xampp\htdocs\jinisms\report_card.php on line 72
+2017-05-02 16:31:39 - PHP Notice:  Undefined index: obtained_marks in F:\xampp\htdocs\jinisms\report_card.php on line 73
+2017-05-02 16:31:39 - PHP Notice:  Undefined variable: student in F:\xampp\htdocs\jinisms\report_card.php on line 74
+2017-05-02 16:31:39 - PHP Notice:  Undefined index: student_id in F:\xampp\htdocs\jinisms\report_card.php on line 72
+2017-05-02 16:31:39 - PHP Notice:  Undefined index: obtained_marks in F:\xampp\htdocs\jinisms\report_card.php on line 73
+2017-05-02 16:31:39 - PHP Notice:  Undefined variable: student in F:\xampp\htdocs\jinisms\report_card.php on line 74
+2017-05-02 16:31:41 - PHP Notice:  Undefined index: student_id in F:\xampp\htdocs\jinisms\report_card.php on line 72
+2017-05-02 16:31:41 - PHP Notice:  Undefined index: obtained_marks in F:\xampp\htdocs\jinisms\report_card.php on line 73
+2017-05-02 16:31:41 - PHP Notice:  Undefined variable: student in F:\xampp\htdocs\jinisms\report_card.php on line 74
+2017-05-02 16:31:41 - PHP Notice:  Undefined index: student_id in F:\xampp\htdocs\jinisms\report_card.php on line 72
+2017-05-02 16:31:41 - PHP Notice:  Undefined index: obtained_marks in F:\xampp\htdocs\jinisms\report_card.php on line 73
+2017-05-02 16:31:41 - PHP Notice:  Undefined variable: student in F:\xampp\htdocs\jinisms\report_card.php on line 74
+2017-05-02 16:31:41 - PHP Notice:  Undefined index: student_id in F:\xampp\htdocs\jinisms\report_card.php on line 72
+2017-05-02 16:31:41 - PHP Notice:  Undefined index: obtained_marks in F:\xampp\htdocs\jinisms\report_card.php on line 73
+2017-05-02 16:31:41 - PHP Notice:  Undefined variable: student in F:\xampp\htdocs\jinisms\report_card.php on line 74
+2017-05-02 16:31:41 - PHP Notice:  Undefined index: student_id in F:\xampp\htdocs\jinisms\report_card.php on line 72
+2017-05-02 16:31:41 - PHP Notice:  Undefined index: obtained_marks in F:\xampp\htdocs\jinisms\report_card.php on line 73
+2017-05-02 16:31:41 - PHP Notice:  Undefined variable: student in F:\xampp\htdocs\jinisms\report_card.php on line 74
+2017-05-02 16:32:39 - PHP Notice:  Undefined index: student_id in F:\xampp\htdocs\jinisms\report_card.php on line 71
+2017-05-02 16:32:39 - PHP Notice:  Undefined index: obtained_marks in F:\xampp\htdocs\jinisms\report_card.php on line 72
+2017-05-02 16:32:39 - PHP Notice:  Undefined index: student_id in F:\xampp\htdocs\jinisms\report_card.php on line 71
+2017-05-02 16:32:39 - PHP Notice:  Undefined index: obtained_marks in F:\xampp\htdocs\jinisms\report_card.php on line 72
+2017-05-02 16:32:39 - PHP Notice:  Undefined index: student_id in F:\xampp\htdocs\jinisms\report_card.php on line 71
+2017-05-02 16:32:39 - PHP Notice:  Undefined index: obtained_marks in F:\xampp\htdocs\jinisms\report_card.php on line 72
+2017-05-02 16:32:39 - PHP Notice:  Undefined index: student_id in F:\xampp\htdocs\jinisms\report_card.php on line 71
+2017-05-02 16:32:39 - PHP Notice:  Undefined index: obtained_marks in F:\xampp\htdocs\jinisms\report_card.php on line 72
+2017-05-02 16:32:43 - PHP Notice:  Undefined index: student_id in F:\xampp\htdocs\jinisms\report_card.php on line 71
+2017-05-02 16:32:43 - PHP Notice:  Undefined index: obtained_marks in F:\xampp\htdocs\jinisms\report_card.php on line 72
+2017-05-02 16:32:43 - PHP Notice:  Undefined index: student_id in F:\xampp\htdocs\jinisms\report_card.php on line 71
+2017-05-02 16:32:43 - PHP Notice:  Undefined index: obtained_marks in F:\xampp\htdocs\jinisms\report_card.php on line 72
+2017-05-02 16:32:43 - PHP Notice:  Undefined index: student_id in F:\xampp\htdocs\jinisms\report_card.php on line 71
+2017-05-02 16:32:43 - PHP Notice:  Undefined index: obtained_marks in F:\xampp\htdocs\jinisms\report_card.php on line 72
+2017-05-02 16:32:43 - PHP Notice:  Undefined index: student_id in F:\xampp\htdocs\jinisms\report_card.php on line 71
+2017-05-02 16:32:43 - PHP Notice:  Undefined index: obtained_marks in F:\xampp\htdocs\jinisms\report_card.php on line 72
+2017-05-02 16:33:11 - PHP Notice:  Undefined index: student_id in F:\xampp\htdocs\jinisms\report_card.php on line 72
+2017-05-02 16:33:11 - PHP Notice:  Undefined index: obtained_marks in F:\xampp\htdocs\jinisms\report_card.php on line 73
+2017-05-02 16:33:11 - PHP Notice:  Undefined index: student_id in F:\xampp\htdocs\jinisms\report_card.php on line 72
+2017-05-02 16:33:11 - PHP Notice:  Undefined index: obtained_marks in F:\xampp\htdocs\jinisms\report_card.php on line 73
+2017-05-02 16:33:11 - PHP Notice:  Undefined index: student_id in F:\xampp\htdocs\jinisms\report_card.php on line 72
+2017-05-02 16:33:11 - PHP Notice:  Undefined index: obtained_marks in F:\xampp\htdocs\jinisms\report_card.php on line 73
+2017-05-02 16:33:11 - PHP Notice:  Undefined index: student_id in F:\xampp\htdocs\jinisms\report_card.php on line 72
+2017-05-02 16:33:11 - PHP Notice:  Undefined index: obtained_marks in F:\xampp\htdocs\jinisms\report_card.php on line 73
+2017-05-02 16:33:36 - PHP Notice:  Undefined index: student_id in F:\xampp\htdocs\jinisms\report_card.php on line 72
+2017-05-02 16:33:36 - PHP Notice:  Undefined index: obtained_marks in F:\xampp\htdocs\jinisms\report_card.php on line 73
+2017-05-02 16:33:36 - PHP Notice:  Undefined index: student_id in F:\xampp\htdocs\jinisms\report_card.php on line 72
+2017-05-02 16:33:36 - PHP Notice:  Undefined index: obtained_marks in F:\xampp\htdocs\jinisms\report_card.php on line 73
+2017-05-02 16:33:36 - PHP Notice:  Undefined index: student_id in F:\xampp\htdocs\jinisms\report_card.php on line 72
+2017-05-02 16:33:36 - PHP Notice:  Undefined index: obtained_marks in F:\xampp\htdocs\jinisms\report_card.php on line 73
+2017-05-02 16:33:36 - PHP Notice:  Undefined index: student_id in F:\xampp\htdocs\jinisms\report_card.php on line 72
+2017-05-02 16:33:36 - PHP Notice:  Undefined index: obtained_marks in F:\xampp\htdocs\jinisms\report_card.php on line 73
+2017-05-02 16:33:36 - PHP Notice:  Undefined index: student_id in F:\xampp\htdocs\jinisms\report_card.php on line 72
+2017-05-02 16:33:36 - PHP Notice:  Undefined index: obtained_marks in F:\xampp\htdocs\jinisms\report_card.php on line 73
+2017-05-02 16:33:36 - PHP Notice:  Undefined index: student_id in F:\xampp\htdocs\jinisms\report_card.php on line 72
+2017-05-02 16:33:36 - PHP Notice:  Undefined index: obtained_marks in F:\xampp\htdocs\jinisms\report_card.php on line 73
+2017-05-02 16:33:36 - PHP Notice:  Undefined index: student_id in F:\xampp\htdocs\jinisms\report_card.php on line 72
+2017-05-02 16:33:36 - PHP Notice:  Undefined index: obtained_marks in F:\xampp\htdocs\jinisms\report_card.php on line 73
+2017-05-02 16:33:36 - PHP Notice:  Undefined index: student_id in F:\xampp\htdocs\jinisms\report_card.php on line 72
+2017-05-02 16:33:36 - PHP Notice:  Undefined index: obtained_marks in F:\xampp\htdocs\jinisms\report_card.php on line 73
+2017-05-02 16:33:36 - PHP Notice:  Undefined index: student_id in F:\xampp\htdocs\jinisms\report_card.php on line 72
+2017-05-02 16:33:36 - PHP Notice:  Undefined index: obtained_marks in F:\xampp\htdocs\jinisms\report_card.php on line 73
+2017-05-02 16:33:36 - PHP Notice:  Undefined index: student_id in F:\xampp\htdocs\jinisms\report_card.php on line 72
+2017-05-02 16:33:36 - PHP Notice:  Undefined index: obtained_marks in F:\xampp\htdocs\jinisms\report_card.php on line 73
+2017-05-02 16:33:36 - PHP Notice:  Undefined index: student_id in F:\xampp\htdocs\jinisms\report_card.php on line 72
+2017-05-02 16:33:36 - PHP Notice:  Undefined index: obtained_marks in F:\xampp\htdocs\jinisms\report_card.php on line 73
+2017-05-02 16:33:36 - PHP Notice:  Undefined index: student_id in F:\xampp\htdocs\jinisms\report_card.php on line 72
+2017-05-02 16:33:36 - PHP Notice:  Undefined index: obtained_marks in F:\xampp\htdocs\jinisms\report_card.php on line 73
+2017-05-02 16:33:36 - PHP Notice:  Undefined index: student_id in F:\xampp\htdocs\jinisms\report_card.php on line 72
+2017-05-02 16:33:36 - PHP Notice:  Undefined index: obtained_marks in F:\xampp\htdocs\jinisms\report_card.php on line 73
+2017-05-02 16:33:36 - PHP Notice:  Undefined index: student_id in F:\xampp\htdocs\jinisms\report_card.php on line 72
+2017-05-02 16:33:36 - PHP Notice:  Undefined index: obtained_marks in F:\xampp\htdocs\jinisms\report_card.php on line 73
+2017-05-02 16:33:36 - PHP Notice:  Undefined index: student_id in F:\xampp\htdocs\jinisms\report_card.php on line 72
+2017-05-02 16:33:36 - PHP Notice:  Undefined index: obtained_marks in F:\xampp\htdocs\jinisms\report_card.php on line 73
+2017-05-02 16:33:36 - PHP Notice:  Undefined index: student_id in F:\xampp\htdocs\jinisms\report_card.php on line 72
+2017-05-02 16:33:36 - PHP Notice:  Undefined index: obtained_marks in F:\xampp\htdocs\jinisms\report_card.php on line 73
+2017-05-02 16:33:45 - PHP Notice:  Undefined index: student_id in F:\xampp\htdocs\jinisms\report_card.php on line 72
+2017-05-02 16:33:45 - PHP Notice:  Undefined index: obtained_marks in F:\xampp\htdocs\jinisms\report_card.php on line 73
+2017-05-02 16:33:45 - PHP Notice:  Undefined index: student_id in F:\xampp\htdocs\jinisms\report_card.php on line 72
+2017-05-02 16:33:45 - PHP Notice:  Undefined index: obtained_marks in F:\xampp\htdocs\jinisms\report_card.php on line 73
+2017-05-02 16:33:45 - PHP Notice:  Undefined index: student_id in F:\xampp\htdocs\jinisms\report_card.php on line 72
+2017-05-02 16:33:45 - PHP Notice:  Undefined index: obtained_marks in F:\xampp\htdocs\jinisms\report_card.php on line 73
+2017-05-02 16:33:45 - PHP Notice:  Undefined index: student_id in F:\xampp\htdocs\jinisms\report_card.php on line 72
+2017-05-02 16:33:45 - PHP Notice:  Undefined index: obtained_marks in F:\xampp\htdocs\jinisms\report_card.php on line 73
+2017-05-02 16:34:28 - PHP Notice:  Undefined index: student_id in F:\xampp\htdocs\jinisms\report_card.php on line 75
+2017-05-02 16:34:28 - PHP Notice:  Undefined index: obtained_marks in F:\xampp\htdocs\jinisms\report_card.php on line 76
+2017-05-02 16:34:28 - PHP Notice:  Undefined index: student_id in F:\xampp\htdocs\jinisms\report_card.php on line 75
+2017-05-02 16:34:28 - PHP Notice:  Undefined index: obtained_marks in F:\xampp\htdocs\jinisms\report_card.php on line 76
+2017-05-02 16:34:28 - PHP Notice:  Undefined index: student_id in F:\xampp\htdocs\jinisms\report_card.php on line 75
+2017-05-02 16:34:28 - PHP Notice:  Undefined index: obtained_marks in F:\xampp\htdocs\jinisms\report_card.php on line 76
+2017-05-02 16:34:28 - PHP Notice:  Undefined index: student_id in F:\xampp\htdocs\jinisms\report_card.php on line 75
+2017-05-02 16:34:28 - PHP Notice:  Undefined index: obtained_marks in F:\xampp\htdocs\jinisms\report_card.php on line 76
+2017-05-02 16:36:49 - PHP Notice:  Undefined index: student_id in F:\xampp\htdocs\jinisms\report_card.php on line 75
+2017-05-02 16:36:49 - PHP Notice:  Undefined index: student_id in F:\xampp\htdocs\jinisms\report_card.php on line 75
+2017-05-02 16:36:49 - PHP Notice:  Undefined index: obtained_marks in F:\xampp\htdocs\jinisms\report_card.php on line 76
+2017-05-02 16:36:49 - PHP Notice:  Undefined index: student_id in F:\xampp\htdocs\jinisms\report_card.php on line 75
+2017-05-02 16:36:49 - PHP Notice:  Undefined index: obtained_marks in F:\xampp\htdocs\jinisms\report_card.php on line 76
+2017-05-02 16:36:49 - PHP Notice:  Undefined index: student_id in F:\xampp\htdocs\jinisms\report_card.php on line 75
+2017-05-02 16:36:49 - PHP Notice:  Undefined index: obtained_marks in F:\xampp\htdocs\jinisms\report_card.php on line 76
+2017-05-02 16:37:07 - PHP Notice:  Undefined index: student_id in F:\xampp\htdocs\jinisms\report_card.php on line 75
+2017-05-02 16:37:07 - PHP Notice:  Undefined index: student_id in F:\xampp\htdocs\jinisms\report_card.php on line 75
+2017-05-02 16:37:07 - PHP Notice:  Undefined index: obtained_marks in F:\xampp\htdocs\jinisms\report_card.php on line 76
+2017-05-02 16:37:07 - PHP Notice:  Undefined index: student_id in F:\xampp\htdocs\jinisms\report_card.php on line 75
+2017-05-02 16:37:07 - PHP Notice:  Undefined index: obtained_marks in F:\xampp\htdocs\jinisms\report_card.php on line 76
+2017-05-02 16:37:07 - PHP Notice:  Undefined index: student_id in F:\xampp\htdocs\jinisms\report_card.php on line 75
+2017-05-02 16:37:07 - PHP Notice:  Undefined index: obtained_marks in F:\xampp\htdocs\jinisms\report_card.php on line 76
+2017-05-02 16:37:20 - PHP Notice:  Error: Unknown column 'subject_id' in 'field list'<br />Error No: 1054<br />SELECT obtained_marks, subject_id FROM student_marks WHERE student_mark_id = '1' AND student_id = '1' AND session_year = '2017-18' in F:\xampp\htdocs\jinisms\database\mysqliz.php on line 50
+2017-05-02 16:39:38 - PHP Notice:  Error: Unknown column 'subject_codes' in 'field list'<br />Error No: 1054<br />SELECT subject_mark_id, subject_codes, course_code FROM total_mark_of_subject WHERE exam_code = 'JEX01' AND session_year = '2017-18' in F:\xampp\htdocs\jinisms\database\mysqliz.php on line 50
+2017-05-02 16:39:54 - PHP Notice:  Error: Unknown column 'subject_id' in 'field list'<br />Error No: 1054<br />SELECT obtained_marks, subject_id FROM student_marks WHERE student_mark_id = '1' AND student_id = '1' AND session_year = '2017-18' in F:\xampp\htdocs\jinisms\database\mysqliz.php on line 50
+2017-05-02 16:40:49 - PHP Notice:  Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'SLECT obtained_marks, subject_id FROM student_marks WHERE student_mark_id = '1' ' at line 1<br />Error No: 1064<br />SLECT obtained_marks, subject_id FROM student_marks WHERE student_mark_id = '1' AND student_id = '1' AND session_year = '2017-18' in F:\xampp\htdocs\jinisms\database\mysqliz.php on line 50
+2017-05-02 16:41:30 - PHP Notice:  Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'SLECT obtained_marks FROM student_marks WHERE student_mark_id = '1' AND student_' at line 1<br />Error No: 1064<br />SLECT obtained_marks FROM student_marks WHERE student_mark_id = '1' AND student_id = '1' AND session_year = '2017-18' in F:\xampp\htdocs\jinisms\database\mysqliz.php on line 50
+2017-05-02 16:41:31 - PHP Notice:  Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'SLECT obtained_marks FROM student_marks WHERE student_mark_id = '1' AND student_' at line 1<br />Error No: 1064<br />SLECT obtained_marks FROM student_marks WHERE student_mark_id = '1' AND student_id = '1' AND session_year = '2017-18' in F:\xampp\htdocs\jinisms\database\mysqliz.php on line 50
+2017-05-02 16:41:44 - PHP Notice:  Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'SLECT obtained_marks FROM student_marks WHERE student_mark_id = '1' AND student_' at line 1<br />Error No: 1064<br />SLECT obtained_marks FROM student_marks WHERE student_mark_id = '1' AND student_id = '1' AND session_year = '2017-18' in F:\xampp\htdocs\jinisms\database\mysqliz.php on line 50
+2017-05-02 16:42:03 - PHP Notice:  Undefined index: obtained_marks in F:\xampp\htdocs\jinisms\report_card.php on line 76
+2017-05-02 16:42:03 - PHP Notice:  Undefined index: obtained_marks in F:\xampp\htdocs\jinisms\report_card.php on line 76
+2017-05-02 16:42:03 - PHP Notice:  Undefined index: obtained_marks in F:\xampp\htdocs\jinisms\report_card.php on line 76
+2017-05-02 16:42:38 - PHP Notice:  Undefined index: obtained_marks in F:\xampp\htdocs\jinisms\report_card.php on line 72
+2017-05-02 16:42:38 - PHP Notice:  Undefined index: obtained_marks in F:\xampp\htdocs\jinisms\report_card.php on line 72
+2017-05-02 16:42:38 - PHP Notice:  Undefined index: obtained_marks in F:\xampp\htdocs\jinisms\report_card.php on line 72
+2017-05-02 16:44:05 - PHP Notice:  Undefined index: obtained_marks in F:\xampp\htdocs\jinisms\report_card.php on line 73
+2017-05-02 16:44:05 - PHP Notice:  Undefined index: obtained_marks in F:\xampp\htdocs\jinisms\report_card.php on line 73
+2017-05-02 16:44:05 - PHP Notice:  Undefined index: obtained_marks in F:\xampp\htdocs\jinisms\report_card.php on line 73
+2017-05-02 16:45:25 - PHP Notice:  Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ELECT obtained_marks FROM student_marks WHERE student_mark_id = '1' AND student_' at line 1<br />Error No: 1064<br />ELECT obtained_marks FROM student_marks WHERE student_mark_id = '1' AND student_id = '1' AND session_year = '2017-18' in F:\xampp\htdocs\jinisms\database\mysqliz.php on line 50
+2017-05-02 16:46:19 - PHP Notice:  Undefined index: obtained_marks in F:\xampp\htdocs\jinisms\report_card.php on line 73
+2017-05-02 16:57:16 - PHP Notice:  Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''JINS01''' at line 1<br />Error No: 1064<br />SELECT subject_name FROM subject WHERE subject_code = 'JINS01'' in F:\xampp\htdocs\jinisms\database\mysqliz.php on line 50
+2017-05-02 16:59:19 - PHP Notice:  Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ELECT subject_name FROM subject WHERE subject_code = 'JINS01''' at line 1<br />Error No: 1064<br />ELECT subject_name FROM subject WHERE subject_code = 'JINS01'' in F:\xampp\htdocs\jinisms\database\mysqliz.php on line 50
+2017-05-02 16:59:47 - PHP Notice:  Array to string conversion in F:\xampp\htdocs\jinisms\report_card.php on line 74
+2017-05-02 16:59:47 - PHP Notice:  Array to string conversion in F:\xampp\htdocs\jinisms\report_card.php on line 74
+2017-05-02 16:59:47 - PHP Notice:  Array to string conversion in F:\xampp\htdocs\jinisms\report_card.php on line 74
+2017-05-02 16:59:48 - PHP Notice:  Array to string conversion in F:\xampp\htdocs\jinisms\report_card.php on line 74
+2017-05-02 16:59:48 - PHP Notice:  Array to string conversion in F:\xampp\htdocs\jinisms\report_card.php on line 74
+2017-05-02 16:59:48 - PHP Notice:  Array to string conversion in F:\xampp\htdocs\jinisms\report_card.php on line 74
+2017-05-02 17:12:57 - PHP Notice:  Undefined index: full_name in F:\xampp\htdocs\jinisms\report_card.php on line 33
+2017-05-02 17:12:57 - PHP Notice:  Undefined index: full_name in F:\xampp\htdocs\jinisms\report_card.php on line 36
+2017-05-02 17:12:57 - PHP Notice:  Undefined variable: course in F:\xampp\htdocs\jinisms\report_card.php on line 69
+2017-05-02 17:13:07 - PHP Notice:  Undefined index: full_name in F:\xampp\htdocs\jinisms\report_card.php on line 33
+2017-05-02 17:13:07 - PHP Notice:  Undefined index: section_name in F:\xampp\htdocs\jinisms\report_card.php on line 35
+2017-05-02 17:15:15 - PHP Notice:  Undefined index: full_name in F:\xampp\htdocs\jinisms\report_card.php on line 33
+2017-05-02 17:15:26 - PHP Notice:  Undefined index: full_name in F:\xampp\htdocs\jinisms\report_card.php on line 33
+2017-05-03 12:44:26 - PHP Notice:  Undefined index: course_code in F:\xampp\htdocs\jinisms\student_marks_entry_ajax.php on line 7
+2017-05-03 12:44:27 - PHP Notice:  Undefined index: course_code in F:\xampp\htdocs\jinisms\student_marks_entry_ajax.php on line 7
+2017-05-03 12:58:39 - PHP Notice:  Undefined index: course_code in F:\xampp\htdocs\jinisms\student_marks_entry_ajax.php on line 7
+2017-05-03 12:58:43 - PHP Notice:  Undefined index: course_code in F:\xampp\htdocs\jinisms\student_marks_entry_ajax.php on line 7
+2017-05-05 10:23:54 - PHP Notice:  Undefined index: course_code in F:\xampp\htdocs\jinisms\student_marks_entry_ajax.php on line 7
+2017-05-05 10:23:55 - PHP Notice:  Undefined index: course_code in F:\xampp\htdocs\jinisms\student_marks_entry_ajax.php on line 7
+2017-05-20 12:26:50 - PHP Notice:  Error: Unknown column 'course_id' in 'where clause'<br />Error No: 1054<br />SELECT student_id, registration_no, first_name, last_name, middle_name FROM student 
+		 WHERE course_id = 1 AND section_id = 1 in F:\xampp\htdocs\jinisms\database\mysqliz.php on line 50
+2017-05-20 12:26:59 - PHP Notice:  Error: Unknown column 'course_id' in 'where clause'<br />Error No: 1054<br />SELECT student_id, registration_no, first_name, last_name, middle_name FROM student 
+		 WHERE course_id = 1 AND section_id = 1 in F:\xampp\htdocs\jinisms\database\mysqliz.php on line 50
+2017-05-20 12:40:38 - PHP Notice:  Undefined index: course_code in F:\xampp\htdocs\jinisms\student_attendance.php on line 20
+2017-05-20 12:41:11 - PHP Notice:  Undefined index: course_code in F:\xampp\htdocs\jinisms\student_attendance.php on line 20
+2017-05-20 12:41:16 - PHP Notice:  Undefined index: course_code in F:\xampp\htdocs\jinisms\student_attendance.php on line 20
+2017-05-20 12:41:16 - PHP Notice:  Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'AND section_id = 1' at line 2<br />Error No: 1064<br />SELECT student_id, registration_no, first_name, last_name, middle_name FROM student 
+		 WHERE course_code =  AND section_id = 1 in F:\xampp\htdocs\jinisms\database\mysqliz.php on line 50
+2017-05-20 12:53:03 - PHP Notice:  Undefined index: course_code in F:\xampp\htdocs\jinisms\student_attendance.php on line 20
+2017-05-20 12:54:05 - PHP Notice:  Undefined index: course_code in F:\xampp\htdocs\jinisms\student_attendance.php on line 20
+2017-05-20 12:54:12 - PHP Notice:  Undefined index: course_code in F:\xampp\htdocs\jinisms\student_attendance.php on line 20
+2017-05-20 12:55:35 - PHP Notice:  Undefined index: course_id in F:\xampp\htdocs\jinisms\student_attendance.php on line 19
+2017-05-20 12:55:37 - PHP Notice:  Undefined index: course_id in F:\xampp\htdocs\jinisms\student_attendance.php on line 19
+2017-05-20 12:55:50 - PHP Notice:  Undefined index: course_id in F:\xampp\htdocs\jinisms\student_attendance.php on line 19
+2017-05-20 12:55:56 - PHP Notice:  Undefined index: course_id in F:\xampp\htdocs\jinisms\student_attendance.php on line 19
+2017-05-20 12:55:56 - PHP Notice:  Error: Unknown column 'JNI02' in 'where clause'<br />Error No: 1054<br />SELECT student_id, registration_no, first_name, last_name, middle_name FROM student 
+		 WHERE course_code = JNI02 AND section_id = 1 in F:\xampp\htdocs\jinisms\database\mysqliz.php on line 50
+2017-05-20 12:58:37 - PHP Notice:  Error: Unknown column 'JNI02' in 'where clause'<br />Error No: 1054<br />SELECT student_id, registration_no, first_name, last_name, middle_name FROM student 
+		 WHERE course_code = JNI02 AND section_id = 1 in F:\xampp\htdocs\jinisms\database\mysqliz.php on line 50
+2017-05-20 13:15:51 - PHP Notice:  Error: Unknown column 'course_id' in 'where clause'<br />Error No: 1054<br />SELECT count(*) AS total FROM student_attendance
+		WHERE attendance_date = '2017-05-02' AND course_id = '' AND section_id = 1 in F:\xampp\htdocs\jinisms\database\mysqliz.php on line 50
+2017-05-20 13:50:00 - PHP Notice:  Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''2017-18'' at line 1<br />Error No: 1064<br />SELECT subject_mark_id, total_mark FROM total_mark_of_subject WHERE exam_code = 'JEX01' AND course_code = 'JNI01' AND subject_code = 'JINS01' AND session_year'2017-18' in F:\xampp\htdocs\jinisms\database\mysqliz.php on line 50
+2017-05-20 13:50:29 - PHP Notice:  Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''2017-18'' at line 1<br />Error No: 1064<br />SELECT subject_mark_id, total_mark FROM total_mark_of_subject WHERE exam_code = 'JEX01' AND course_code = 'JNI01' AND subject_code = 'JINS02' AND session_year'2017-18' in F:\xampp\htdocs\jinisms\database\mysqliz.php on line 50
+2017-05-20 13:50:57 - PHP Notice:  Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''2017-18'' at line 1<br />Error No: 1064<br />SELECT subject_mark_id, total_mark FROM total_mark_of_subject WHERE exam_code = 'JEX01' AND course_code = 'JNI01' AND subject_code = 'JINS01' AND session_year'2017-18' in F:\xampp\htdocs\jinisms\database\mysqliz.php on line 50
+2017-05-20 13:51:09 - PHP Notice:  Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''2017-18'' at line 1<br />Error No: 1064<br />SELECT subject_mark_id, total_mark FROM total_mark_of_subject WHERE exam_code = 'JEX01' AND course_code = 'JNI01' AND subject_code = 'JINS01' AND session_year'2017-18' in F:\xampp\htdocs\jinisms\database\mysqliz.php on line 50
+2017-05-20 13:51:20 - PHP Notice:  Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''2017-18'' at line 1<br />Error No: 1064<br />SELECT subject_mark_id, total_mark FROM total_mark_of_subject WHERE exam_code = 'JEX01' AND course_code = 'JNI01' AND subject_code = 'JINS02' AND session_year'2017-18' in F:\xampp\htdocs\jinisms\database\mysqliz.php on line 50
+2017-05-20 14:16:15 - PHP Notice:  Error: Unknown column 's.course_id' in 'field list'<br />Error No: 1054<br />SELECT s.student_id, s.blood_group, sc.name, s.contact_no, s.registration_no, s.first_name, s.last_name, s.middle_name, s.father_name, s.dob, s.course_id , c.course_name, sa.mailing_address FROM student AS s LEFT JOIN course AS c ON (s.course_id = c.course_id) LEFT JOIN student_address AS sa ON (s.student_id = sa.student_id) LEFT JOIN section AS sc ON (s.section_id = sc.section_id) WHERE s.student_id = 1 in F:\xampp\htdocs\jinisms\database\mysqliz.php on line 50
+2017-05-20 14:19:16 - PHP Notice:  Error: Unknown column 's.course_id' in 'field list'<br />Error No: 1054<br />SELECT s.student_id, s.blood_group, sc.name, s.contact_no, s.registration_no, s.first_name, s.last_name, s.middle_name, s.father_name, s.dob, s.course_id , c.course_name, sa.mailing_address FROM student AS s LEFT JOIN course AS c ON (s.course_id = c.course_id) LEFT JOIN student_address AS sa ON (s.student_id = sa.student_id) LEFT JOIN section AS sc ON (s.section_id = sc.section_id) WHERE s.student_id = 1 in F:\xampp\htdocs\jinisms\database\mysqliz.php on line 50
+2017-05-20 14:20:54 - PHP Notice:  Error: Unknown column 's.course_id' in 'field list'<br />Error No: 1054<br />SELECT s.student_id, s.blood_group, sc.name, s.contact_no, s.registration_no, s.first_name, s.last_name, s.middle_name, s.father_name, s.dob, s.course_id , c.course_name, sa.mailing_address FROM student AS s LEFT JOIN course AS c ON (s.course_code = c.course_code) LEFT JOIN student_address AS sa ON (s.student_id = sa.student_id) LEFT JOIN section AS sc ON (s.section_id = sc.section_id) WHERE s.student_id = 1 in F:\xampp\htdocs\jinisms\database\mysqliz.php on line 50
+2017-05-20 14:21:42 - PHP Notice:  Error: Unknown column 's.course_id' in 'field list'<br />Error No: 1054<br />SELECT s.student_id, s.blood_group, sc.name, s.contact_no, s.registration_no, s.first_name, s.last_name, s.middle_name, s.father_name, s.dob, s.course_id , c.course_name, s.course_code, sa.mailing_address FROM student AS s LEFT JOIN course AS c ON (s.course_code = c.course_code) LEFT JOIN student_address AS sa ON (s.student_id = sa.student_id) LEFT JOIN section AS sc ON (s.section_id = sc.section_id) WHERE s.student_id = 1 in F:\xampp\htdocs\jinisms\database\mysqliz.php on line 50
+2017-05-20 14:22:11 - PHP Notice:  Undefined variable: heading in F:\xampp\htdocs\jinisms\student_id_card.php on line 190
+2017-05-20 14:22:29 - PHP Notice:  Undefined variable: heading in F:\xampp\htdocs\jinisms\student_id_card.php on line 190
+2017-05-20 14:23:16 - PHP Notice:  Error: Unknown column 's.course_id' in 'field list'<br />Error No: 1054<br />SELECT s.student_id, ct.cota_id,ct.cota_name, sc.name, s.add_date, s.section_id, s.blood_group, s.contact_no, s.registration_no, s.first_name, s.last_name, s.middle_name, s.father_name, s.dob, s.category, s.course_id , c.course_name, c.fee FROM student AS s LEFT JOIN course AS c ON (s.course_id = c.course_id) 
+		LEFT JOIN cota AS ct ON (s.cota_id = ct.cota_id) LEFT JOIN section AS sc ON (s.section_id = sc.section_id)
+		WHERE s.student_id = 1 in F:\xampp\htdocs\jinisms\database\mysqliz.php on line 50
+2017-05-20 14:25:18 - PHP Notice:  Error: Unknown column 'c.fee' in 'field list'<br />Error No: 1054<br />SELECT s.student_id, ct.cota_id,ct.cota_name, sc.name, s.add_date, s.section_id, s.blood_group, s.contact_no, s.registration_no, s.first_name, s.last_name, s.middle_name, s.father_name, s.dob, s.category, s.course_code , c.course_name, c.fee FROM student AS s LEFT JOIN course AS c ON (s.course_code = c.course_code) 
+		LEFT JOIN cota AS ct ON (s.cota_id = ct.cota_id) LEFT JOIN section AS sc ON (s.section_id = sc.section_id)
+		WHERE s.student_id = 1 in F:\xampp\htdocs\jinisms\database\mysqliz.php on line 50
+2017-05-20 14:25:37 - PHP Notice:  Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'FROM student AS s LEFT JOIN course AS c ON (s.course_code = c.course_code) 
+		L' at line 1<br />Error No: 1064<br />SELECT s.student_id, ct.cota_id,ct.cota_name, sc.name, s.add_date, s.section_id, s.blood_group, s.contact_no, s.registration_no, s.first_name, s.last_name, s.middle_name, s.father_name, s.dob, s.category, s.course_code , c.course_name, FROM student AS s LEFT JOIN course AS c ON (s.course_code = c.course_code) 
+		LEFT JOIN cota AS ct ON (s.cota_id = ct.cota_id) LEFT JOIN section AS sc ON (s.section_id = sc.section_id)
+		WHERE s.student_id = 1 in F:\xampp\htdocs\jinisms\database\mysqliz.php on line 50
+2017-05-20 14:25:54 - PHP Notice:  Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'FROM student AS s LEFT JOIN course AS c ON (s.course_code = c.course_code) 
+		L' at line 1<br />Error No: 1064<br />SELECT s.student_id, ct.cota_id,ct.cota_name, sc.name, s.add_date, s.section_id, s.blood_group, s.contact_no, s.registration_no, s.first_name, s.last_name, s.middle_name, s.father_name, s.dob, s.category, s.course_code , c.course_name, FROM student AS s LEFT JOIN course AS c ON (s.course_code = c.course_code) 
+		LEFT JOIN cota AS ct ON (s.cota_id = ct.cota_id) LEFT JOIN section AS sc ON (s.section_id = sc.section_id)
+		WHERE s.student_id = 1 in F:\xampp\htdocs\jinisms\database\mysqliz.php on line 50
+2017-05-20 14:26:01 - PHP Notice:  Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'FROM student AS s LEFT JOIN course AS c ON (s.course_code = c.course_code) 
+		L' at line 1<br />Error No: 1064<br />SELECT s.student_id, ct.cota_id,ct.cota_name, sc.name, s.add_date, s.section_id, s.blood_group, s.contact_no, s.registration_no, s.first_name, s.last_name, s.middle_name, s.father_name, s.dob, s.category, s.course_code , c.course_name, FROM student AS s LEFT JOIN course AS c ON (s.course_code = c.course_code) 
+		LEFT JOIN cota AS ct ON (s.cota_id = ct.cota_id) LEFT JOIN section AS sc ON (s.section_id = sc.section_id)
+		WHERE s.student_id = 1 in F:\xampp\htdocs\jinisms\database\mysqliz.php on line 50
+2017-05-20 14:26:29 - PHP Notice:  Undefined index: fee in F:\xampp\htdocs\jinisms\class\class.inc.php on line 627
+2017-05-20 14:26:29 - PHP Notice:  Undefined index: course_id in F:\xampp\htdocs\jinisms\pay_fee.php on line 28
+2017-05-20 14:26:29 - PHP Notice:  Undefined index: course_id in F:\xampp\htdocs\jinisms\pay_fee.php on line 37
+2017-05-20 14:26:29 - PHP Notice:  Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'AND session_year ='2017-18'' at line 1<br />Error No: 1064<br />SELECT f.fee_breakup_id, f.fee_breakup_name, fs.fee, fs.frequency FROM fee_structure AS fs LEFT JOIN fee_breakup AS f ON (f.fee_breakup_id = fs.fee_breakup_id) WHERE fs.course_id =  AND session_year ='2017-18' in F:\xampp\htdocs\jinisms\database\mysqliz.php on line 50
+2017-05-20 14:26:39 - PHP Notice:  Undefined index: course_id in F:\xampp\htdocs\jinisms\pay_fee.php on line 28
+2017-05-20 14:26:39 - PHP Notice:  Undefined index: course_id in F:\xampp\htdocs\jinisms\pay_fee.php on line 37
+2017-05-20 14:26:39 - PHP Notice:  Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'AND session_year ='2017-18'' at line 1<br />Error No: 1064<br />SELECT f.fee_breakup_id, f.fee_breakup_name, fs.fee, fs.frequency FROM fee_structure AS fs LEFT JOIN fee_breakup AS f ON (f.fee_breakup_id = fs.fee_breakup_id) WHERE fs.course_id =  AND session_year ='2017-18' in F:\xampp\htdocs\jinisms\database\mysqliz.php on line 50
+2017-05-20 14:27:01 - PHP Notice:  Undefined index: course_id in F:\xampp\htdocs\jinisms\pay_fee.php on line 37
+2017-05-20 14:27:01 - PHP Notice:  Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'AND session_year ='2017-18'' at line 1<br />Error No: 1064<br />SELECT f.fee_breakup_id, f.fee_breakup_name, fs.fee, fs.frequency FROM fee_structure AS fs LEFT JOIN fee_breakup AS f ON (f.fee_breakup_id = fs.fee_breakup_id) WHERE fs.course_id =  AND session_year ='2017-18' in F:\xampp\htdocs\jinisms\database\mysqliz.php on line 50
+2017-05-20 14:27:10 - PHP Notice:  Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'AND session_year ='2017-18'' at line 1<br />Error No: 1064<br />SELECT f.fee_breakup_id, f.fee_breakup_name, fs.fee, fs.frequency FROM fee_structure AS fs LEFT JOIN fee_breakup AS f ON (f.fee_breakup_id = fs.fee_breakup_id) WHERE fs.course_id =  AND session_year ='2017-18' in F:\xampp\htdocs\jinisms\database\mysqliz.php on line 50
+2017-05-20 14:31:42 - PHP Notice:  Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'AND session_year ='2017-18'' at line 1<br />Error No: 1064<br />SELECT f.fee_breakup_id, f.fee_breakup_name, fs.fee, fs.frequency FROM fee_structure AS fs LEFT JOIN fee_breakup AS f ON (f.fee_breakup_id = fs.fee_breakup_id) WHERE fs.course_id =  AND session_year ='2017-18' in F:\xampp\htdocs\jinisms\database\mysqliz.php on line 50
+2017-05-20 14:33:18 - PHP Notice:  Error: Unknown column 'fs.course_code' in 'where clause'<br />Error No: 1054<br />SELECT f.fee_breakup_id, f.fee_breakup_name, fs.fee, fs.frequency FROM fee_structure AS fs LEFT JOIN fee_breakup AS f ON (f.fee_breakup_id = fs.fee_breakup_id) WHERE fs.course_code = JNI01 AND session_year ='2017-18' in F:\xampp\htdocs\jinisms\database\mysqliz.php on line 50
+2017-05-20 14:36:20 - PHP Notice:  Error: Unknown column 'course_id' in 'field list'<br />Error No: 1054<br />SELECT course_id FROM fee_breakup WHERE course_code = 'JNI01' in F:\xampp\htdocs\jinisms\database\mysqliz.php on line 50
+2017-05-20 14:36:32 - PHP Notice:  Error: Unknown column 'fs.course_code' in 'where clause'<br />Error No: 1054<br />SELECT f.fee_breakup_id, f.fee_breakup_name, fs.fee, fs.frequency FROM fee_structure AS fs LEFT JOIN fee_breakup AS f ON (f.fee_breakup_id = fs.fee_breakup_id) WHERE fs.course_code = JNI01 AND session_year ='2017-18' in F:\xampp\htdocs\jinisms\database\mysqliz.php on line 50
+2017-05-20 14:36:45 - PHP Notice:  Array to string conversion in F:\xampp\htdocs\jinisms\class\class.inc.php on line 1318
+2017-05-20 14:36:45 - PHP Notice:  Error: Unknown column 'fs.course_code' in 'where clause'<br />Error No: 1054<br />SELECT f.fee_breakup_id, f.fee_breakup_name, fs.fee, fs.frequency FROM fee_structure AS fs LEFT JOIN fee_breakup AS f ON (f.fee_breakup_id = fs.fee_breakup_id) WHERE fs.course_code = Array AND session_year ='2017-18' in F:\xampp\htdocs\jinisms\database\mysqliz.php on line 50
+2017-05-20 14:37:06 - PHP Notice:  Array to string conversion in F:\xampp\htdocs\jinisms\class\class.inc.php on line 1318
+2017-05-20 14:37:06 - PHP Notice:  Error: Unknown column 'Array' in 'where clause'<br />Error No: 1054<br />SELECT f.fee_breakup_id, f.fee_breakup_name, fs.fee, fs.frequency FROM fee_structure AS fs LEFT JOIN fee_breakup AS f ON (f.fee_breakup_id = fs.fee_breakup_id) WHERE fs.course_id = Array AND session_year ='2017-18' in F:\xampp\htdocs\jinisms\database\mysqliz.php on line 50
+2017-05-20 14:37:08 - PHP Notice:  Array to string conversion in F:\xampp\htdocs\jinisms\class\class.inc.php on line 1318
+2017-05-20 14:37:08 - PHP Notice:  Error: Unknown column 'Array' in 'where clause'<br />Error No: 1054<br />SELECT f.fee_breakup_id, f.fee_breakup_name, fs.fee, fs.frequency FROM fee_structure AS fs LEFT JOIN fee_breakup AS f ON (f.fee_breakup_id = fs.fee_breakup_id) WHERE fs.course_id = Array AND session_year ='2017-18' in F:\xampp\htdocs\jinisms\database\mysqliz.php on line 50
+2017-05-20 14:37:57 - PHP Warning:  Illegal string offset 'frequency' in F:\xampp\htdocs\jinisms\pay_fee.php on line 324
+2017-05-20 14:37:57 - PHP Warning:  Illegal string offset 'fee' in F:\xampp\htdocs\jinisms\pay_fee.php on line 324
+2017-05-20 14:37:57 - PHP Warning:  Illegal string offset 'frequency' in F:\xampp\htdocs\jinisms\pay_fee.php on line 324
+2017-05-20 14:37:57 - PHP Warning:  Illegal string offset 'fee' in F:\xampp\htdocs\jinisms\pay_fee.php on line 324
+2017-05-20 14:37:57 - PHP Warning:  Illegal string offset 'frequency' in F:\xampp\htdocs\jinisms\pay_fee.php on line 324
+2017-05-20 14:37:57 - PHP Warning:  Illegal string offset 'fee' in F:\xampp\htdocs\jinisms\pay_fee.php on line 324
+2017-05-20 14:37:57 - PHP Warning:  Illegal string offset 'frequency' in F:\xampp\htdocs\jinisms\pay_fee.php on line 324
+2017-05-20 14:37:57 - PHP Warning:  Illegal string offset 'fee' in F:\xampp\htdocs\jinisms\pay_fee.php on line 324
+2017-05-20 14:37:57 - PHP Notice:  Array to string conversion in F:\xampp\htdocs\jinisms\pay_fee.php on line 452
+2017-05-20 14:38:33 - PHP Notice:  Array to string conversion in F:\xampp\htdocs\jinisms\pay_fee.php on line 452
+2017-05-20 14:39:28 - PHP Notice:  Array to string conversion in F:\xampp\htdocs\jinisms\pay_fee.php on line 452
+2017-05-20 14:41:38 - PHP Notice:  Undefined variable: course_code in F:\xampp\htdocs\jinisms\pay_fee.php on line 164
+2017-05-20 14:41:38 - PHP Notice:  Array to string conversion in F:\xampp\htdocs\jinisms\pay_fee.php on line 452
+2017-05-20 14:43:51 - PHP Notice:  Undefined index: course_code in F:\xampp\htdocs\jinisms\pay_fee.php on line 98
+2017-05-20 14:45:47 - PHP Notice:  Undefined index: course_code in F:\xampp\htdocs\jinisms\pay_fee.php on line 59
+2017-05-20 14:46:12 - PHP Notice:  Array to string conversion in F:\xampp\htdocs\jinisms\pay_fee.php on line 454
+2017-05-20 14:46:13 - PHP Notice:  Array to string conversion in F:\xampp\htdocs\jinisms\pay_fee.php on line 454
+2017-05-20 15:10:23 - PHP Notice:  Array to string conversion in F:\xampp\htdocs\jinisms\pay_fee.php on line 459
+2017-05-20 15:12:25 - PHP Notice:  Array to string conversion in F:\xampp\htdocs\jinisms\pay_fee.php on line 464
+2017-05-20 15:12:41 - PHP Notice:  Array to string conversion in F:\xampp\htdocs\jinisms\pay_fee.php on line 465
+2017-05-22 14:18:05 - PHP Notice:  Error: Unknown column 'course_id' in 'field list'<br />Error No: 1054<br />INSERT INTO fee SET  student_id = '1',
+		recipt_no ='1075', 
+		course_id ='1', 
+		fee_amount = '1800', 
+		concession = '0', 
+		late_fee ='0', 
+		payable_amount = '1800', 
+		paid_amount = '1800', 
+		due = '0', 
+		month_of = '05', 
+		month_of_2 = '06', 
+		add_date = now() in F:\xampp\htdocs\jinisms\database\mysqliz.php on line 50
+2017-05-22 14:34:56 - PHP Notice:  Error: Unknown column 'course_code' in 'where clause'<br />Error No: 1054<br />SELECT month_of, month_of_2 FROM fee WHERE student_id = '1' AND course_code = '1' in F:\xampp\htdocs\jinisms\database\mysqliz.php on line 50
+2017-05-22 14:36:26 - PHP Notice:  Error: Unknown column 's.course_id' in 'field list'<br />Error No: 1054<br />SELECT s.student_id, f.due, f.month_of, f.recipt_no, f.payable_amount, f.paid_amount, f.month_of, f.month_of_2, ct.cota_id,ct.cota_name, sc.name, s.add_date, s.section_id, s.registration_no, s.first_name, s.last_name, s.middle_name, s.father_name, s.category, s.course_id , c.course_name FROM fee AS f LEFT JOIN student AS s ON (s.student_id = f.student_id) LEFT JOIN cota AS ct ON (s.cota_id = ct.cota_id) LEFT JOIN section AS sc ON (s.section_id = sc.section_id) LEFT JOIN course AS c ON (s.course_id = c.course_id) WHERE f.fee_id = 5 in F:\xampp\htdocs\jinisms\database\mysqliz.php on line 50
+2017-05-22 14:36:32 - PHP Notice:  Error: Unknown column 's.course_id' in 'field list'<br />Error No: 1054<br />SELECT s.student_id, f.due, f.month_of, f.recipt_no, f.payable_amount, f.paid_amount, f.month_of, f.month_of_2, ct.cota_id,ct.cota_name, sc.name, s.add_date, s.section_id, s.registration_no, s.first_name, s.last_name, s.middle_name, s.father_name, s.category, s.course_id , c.course_name FROM fee AS f LEFT JOIN student AS s ON (s.student_id = f.student_id) LEFT JOIN cota AS ct ON (s.cota_id = ct.cota_id) LEFT JOIN section AS sc ON (s.section_id = sc.section_id) LEFT JOIN course AS c ON (s.course_id = c.course_id) WHERE f.fee_id = 5 in F:\xampp\htdocs\jinisms\database\mysqliz.php on line 50
+2017-05-22 14:43:45 - PHP Notice:  Error: Unknown column 's.course_id' in 'field list'<br />Error No: 1054<br />SELECT s.student_id, f.due, f.month_of, f.recipt_no, f.payable_amount, f.paid_amount, f.month_of, f.month_of_2, ct.cota_id,ct.cota_name, sc.name, s.add_date, s.section_id, s.registration_no, s.first_name, s.last_name, s.middle_name, s.father_name, s.category, s.course_id , c.course_name FROM fee AS f LEFT JOIN student AS s ON (s.student_id = f.student_id) LEFT JOIN cota AS ct ON (s.cota_id = ct.cota_id) LEFT JOIN section AS sc ON (s.section_id = sc.section_id) LEFT JOIN course AS c ON (s.course_id = c.course_id) WHERE f.fee_id = 5 in F:\xampp\htdocs\jinisms\database\mysqliz.php on line 50
+2017-05-22 14:46:13 - PHP Notice:  Error: Unknown column 's.course_id' in 'field list'<br />Error No: 1054<br />SELECT s.student_id, f.due, f.month_of, f.recipt_no, f.payable_amount, f.paid_amount, f.month_of, f.month_of_2, ct.cota_id,ct.cota_name, sc.name, s.add_date, s.section_id, s.registration_no, s.first_name, s.last_name, s.middle_name, s.father_name, s.category, s.course_id , c.course_name FROM fee AS f LEFT JOIN student AS s ON (s.student_id = f.student_id) LEFT JOIN cota AS ct ON (s.cota_id = ct.cota_id) LEFT JOIN section AS sc ON (s.section_id = sc.section_id) LEFT JOIN course AS c ON (s.course_id = c.course_id) WHERE f.fee_id = 5 in F:\xampp\htdocs\jinisms\database\mysqliz.php on line 50
+2017-05-22 14:49:12 - PHP Notice:  Undefined index: course_id in F:\xampp\htdocs\jinisms\fee_reciept.php on line 33
+2017-05-22 14:49:27 - PHP Notice:  Error: Unknown column 'course_id' in 'where clause'<br />Error No: 1054<br />SELECT month_of, month_of_2 FROM fee WHERE student_id = '1' AND course_id = '' in F:\xampp\htdocs\jinisms\database\mysqliz.php on line 50
+2017-05-22 14:49:29 - PHP Notice:  Error: Unknown column 'course_id' in 'where clause'<br />Error No: 1054<br />SELECT month_of, month_of_2 FROM fee WHERE student_id = '1' AND course_id = '' in F:\xampp\htdocs\jinisms\database\mysqliz.php on line 50
+2017-05-22 14:50:36 - PHP Notice:  Error: Unknown column 'course_id' in 'where clause'<br />Error No: 1054<br />SELECT month_of, month_of_2 FROM fee WHERE student_id = '1' AND course_id = '' in F:\xampp\htdocs\jinisms\database\mysqliz.php on line 50
+2017-05-22 14:51:13 - PHP Notice:  Error: Unknown column 'course_id' in 'field list'<br />Error No: 1054<br />INSERT INTO fee SET  student_id = '1',
+		recipt_no ='1076', 
+		course_id ='1', 
+		fee_amount = '1800', 
+		concession = '0', 
+		late_fee ='0', 
+		payable_amount = '1800', 
+		paid_amount = '1800', 
+		due = '0', 
+		month_of = '05', 
+		month_of_2 = '06', 
+		add_date = now() in F:\xampp\htdocs\jinisms\database\mysqliz.php on line 50
+2017-05-22 15:03:48 - PHP Notice:  Error: Unknown column 'course_id' in 'field list'<br />Error No: 1054<br />INSERT INTO fee SET  student_id = '1',
+		recipt_no ='1076', 
+		course_id ='1', 
+		fee_amount = '1800', 
+		concession = '0', 
+		late_fee ='0', 
+		payable_amount = '1800', 
+		paid_amount = '1800', 
+		due = '0', 
+		month_of = '05', 
+		month_of_2 = '06', 
+		add_date = now() in F:\xampp\htdocs\jinisms\database\mysqliz.php on line 50
+2017-05-22 15:24:38 - PHP Notice:  Undefined index: course_id in F:\xampp\htdocs\jinisms\fee_reciept.php on line 33
+2017-05-22 15:33:37 - PHP Notice:  Undefined index: course_code in F:\xampp\htdocs\jinisms\class\class.inc.php on line 667
+2017-05-22 15:33:37 - PHP Notice:  Undefined index: course_id in F:\xampp\htdocs\jinisms\fee_reciept.php on line 33
+2017-05-22 15:37:50 - PHP Notice:  Undefined index: course_id in F:\xampp\htdocs\jinisms\fee_reciept.php on line 33
+2017-05-22 15:38:18 - PHP Notice:  Undefined index: course_id in F:\xampp\htdocs\jinisms\fee_reciept.php on line 33
+2017-05-22 15:40:46 - PHP Notice:  Undefined index: course_id in F:\xampp\htdocs\jinisms\fee_reciept.php on line 33
+2017-05-22 16:00:52 - PHP Notice:  Undefined index: course_id in F:\xampp\htdocs\jinisms\fee_reciept.php on line 33
+2017-05-22 16:00:56 - PHP Notice:  Undefined index: course_id in F:\xampp\htdocs\jinisms\fee_reciept.php on line 33
+2017-05-22 16:41:15 - PHP Notice:  Error: Unknown column 'f.course_id' in 'on clause'<br />Error No: 1054<br />SELECT s.registration_no, c.course_name, f.due, f.month_of, f.month_of_2, f.fee_id, f.fee_amount, f.recipt_no, f.payable_amount, f.paid_amount, f.add_date FROM fee AS f LEFT JOIN course AS c ON (c.course_id = f.course_id) LEFT JOIN student AS s ON (f.student_id = s.student_id) WHERE f.add_date BETWEEN '2017-05-01' AND '2017-05-09' ORDER BY f.fee_id DESC LIMIT 0,5 in F:\xampp\htdocs\jinisms\database\mysqliz.php on line 50
+2017-05-22 16:41:27 - PHP Notice:  Error: Unknown column 'f.course_id' in 'on clause'<br />Error No: 1054<br />SELECT s.registration_no, c.course_name, f.due, f.month_of, f.month_of_2, f.fee_id, f.fee_amount, f.recipt_no, f.payable_amount, f.paid_amount, f.add_date FROM fee AS f LEFT JOIN course AS c ON (c.course_id = f.course_id) LEFT JOIN student AS s ON (f.student_id = s.student_id) WHERE f.add_date BETWEEN '2017-01-01' AND '2017-05-09' ORDER BY f.fee_id DESC LIMIT 0,5 in F:\xampp\htdocs\jinisms\database\mysqliz.php on line 50
+2017-05-22 16:41:39 - PHP Notice:  Error: Unknown column 'f.course_id' in 'on clause'<br />Error No: 1054<br />SELECT s.registration_no, c.course_name, f.due, f.month_of, f.month_of_2, f.fee_id, f.fee_amount, f.recipt_no, f.payable_amount, f.paid_amount, f.add_date FROM fee AS f LEFT JOIN course AS c ON (c.course_id = f.course_id) LEFT JOIN student AS s ON (f.student_id = s.student_id) WHERE f.add_date BETWEEN '2017-01-01' AND '2017-12-31' ORDER BY f.fee_id DESC LIMIT 0,5 in F:\xampp\htdocs\jinisms\database\mysqliz.php on line 50
+2017-05-22 16:41:51 - PHP Notice:  Error: Unknown column 'f.course_id' in 'on clause'<br />Error No: 1054<br />SELECT s.registration_no, c.course_name, f.due, f.month_of, f.month_of_2, f.fee_id, f.fee_amount, f.recipt_no, f.payable_amount, f.paid_amount, f.add_date FROM fee AS f LEFT JOIN course AS c ON (c.course_id = f.course_id) LEFT JOIN student AS s ON (f.student_id = s.student_id) WHERE f.add_date BETWEEN '2017-01-01' AND '2017-12-31' ORDER BY f.fee_id DESC LIMIT 0,5 in F:\xampp\htdocs\jinisms\database\mysqliz.php on line 50
+2017-05-23 10:53:48 - PHP Notice:  Error: Unknown column 'f.course_id' in 'on clause'<br />Error No: 1054<br />SELECT s.registration_no, c.course_name, f.due, f.month_of, f.month_of_2, f.fee_id, f.fee_amount, f.recipt_no, f.payable_amount, f.paid_amount, f.add_date FROM fee AS f LEFT JOIN course AS c ON (c.course_id = f.course_id) LEFT JOIN student AS s ON (f.student_id = s.student_id) WHERE f.add_date BETWEEN '2017-05-01' AND '2017-12-31' ORDER BY f.fee_id DESC in F:\xampp\htdocs\jinisms\database\mysqliz.php on line 50
+2017-05-23 11:57:52 - PHP Notice:  Undefined variable: disabled in F:\xampp\htdocs\jinisms\student_profile.php on line 208
+2017-05-23 12:00:14 - PHP Notice:  Undefined variable: disabled in F:\xampp\htdocs\jinisms\student_profile.php on line 210
+2017-05-23 12:00:17 - PHP Notice:  Undefined variable: disabled in F:\xampp\htdocs\jinisms\student_profile.php on line 210
+2017-05-23 15:49:32 - PHP Notice:  Undefined variable: tc_link in F:\xampp\htdocs\jinisms\student_tc.php on line 205
+2017-05-23 15:49:32 - PHP Notice:  Undefined variable: disabled in F:\xampp\htdocs\jinisms\student_tc.php on line 205
+2017-05-23 15:50:41 - PHP Notice:  Undefined variable: tc_link in F:\xampp\htdocs\jinisms\student_tc.php on line 205
+2017-05-23 15:50:41 - PHP Notice:  Undefined variable: disabled in F:\xampp\htdocs\jinisms\student_tc.php on line 205
+2017-05-23 15:51:01 - PHP Notice:  Undefined variable: tc_link in F:\xampp\htdocs\jinisms\student_tc.php on line 205
+2017-05-23 15:51:01 - PHP Notice:  Undefined variable: disabled in F:\xampp\htdocs\jinisms\student_tc.php on line 205
+2019-09-30 18:19:44 - PHP Notice:  Error: Table 'jinisms.admin_user' doesn't exist<br />Error No: 1146<br />SELECT u.*,g.permission, TO_DAYS(NOW()) - TO_DAYS(u.last_pwd_changed) AS total_days, g.group_name AS group_name FROM admin_user u JOIN admin_user_group g ON(g.user_group_id=u.user_group_id) WHERE BINARY u.username = 'admin' AND u.password = '1bbd886460827015e5d605ed44252251' AND u.salt = 'a642a77ab' AND u.status = '1' in E:\xampp\htdocs\jinisms\database\mysqliz.php on line 50
